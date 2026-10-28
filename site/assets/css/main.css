@@ -495,6 +495,8 @@ a { text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
 .ep-form .form-control:focus, .ep-form .form-select:focus {
   border-color: var(--ep-teal); box-shadow: 0 0 0 .25rem rgba(140,198,63,.35);
 }
+.ep-form .form-control[type="file"] { line-height: 2; }
+.ep-form .form-text { font-size: .875rem; color: var(--ep-texto-2); }
 .ep-form .invalid-feedback { font-size: .875rem; }
 .ep-form__nota { font-size: .875rem; color: var(--ep-texto-2); margin: 0; }
 .ep-armadilha { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }

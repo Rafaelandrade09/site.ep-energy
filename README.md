@@ -58,6 +58,10 @@ que esconde o e-mail do código-fonte. Para usá-lo, troque `FORM_ENDPOINT` em `
 
 Se o envio falhar (sem internet, serviço fora do ar), o formulário mostra o erro e oferece WhatsApp e e-mail direto.
 
+**Projeto para análise (anexo opcional):** o formulário aceita um arquivo de até 5 MB (PDF, DWG, DXF, imagem, planilha
+ou ZIP). Por e-mail, ele segue como anexo pelo FormSubmit. Pelo WhatsApp não é possível anexar via link, então a mensagem
+cita o nome do arquivo e o site orienta o visitante a anexá-lo na conversa pelo clipe.
+
 ## Produtos
 
 Textos, fichas técnicas e fotos vieram dos sites e catálogos PDF do Grupo GIMI. Cada ficha informa o fabricante e
