@@ -1,0 +1,1117 @@
+{
+  "fabricante": "GIMI Bonomi",
+  "site": "https://www.gimibonomi.com.br/",
+  "produtos": [
+    {
+      "slug": "gb-ring-sf6-free",
+      "nome": "GB-RING SF6 FREE",
+      "linha_categoria": "Cubículo Blindado - Tipo RMU (Linha GB-RING SF6 | SF6 FREE)",
+      "url_origem": "https://www.gimibonomi.com.br/gb-ring",
+      "resumo": "A GB-RING SF6-FREE é o novo painel desenvolvido pela GIMI BONOMI LATIN AMERICA para redes de distribuição secundária, onde é necessária uma solução livre de gás SF6.",
+      "descricao": [
+        "Conjunto de manobra e comando de distribuição secundária integralmente em SF6 ou SF6 FREE, de tensão até 36KV, desenvolvidos para atender as mais diversas aplicações, desde ambientes industriais até parques de geração eólica e fotovoltaica, além de distribuição de energia no conceito Smart Grid.",
+        "A GB-RING SF6-FREE é o novo painel desenvolvido pela GIMI BONOMI LATIN AMERICA para redes de distribuição secundária, onde é necessária uma solução livre de gás SF6.",
+        "O novo painel utiliza a tecnologia de gás DRY AIR (Ar seco) para o isolamento e, graças às características dessa nova mistura de gás, alcança-se um Potencial de Aquecimento Global (GWP) igual a zero.",
+        "A parte interruptora é confiada a um sistema de ampolas em vácuo que, juntamente com um seccionador de três posições, garante um poder de interrupção e isolamento necessário para este tipo de aparelhagem.",
+        "O novo dispositivo é baseado na plataforma SF6, oferecendo a mesma interface do usuário, o mesmo tamanho, as mesmas peças de reposição e o mesmo funcionamento.",
+        "O quadro é um sistema completamente selado com um tanque de aço inoxidável que contém todas as partes ativas e as funções de comutação. Um tanque de aço inoxidável garante um alto nível de confiabilidade, a segurança do pessoal e um sistema livre de manutenção."
+      ],
+      "caracteristicas": [
+        "Índice GWP igual a zero;",
+        "Compartimento selado de todas as partes ativas;",
+        "Dimensões compatíveis com a versão com isolamento em SF6;",
+        "Disponível com tecnologia e sensores acopláveis aos dispositivos de proteção;",
+        "Garantia."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "CARACTERÍSTICAS TÉCNICAS (catálogo GB-RING p.20)",
+          "itens": [
+            {
+              "nome": "Isolamento",
+              "valor": "em ar seco para redes de até 17,5 kV;"
+            },
+            {
+              "nome": "Isolação",
+              "valor": "ar seco, sem vapor de água e CO2;"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "de até 630 A;"
+            },
+            {
+              "nome": "Corrente suportável de curto-circuito",
+              "valor": "de 21 kA;"
+            },
+            {
+              "nome": "Design",
+              "valor": "Extremamente Compacto com baixo volume e peso físico reduzido;"
+            },
+            {
+              "nome": "Altura",
+              "valor": "1.646 mm;"
+            },
+            {
+              "nome": "Condições ambientais",
+              "valor": "Independente das condições ambientais;"
+            },
+            {
+              "nome": "Manutenção",
+              "valor": "Solução isenta de manutenção;"
+            },
+            {
+              "nome": "Sensores",
+              "valor": "Sensores inteligentes de tensão e corrente."
+            }
+          ]
+        },
+        {
+          "grupo": "Características técnicas – LINHA GB RING FREE TIPO RMU (folder Grupo GIMI)",
+          "itens": [
+            {
+              "nome": "Cubículo",
+              "valor": "17,5kV e 24kV;"
+            },
+            {
+              "nome": "Altura",
+              "valor": "1.646mm;"
+            },
+            {
+              "nome": "Isolação",
+              "valor": "ar seco, sem vapor de água e CO2 livre de SF6;"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "até 630 A;"
+            },
+            {
+              "nome": "Corrente suportável de curto-circuito",
+              "valor": "21kA/1s;"
+            },
+            {
+              "nome": "Design",
+              "valor": "compacto e de baixo peso físico;"
+            },
+            {
+              "nome": "Manutenção",
+              "valor": "Solução livre de manutenção;"
+            },
+            {
+              "nome": "Sensores",
+              "valor": "Sensores inteligentes de tensão e corrente;"
+            },
+            {
+              "nome": "Norma",
+              "valor": "Em conformidade com a NBR - IEC - 62271-200."
+            }
+          ]
+        },
+        {
+          "grupo": "UNIDADES - DIMENSÕES - PESOS – SF6 FREE (catálogo GB-RING p.12)",
+          "itens": [
+            {
+              "nome": "17,5 kV – Altura (MM)",
+              "valor": "1646"
+            },
+            {
+              "nome": "17,5 kV – Largura (MM)",
+              "valor": "450 500"
+            },
+            {
+              "nome": "17,5 kV – Profundidade (MM)",
+              "valor": "836,5"
+            },
+            {
+              "nome": "17,5 kV – Peso (KG)",
+              "valor": "250"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "para redes de distribuição secundária, onde é necessária uma solução livre de gás SF6.",
+        "desde ambientes industriais até parques de geração eólica e fotovoltaica, além de distribuição de energia no conceito Smart Grid."
+      ],
+      "normas": [
+        "NBR - IEC - 62271-200"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e7b0a43a36704aa6994f8a72e6c2d42f.pdf",
+      "imagens": [
+        {
+          "arquivo": "gb-ring-sf6-free-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_1509c71ba73948dd8203868edef43b34~mv2.png",
+          "alt": "Cubículo GB-RING SF6 FREE em gabinete azul e inox, vista frontal em perspectiva (miniatura com moldura azul do site)",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "gb-ring-sf6-free-2.png",
+          "origem": "Catálogo GB-RING PDF p.19 (recorte)",
+          "alt": "Cubículo GB-RING SF6 FREE, painel frontal azul com mecanismo de comando e porta do compartimento de cabos",
+          "tipo": "produto"
+        }
+      ],
+      "observacoes": "Não há página própria no site: a home leva o card 'GB-RING SF6 FREE' (texto do card: 'Corrente nominal: até 630 A...') para /gb-ring, que só tem o título 'Linha GB-RING SF6 | SF6 FREE', o subtítulo 'Cubículo Blindado - Tipo RMU' e um parágrafo. O conteúdo vem do catálogo GB-RING (Rev. 03, PDF só com imagens, transcrito visualmente) p.19-20 e p.12, e do folder geral do Grupo GIMI (https://www.grupogimi.com.br/_files/ugd/60c632_49fd8cd807884f5581444359ae4e44e2.pdf, PDF com texto). Divergência: o catálogo diz 'redes de até 17,5 kV' e a tabela SF6 FREE só traz a linha 17,5 kV; o folder diz 'Cubículo 17,5kV e 24kV'. Na lista de benefícios o PDF quebra 'Dimensões compatíveis com a versão com / isolamento em SF6' em dois marcadores; foi unido. A miniatura do site tem só 293x335 px (original); a foto do PDF tem melhor resolução."
+    },
+    {
+      "slug": "gb-ring",
+      "nome": "GB-RING",
+      "linha_categoria": "Cubículo Blindado - Tipo RMU (Linha GB-RING SF6 | SF6 FREE)",
+      "url_origem": "https://www.gimibonomi.com.br/gb-ring",
+      "resumo": "Conjunto de manobra e comando de distribuição secundária integralmente em SF6 ou SF6 FREE, de tensão até 36KV, desenvolvidos para atender as mais diversas aplicações, desde ambientes industriais até parques de geração eólica e fotovoltaica, além de distribuição de energia no conceito Smart Grid.",
+      "descricao": [
+        "Conjunto de manobra e comando de distribuição secundária integralmente em SF6 ou SF6 FREE, de tensão até 36KV, desenvolvidos para atender as mais diversas aplicações, desde ambientes industriais até parques de geração eólica e fotovoltaica, além de distribuição de energia no conceito Smart Grid.",
+        "Cubículos integralmente isolados em SF6 até 36kV",
+        "A nova série de RMU da Gimi Bonomi Latin America foi projetada para satisfazer a todas as exigências de distribuição secundária de média tensão até 36 kV.",
+        "Desenvolvemos quadros com isolamento a gás ideais para uma ampla variedade de aplicações, desde diferentes requisitos industriais até a geração e distribuição de energia.",
+        "MECANISMO DE FUNCIONAMENTO: O mecanismo é composto por uma alavanca de comando que permite mover nas três posições: aberto/fechado/terra, e por um seletor utilizado para a seleção das posições aberto/fechado.",
+        "O mecanismo incorpora bloqueios mecânicos e cadeados para melhorar a segurança operacional. Não sendo possível fechar simultaneamente o interruptor (IMS) e a seccionadora de terra.",
+        "O MECANISMO ANTIRREFLEXO possibilita um tempo suficiente ao interruptor principal (montante) para intervir e eliminar uma falha.",
+        "RESISTÊNCIA AO ARCO INTERNO: As cubas de aço inoxidável isoladas com gás SF6 são completamente resistentes ao arco interno de forma a garantir a máxima segurança do operador em caso de falhas internas.",
+        "INDICADOR DE PRESSÃO DO GÁS: Um indicador de pressão do gás tem setores verdes e vermelhos para indicar a pressão mínima admissível para um funcionamento seguro; Um alarme à distância opcional de pressão do gás pode ser eventualmente adicionado para avisar o operador caso essa pressão desça abaixo do limite operacional admissível; O manômetro compensado em temperatura está disponível como opcional.",
+        "LIGAÇÃO A TERRA E TESTE: A ligação à terra dos cabos e verificação é uma função do IMS utilizada para testar o isolamento dos cabos e para localizar as falhas no circuito sem que seja necessário remover os cabos principais do seu compartimento, melhorando a segurança do operador. O painel de acesso para a prova dos cabos fica completamente bloqueado e não pode ser aberto até que o IMS esteja na posição de ligação à terra.",
+        "COMPARTIMENTO DOS CABOS: Para uma maior segurança do operador, os compartimentos dos cabos são ligados à terra e ficam completamente bloqueados, permitindo o acesso do operador somente se o IMS estiver na posição Terra.",
+        "PONTO DE LIGAÇÃO À TERRA NO COMPARTIMENTO DOS CABOS (OPCIONAL): Um ponto de terra é fixado no interior do compartimento dos cabos, situado no fundo da unidade. É utilizado para a conexão ao sistema de ligação à terra principal.",
+        "CARACTERÍSTICAS GERAIS E NORMAS DE REFERÊNCIA: Os quadros RMU da Gimi Bonomi Latin America, isolados a gás SF6, permitem a conexão, a alimentação e a proteção dos transformadores para redes em anel abertas ou radiais.",
+        "A proteção dos transformadores pode ser obtida: Com uma combinação de fusíveis e IMS para transformadores até 2.000 kVA. Através de um disjuntor com um relé de proteção para transformadores até 8.000 kVA.",
+        "Graças a uma proteção de linha com interruptores de 630A, na comutação de rede por meio de disjuntores e com dispositivos integrados de controle remoto da alimentação, os nossos RMU’s permitem diferentes conexões.",
+        "GIMI BONOMI tem Câmara de Manobra homologada pela Neoenergia – GB RING, referência em segurança e eficiência para média tensão, agora integra o portfólio de soluções homologadas por uma das maiores distribuidoras do país (notícia na home do site).",
+        "Projetado para atender às demandas de usinas fotovoltaicas, eólicas, subestações e grandes indústrias, o GB RING oferece: seccionamento seguro e confiável; proteção avançada através de disjuntores e fusíveis; controle inteligente com possibilidade de operação remota; instalação rápida e eficiente, mesmo em ambientes de alta exigência."
+      ],
+      "caracteristicas": [
+        "SEGURANÇA: Resistente ao arco interno AFL;",
+        "Todas as peças sob tensão estão alojadas em um reservatório de gás com fechamento hermético selado para a vida;",
+        "Bloqueios mecânicos/elétricos para evitar operações indevidas;",
+        "Indicadores de presença de tensão.",
+        "CONFIABILIDADE: Isolamento completo com vedação por toda a vida útil;",
+        "Teste de rotina de fábrica em 100% das unidades;",
+        "Todos os ensaios de tipo em conformidade com as mais rigorosas exigências mundiais.",
+        "EFICIÊNCIA: Design modular extensível em ambos os lados;",
+        "Fácil acesso frontal para a instalação e testes;",
+        "Cabos e fusíveis de média tensão;",
+        "Tamanho compacto e leve.",
+        "DESIGN: 1 - Conexão de barramento; 2 - Reservatório de gás (cuba); 3 - Base; 4 - Compartimento de comando; 5 - Luzes indicadoras de presença de tensão; 6 - Compartimentos dos cabos."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "DADOS TÉCNICOS (catálogo p.9)",
+          "itens": [
+            {
+              "nome": "Invólucro",
+              "valor": "Invólucro de metal, barramento simples"
+            },
+            {
+              "nome": "Uso",
+              "valor": "Para uso interno ou externo (com uso de cobertura)"
+            },
+            {
+              "nome": "Temperatura ambiente",
+              "valor": "Padrão de – 15 °C a + 40 °C"
+            },
+            {
+              "nome": "Perda de continuidade do serviço",
+              "valor": "LSC 2B"
+            },
+            {
+              "nome": "Classe de compartimentação",
+              "valor": "PM"
+            },
+            {
+              "nome": "Frequência nominal",
+              "valor": "50/60 Hz"
+            }
+          ]
+        },
+        {
+          "grupo": "INTERRUPTOR DE MANOBRA SECCIONADOR (IMS) DE LINHA – 24 kV | 36 kV (catálogo p.10)",
+          "itens": [
+            {
+              "nome": "Tensão nominal – Ur (kV)",
+              "valor": "24 | 36"
+            },
+            {
+              "nome": "Tensão nominal de Impulso atmosférico da fase terra – Up (kV)",
+              "valor": "125 | 170"
+            },
+            {
+              "nome": "Tensão nominal de impulso atmosférico da distância de seccionamento – Up (kV)",
+              "valor": "145 | 195"
+            },
+            {
+              "nome": "Tensão nominal de isolamento à frequência industrial 1 min. – Ud (kV)",
+              "valor": "50 | 70"
+            },
+            {
+              "nome": "Tensão nominal de isolamento à frequência industrial 1 min. de distância do seccionamento – Ud (kV)",
+              "valor": "60 | 80"
+            },
+            {
+              "nome": "Frequência nominal – fr (Hz)",
+              "valor": "50/60 | 50/60"
+            },
+            {
+              "nome": "Corrente nominal em serviço contínuo – Ir (A)",
+              "valor": "630 | 630"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração – Ik (kA)",
+              "valor": "20 | 20"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável de curta duração – Ip (kA)",
+              "valor": "52 | 52"
+            },
+            {
+              "nome": "Duração do tempo de curto circuito – tk (s)",
+              "valor": "1 | 1"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP30 | IP30"
+            },
+            {
+              "nome": "Corrente de interrupção da carga ativa - Iload (A)",
+              "valor": "630 | 630"
+            },
+            {
+              "nome": "Corrente de interrupção a anel aberto - Iloop (A)",
+              "valor": "630 | 630"
+            },
+            {
+              "nome": "Corrente de interrupção da linha de vácuo - Ilc (A)",
+              "valor": "13 | 13"
+            },
+            {
+              "nome": "Corrente de interrupção dos cabos de vácuo - Icc (A)",
+              "valor": "40 | 40"
+            },
+            {
+              "nome": "Classe de operação mecânica",
+              "valor": "M1 | M1"
+            },
+            {
+              "nome": "Classe de operação elétrica",
+              "valor": "E3 | E3"
+            },
+            {
+              "nome": "Capacidade de fechamento em curto-circuito (making) (kA)",
+              "valor": "52 | 52"
+            },
+            {
+              "nome": "Proteção ao arco interno – IAC (kA)",
+              "valor": "20 | 20"
+            },
+            {
+              "nome": "Duração do arco interno (s)",
+              "valor": "1 | 1"
+            }
+          ]
+        },
+        {
+          "grupo": "CARACTERÍSTICAS DO DISJUNTOR EM VÁCUO INTEGRADO (I) – 24 | 36 kVrms (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "Corrente de curta duração 1 seg. (kArms/peak)",
+              "valor": "20 | 20"
+            },
+            {
+              "nome": "Poder de estabelecimento (kApeak)",
+              "valor": "50 | 50"
+            },
+            {
+              "nome": "Capacidade de interrupção – Carga ativa (A)",
+              "valor": "630 | 630"
+            },
+            {
+              "nome": "Capacidade de interrupção – Linhas a vácuo (A)",
+              "valor": "10 | 10"
+            },
+            {
+              "nome": "Capacidade de interrupção – Cabos a vácuo (A)",
+              "valor": "31,5 | 31,5"
+            },
+            {
+              "nome": "First pole to clear factor",
+              "valor": "1,5 | 1,5"
+            },
+            {
+              "nome": "Intervalo",
+              "valor": "< = 80ms | < = 80ms"
+            },
+            {
+              "nome": "Caracteristicas elétricas",
+              "valor": "E2-C2-S2 | E2"
+            },
+            {
+              "nome": "Sequência de manobra",
+              "valor": "O-0,3 seg-CO-30 15 seg-CO | O-0,3 seg-CO-30 15 seg-CO"
+            },
+            {
+              "nome": "Vida mecânica",
+              "valor": "10000-M2 | 2000-M1"
+            }
+          ]
+        },
+        {
+          "grupo": "SECCIONADORA DE TERRA DA LINHA ST1 – 24 | 36 kVrms (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "Corrente admissível de curta duração Ik (kA)",
+              "valor": "20 | 20"
+            },
+            {
+              "nome": "Valor de pico da corrente de curta duração Ip (kA)",
+              "valor": "52 | 52"
+            },
+            {
+              "nome": "Duração do tempo de curto circuito - tk (s)",
+              "valor": "1 | 1"
+            },
+            {
+              "nome": "Capacidade de fechamento em curto circuito (making) (kA)",
+              "valor": "52 | 52"
+            },
+            {
+              "nome": "Classe da operação mecânica",
+              "valor": "M0 | M0"
+            },
+            {
+              "nome": "Classe operação elétrica",
+              "valor": "E2 | E2"
+            }
+          ]
+        },
+        {
+          "grupo": "SECCIONADORA DE TERRA DE PROTEÇÃO DO TRANSFORMADOR ST2 – 24 | 36 kVrms (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "Corrente admissível de curta duração (kA)",
+              "valor": "1 | 1"
+            },
+            {
+              "nome": "Valor de pico da corrente de curta duração (kA)",
+              "valor": "2,6 | 2,6"
+            },
+            {
+              "nome": "Duração do tempo de curto circuito tk (s)",
+              "valor": "1 | 1"
+            },
+            {
+              "nome": "Capacidade de fechamento em curto circuito (making) (kA)",
+              "valor": "2,6 | 2,6"
+            },
+            {
+              "nome": "Classe da operação mecânica",
+              "valor": "M0 | M0"
+            },
+            {
+              "nome": "Classe da operação elétrica",
+              "valor": "E2 | E2"
+            }
+          ]
+        },
+        {
+          "grupo": "UNIDADES - DIMENSÕES - PESOS – Módulo: Altura / Largura / Profundidade (MM) / Peso (KG) (catálogo p.12)",
+          "itens": [
+            {
+              "nome": "Altura (todos os módulos SF6)",
+              "valor": "1666"
+            },
+            {
+              "nome": "Profundidade (todos os módulos SF6)",
+              "valor": "762,5 / 862,5"
+            },
+            {
+              "nome": "L 24kV / L 36kV",
+              "valor": "Largura 381 | Peso 180 / 190"
+            },
+            {
+              "nome": "I 24kV",
+              "valor": "Largura 450 | Peso 210"
+            },
+            {
+              "nome": "2I+1T 24kV",
+              "valor": "Largura 1450 | Peso 645"
+            },
+            {
+              "nome": "T 24kV / T 36kV",
+              "valor": "Largura 521 / 601 | Peso 236 / 266"
+            },
+            {
+              "nome": "2L+T 24kV / 2L+T 36kV",
+              "valor": "Largura 1271 / 1351 | Peso 513 / 540"
+            },
+            {
+              "nome": "2L+2T 36kV",
+              "valor": "Largura 1948 | Peso 780"
+            },
+            {
+              "nome": "3L+T 36kV",
+              "valor": "Largura 1726 | Peso 481"
+            },
+            {
+              "nome": "4L+T 36kV",
+              "valor": "Largura 2100 | Peso 720"
+            },
+            {
+              "nome": "3L 24kV",
+              "valor": "Largura 1130 | Peso 460"
+            },
+            {
+              "nome": "4L 24kV",
+              "valor": "Largura 1406 | Peso 610"
+            },
+            {
+              "nome": "I 36kV",
+              "valor": "Largura 500 | Peso 290"
+            }
+          ]
+        },
+        {
+          "grupo": "Unidades (catálogo p.13-18)",
+          "itens": [
+            {
+              "nome": "UNIDADE MODULAR DE ENTRADA E SAÍDA (LE)",
+              "valor": "A unidade de linha (L) é utilizada principalmente como uma unidade de chegada, a anel ou de derivação. A unidade padrão é provida de um IMS de 3 posições. O acesso ao cubículo dos cabos é possível com a IMS na posição “terra”. A unidade pode ser dotada de comando motorizado ou manual."
+            },
+            {
+              "nome": "UNIDADE MODULAR DE MANOBRA DE TRANSFORMADOR (T)",
+              "valor": "Unidade composta pelo módulo de proteção do transformador extensível em ambos os lados. O módulo do transformador (T) é utilizado quando for necessária uma unidade de seccionamento com proteção dos fusíveis. A unidade do transformador (T) pode ser equipada com bobina de abertura no IMS. Para a ligação à terra dos fusíveis, a seccionadora de terra integrada atua no lado a montante, enquanto uma seccionadora de terra adicional atua no lado a jusante dos fusíveis."
+            },
+            {
+              "nome": "UNIDADE DE PARTIDA/CHEGADA COM UNIDADE DE PROTEÇÃO DO TRAFO COM FUSÍVEIS (2L+T)",
+              "valor": "Unidade composta pelo módulo de proteção do transformador (T) e duas unidades de partida/chegada (L). (HOMOLOGADO ENEL)"
+            },
+            {
+              "nome": "UNIDADE DE PARTIDA/CHEGADA COM UNIDADE DE PROTEÇÃO DE TRANSFORMADOR COM FUSÍVEIS + EXTENSÃO LATERAL (2L+T)E",
+              "valor": "Unidade composta pelo módulo de proteção do transformador (T) e duas unidades de partida/chegada (L). Graças à conexão lateral, em ambos os lados, a unidade pode ser acoplada a outras unidades da família RMU."
+            },
+            {
+              "nome": "UNIDADE DE PARTIDA/CHEGADA COM UNIDADE DO INTERRUPTOR DE PROTEÇÃO DO TRAFO (2L+I)",
+              "valor": "Unidade composta por duas unidades de partida/chegada (L) e um módulo de proteção do transformador com disjuntor (I)."
+            },
+            {
+              "nome": "UNIDADE DO INTERRUPTOR MODULAR (IE)",
+              "valor": "A unidade individual de partida/chegada com disjuntor pode ser acoplada aos módulos individuais da família RMU como a unidade de linha e/ou a unidade de proteção do transformador compondo um arranjo elétrico em função das mais variadas exigências dos nossos clientes."
+            }
+          ]
+        },
+        {
+          "grupo": "Isoladores de passagem com sensor (ISCT 24I / ISCT 36I) – DADOS TÉCNICOS (catálogo p.21-25)",
+          "itens": [
+            {
+              "nome": "Tensão máx. Um",
+              "valor": "36kV"
+            },
+            {
+              "nome": "Nível de isolamento",
+              "valor": "24/50/125/170 kV"
+            },
+            {
+              "nome": "Frequência nominal",
+              "valor": "50/60"
+            },
+            {
+              "nome": "Sensor de tensão LPVT",
+              "valor": "Padrão aplicável IEC 61869-11; Tensão máx. Um: 36 kV; Tensão Primária Upr: 36/r3 kV; Relação de transformação Kr: 10.000:1; Classe de precisão: 0,5 / 1P; Dispositivo de carga nominal: ≥ 2 MΩ ≤ 50 pF; Fator de tensão nominal Fv: 1.9/8 h"
+            },
+            {
+              "nome": "Sensor de corrente LPCT",
+              "valor": "Padrão aplicável IEC 61869-10; Corrente nominal: 630A; Corrente primária: 500A; Relação de transformação Kr: 500A 150 mV @ 50 Hz 180 mV @ 60 Hz; Classe de precisão: 0,5 / 5P40; Dispositivo de carga nominal: ≥ 20 KΩ ≤ 500 pF; Fator de corrente primária extensível Kpcr: 40"
+            }
+          ]
+        },
+        {
+          "grupo": "Acessórios de junção (catálogo p.26-27)",
+          "itens": [
+            {
+              "nome": "SISTEMA DE JUNÇÃO",
+              "valor": "O nosso sistema completo permite a junção de dois quadros tipo RMU até 36kV e 630A. Ao cliente, é fornecido todo o material de instalação necessário, incluindo os contatos internos à junta com Icc de 20kA."
+            },
+            {
+              "nome": "BICONE COM FECHAMENTO E ANEL DE SEGURANÇA",
+              "valor": "Tensão máxima de operação Um (kV): 24/36 | Corrente nominal In (A): 630 | Icc (kA): 20 | Peso: -"
+            },
+            {
+              "nome": "TAMPA DE SILICONE",
+              "valor": "Tensão máxima de operação (kV): 24/36 | Peso: -"
+            }
+          ]
+        },
+        {
+          "grupo": "Características técnicas – LINHA GB RING TIPO RMU (folder Grupo GIMI)",
+          "itens": [
+            {
+              "nome": "Cubículo",
+              "valor": "24kV e 36kV;"
+            },
+            {
+              "nome": "Altura",
+              "valor": "1.666mm;"
+            },
+            {
+              "nome": "NBI",
+              "valor": "125kV – 170kV;"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "630A;"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP 30 e IP-54;"
+            },
+            {
+              "nome": "Corrente suportável de curto circuito e arco interno",
+              "valor": "20kA/1s;"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável nominal de curta duração",
+              "valor": "52kA;"
+            },
+            {
+              "nome": "Tensão suportável de frequência industrial (50-60Hz/1min) à terra e entre fases",
+              "valor": "50kV - 70kV;"
+            },
+            {
+              "nome": "Norma",
+              "valor": "Em conformidade com a NBR - IEC - 62271-200;"
+            },
+            {
+              "nome": "Resistente ao arco interno",
+              "valor": "IAC-A-FLR-20kA/1s."
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "ENERGIA: Geração: energia eólica, energia solar fotovoltaica;",
+        "Distribuição: subestações compactas, proteção da rede dos RMU’s;",
+        "Redes subterrâneas;",
+        "Subestação de transformação de grande porte;",
+        "Subestação de MT Smart Grid.",
+        "INFRAESTRUTURA: Túneis, aeroportos, portos marítimos e fluviais, estações de metrô, ferrovias urbanas;",
+        "BUILDING: Edifícios comerciais: hospitais, shoppings centers, hotéis, prédios comerciais, data center, escolas;",
+        "Edifícios residenciais.",
+        "INDÚSTRIAS: Saneamento: Água e efluentes;",
+        "Mineração;",
+        "Automobilística;",
+        "Siderúrgicas;",
+        "Cimenteiras;",
+        "Indústrias petroquímicas."
+      ],
+      "normas": [
+        "PADRÃO IEC: IEC 62271-1",
+        "IEC 62271-100",
+        "IEC 62271-102",
+        "IEC 62271-103",
+        "IEC 62271-105",
+        "IEC 62271-200",
+        "PADRÃO ENEL: GSM001",
+        "NBR - IEC - 62271-200",
+        "IEC 61243-5 (VDS)",
+        "IEC 62271-206 (VPIS)",
+        "IEC 61869-10 (2018) e IEC 61869-11 (2018) (sensores)"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e7b0a43a36704aa6994f8a72e6c2d42f.pdf",
+      "imagens": [
+        {
+          "arquivo": "gb-ring-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_4cb789e40eb04b7fa84c0a8603947916~mv2.png",
+          "alt": "Cubículo RMU GB-RING em aço inox com três módulos e portas com faixas azuis (miniatura com moldura azul do site)",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "gb-ring-2.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_e2ec52debc6d4a159f15a8cd2b2669ad~mv2.png",
+          "alt": "Conjunto GB-RING de três módulos em inox ao lado de uma unidade GB-RING SF6 FREE azul, fundo branco",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "gb-ring-3.png",
+          "origem": "Catálogo GB-RING PDF p.1 (recorte da capa)",
+          "alt": "Cubículo GB-RING 2L+T em aço inox, vista em perspectiva com painéis de comando dos três módulos",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "gb-ring-4.png",
+          "origem": "Catálogo GB-RING PDF p.15 (recorte)",
+          "alt": "Unidade GB-RING 2L+T homologada Enel, vista frontal em perspectiva",
+          "tipo": "produto"
+        }
+      ],
+      "observacoes": "A página /gb-ring do site só tem o título 'Linha GB-RING SF6 | SF6 FREE', o subtítulo 'Cubículo Blindado - Tipo RMU' e o parágrafo do resumo; card da home: ' isolados com SF6, tensão até 36kV...'. Descrições, tabelas e normas vêm do catálogo GB-RING (Rev. 03, 29 p., PDF só com imagens, transcrito visualmente): p.4 (tecnologias/segurança/confiabilidade/eficiência), p.5-6 (aplicações), p.7-8 (padrão e segurança, características gerais, design), p.9 (dados técnicos e normas), p.10-11 (tabelas IMS, disjuntor, ST1, ST2), p.12 (dimensões/pesos e VDS/VPIS), p.13-18 (unidades), p.21-27 (isoladores com sensor, junção), p.28 (referências: Enel, Ampla, Endesa, Coelce, Edelnor, Chilectra/CELG, Codensa, Edesur, Electricity of Lebanon, ONEE Marrocos, Senelec, Sonelgaz, Neoenergia). Na tabela de unidades, para 2L+T/2L+I/IE (p.15-18) os textos completos são mais longos e repetem descrições de L e T; foi registrado só o primeiro parágrafo (p.17/18 resumidos a partir da 1ª frase – para p.17 a frase completa é 'Unidade composta por duas unidades de partida/chegada (L) e um módulo de proteção do transformador com disjuntor (I).'; p.18 = 1º parágrafo). O texto VDS/VPIS (p.12) e os detalhes de sensores/curvas (p.22-24) não foram transcritos integralmente. Na tabela de dimensões o PDF não deixa claro qual profundidade (762,5 ou 862,5) vale para 24kV/36kV. Divergência: catálogo diz grau de proteção IP30 (tabela IMS), folder diz 'IP 30 e IP-54'. Texto de homologação Neoenergia vem de notícia da home do site (banner com texto descartado das imagens)."
+    },
+    {
+      "slug": "microcompact",
+      "nome": "Microcompact 36 kV",
+      "linha_categoria": "Cubículo blindado modular com isolação mista",
+      "url_origem": "https://www.gimibonomi.com.br/c%C3%B3pia-gb-ring",
+      "resumo": "Conjunto de manobra e comando em invólucro metálico de isolação mista Ar/SF6 com unidade normalizada de MT para a distribuição elétrica secundária pública, privada e industrial. São cubículos de classes 17,5kV, 24kV e 36kV com seccionadora SF6, caracterizada pela utilização de um interruptor de manobra seccionador isolado em SF6 de alta performance, que permite uma drástica redução da largura do compartimento, além de sua utilização em espaços altamente limitados.",
+      "descricao": [
+        "MICROCOMPACT – Cubículo blindado modular com isolação mista",
+        "Conjunto de manobra e comando em invólucro metálico de isolação mista Ar/SF6 com unidade normalizada de MT para a distribuição elétrica secundária pública, privada e industrial. São cubículos de classes 17,5kV, 24kV e 36kV com seccionadora SF6, caracterizada pela utilização de um interruptor de manobra seccionador isolado em SF6 de alta performance, que permite uma drástica redução da largura do compartimento, além de sua utilização em espaços altamente limitados.",
+        "CUBÍCULO BLINDADO MICROCOMPACT® – Cubículo classe 36kV com seccionadora em SF6 - Largura 750mm",
+        "MICROCOMPACT 36kV é um conjunto de manobra e comando em invólucro metálico com unidade normalizada de média tensão para distribuição elétrica secundária pública, privada e industrial. As dimensões padronizadas dos compartimentos (750/1000 mm) permitem sua fácil movimentação e instalação rápida. Todas as unidades são dotadas de componentes e acessórios que respondem às múltiplas exigências aplicáveis. A linha MICROCOMPACT 36kV é caracterizada pela utilização de um interruptor e seccionador de manobra isolado em SF6 de alto desempenho, que permite uma drástica redução da largura do compartimento, além de sua utilização em espaços altamente limitados.",
+        "O interruptor-seccionador da manobra tipo G1P é do tipo 3 posições (fechado, aberto, aterrada), em um invólucro de resina certificado como resistente a arco interno.",
+        "O emprego de invólucro de resina fornece relevantes vantagens, seja tanto do ponto de vista dielétrico como do mecânico. MICROCOMPACT 36kV foi concebido sob os padrões normativos e requisições técnicas IEC / CEI e NBR – IEC 62271-200.",
+        "CARACTERÍSTICAS CONSTRUTIVAS E FUNCIONAIS: Cada cubículo da série MICROCOMPACT 36kV é constituído de dois compartimentos sobrepostos:",
+        "O compartimento superior, contendo o sistema de barramentos principais e o compartimento inferior, contendo o equipamento elétrico de interrupção e seccionamento, de proteção, eventuais transformadores de potencial e corrente, terminais para cabos, etc.",
+        "O compartimento de barramentos é segregado do compartimento da aparelhagem por um diafragma metálico com grau de proteção IP4X compondo uma coluna única com aparelhagem de interrupção e seccionamento. Todas as manobras são executadas pela face frontal do compartimento e somente com a porta fechada. A sequência da operação e o esquema sinótico são impressos em uma placa aplicada à porta. Intertravamentos oportunos que impedem manobras equivocadas. A manobra do interruptor pode ser operada de forma remota por motorização. Uma barra coletiva de terra externa permite a conexão entre os circuitos de terra de todos os compartimentos, garantindo assim a perfeita continuidade elétrica. A estrutura metálica do cubículo é construída em chapa de aço de 2mm, onde a aparelhagem é montada de modo a garantir uma ótima rigidez. A pintura consiste de método eletrostático a pó epóxi previamente desengraxado, decapada e fosfatizada, com polimerização em estufa a 220°C. Normalmente o quadro é fornecido na cor cinza MUNSELL N6,5.",
+        "CONJUNTO DE MANOBRA E COMANDO MICROCOMPACT 36KV RESISTENTE AO ARCO INTERNO: IAC A F 16kA/1s: Muitas instalações apresentam salas elétricas com dimensões limitadas. A concepção dos cubículos MICROCOMPACT 36kV de único acesso para instalação e manutenção ser frontal viabiliza a utilização de cubículos com acessibilidade apenas frontal. Deve-se assim manter a distância mínima traseira de 100mm e restringir o acesso às laterais. Nota–se assim que a restrição de acesso às laterais e à traseira viabiliza a utilização de uma solução muito mais competitiva economicamente.",
+        "O interruptor de manobra seccionador “Série G”, de nossa fabricação na unidade OEMB SRL., GRUPPO BONOMI, (VR) Itália, é constituído por um invólucro isolante em resina preenchida por gás SF6, (Hexafluoreto de Enxofre), selada pela parte frontal e equipada com válvula de sobrepressão, com distâncias de escoamento e isolamento longas e com comando por mola. O interruptor de manobra seccionador “Série G” é resistente ao arco interno. A interrupção e o isolamento em gás SF6 são insensíveis ao ambiente e às correntes de dispensão, enquanto os isolamentos são controlados por anéis de guarda interna à estrutura isolante para absoluta segurança dos operadores e do serviço. O comando do interruptor de manobra seccionador pode ser motorizado. No interior do invólucro isolante, o interruptor de manobra seccionador efetiva a interrupção através do sopro de gás SF6 autopneumático, durante a manobra. O seccionador de linha e o seccionador de terra são parte da mesma unidade de seccionamento, que pode assumir as seguintes posições: Aberto, Fechado, À Terra."
+      ],
+      "caracteristicas": [
+        "INTERRUPTOR DE MANOBRA SECCIONADOR SÉRIE G:",
+        "Interruptor de manobra seccionador tipo G100/ G300 isolado em SF6 24/36kV 630A 16kA com seccionador de terra e dispositivo de abertura e fechamento rápido.",
+        "Interruptor de manobra seccionador tipo G100M/ G300M isolado em SF6 24/36kV 630A 16kA com seccionador de terra com dispositivo de abertura e fechamento motorizado.",
+        "Interruptor de manobra seccionador tipo G200/ G400 isolado em SF6 24/36kV 630A 16kA com seccionador de terra de montante e de jusante dos fusíveis, porta-fusíveis com abertura do seccionador de linha na queima de fusível, com dispositivo de abertura e fechamento rápido manual.",
+        "A unidade da série G foi submetida aos ensaios de tipo prescritos nas seguintes normas: -IEC – 62271–102 -IEC – 62271–265 -IEC – 62271–420",
+        "Em particular, foram realizados: Ensaios de arco interno, devido à falha interna; Ensaios de isolamento; Ensaios de elevação de temperatura; Ensaios de estabelecimento e interrupção em curto-circuito; Ensaios de suportabilidade de corrente de curta duração e de crista para o circuito principal e de terra;"
+      ],
+      "especificacoes": [
+        {
+          "grupo": "CARACTERÍSTICAS GERAIS – MICROCOMPACT 36kV (catálogo p.16)",
+          "itens": [
+            {
+              "nome": "Temperatura de serviço",
+              "valor": "De -5° a +40°C"
+            },
+            {
+              "nome": "Tensão nominal",
+              "valor": "36kV"
+            },
+            {
+              "nome": "Tensão suportável de frequência industrial(50-60Hz/ 1min) à terra e entre fases",
+              "valor": "70kV"
+            },
+            {
+              "nome": "Tensão suportável de impulso atmosférico 1,2/50us à terra e entre fases",
+              "valor": "170kV"
+            },
+            {
+              "nome": "Corrente nominal (barramentos e equipamentos de interrupção e seccionamento)",
+              "valor": "630A"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração e arco interno (1s)",
+              "valor": "16kA"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável nominal de curta duração",
+              "valor": "40kA"
+            }
+          ]
+        },
+        {
+          "grupo": "Características técnicas - 36kV (folder Grupo GIMI)",
+          "itens": [
+            {
+              "nome": "NBI",
+              "valor": "170 kV;"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "630 A;"
+            },
+            {
+              "nome": "Corrente suportável de curto-circuito e arco interno",
+              "valor": "16 kA/1 s;"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável nominal de curta duração",
+              "valor": "41,6 kA;"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP4X e IP54;"
+            },
+            {
+              "nome": "Norma",
+              "valor": "Em conformidade com a NBR - IEC - 62271-200;"
+            },
+            {
+              "nome": "Resistente ao arco interno",
+              "valor": "IAC-A-FL-16kA/1s."
+            }
+          ]
+        },
+        {
+          "grupo": "CARACTERÍSTICAS TÉCNICAS – versões 17,5kV e 24kV (catálogo p.6)",
+          "itens": [
+            {
+              "nome": "Temperatura de serviço",
+              "valor": "De -5° a 40°C"
+            },
+            {
+              "nome": "Tensão nominal",
+              "valor": "17,5kV - 24kV"
+            },
+            {
+              "nome": "Tensão suportável de frequência industrial (50-60Hz/1min) à terra e entre fases",
+              "valor": "38kV - 50kV"
+            },
+            {
+              "nome": "Tensão suportável de impulso atmosférico 1,2/50us à terra e entre fases",
+              "valor": "95kV - 125kV"
+            },
+            {
+              "nome": "Corrente nominal (barramentos e equipamentos de interrupção e seccionamento)",
+              "valor": "630A"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração e arco interno (1s)",
+              "valor": "16kA"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável nominal de curta duração",
+              "valor": "41,6kA"
+            },
+            {
+              "nome": "Larguras",
+              "valor": "Cubículo classe 17,5kV com seccionadora em SF6-Largura 375mm; Cubículo classe 24kV com seccionadora em SF6-Largura 475mm"
+            }
+          ]
+        },
+        {
+          "grupo": "CONFIGURAÇÕES PADRONIZADAS 36kV – Dimensões (catálogo p.17-19)",
+          "itens": [
+            {
+              "nome": "MICRO 362",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 210kg"
+            },
+            {
+              "nome": "MICRO 363",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 430kg"
+            },
+            {
+              "nome": "MICRO 364",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1450mm; Peso: 360kg"
+            },
+            {
+              "nome": "MICRO 365",
+              "valor": "Largura: 1000mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 480kg"
+            },
+            {
+              "nome": "MICRO 366",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 205kg"
+            },
+            {
+              "nome": "MICRO 367",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 280kg"
+            },
+            {
+              "nome": "MICRO 367.E",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 280kg"
+            },
+            {
+              "nome": "MICRO 368",
+              "valor": "Largura: 750mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 330kg"
+            },
+            {
+              "nome": "MICRO 369",
+              "valor": "Largura: 1000mm; Altura: 2250mm; Profundidade: 1400mm; Peso: 530kg"
+            }
+          ]
+        },
+        {
+          "grupo": "CONFIGURAÇÕES PADRONIZADAS 36kV – Componentes (catálogo p.17-19)",
+          "itens": [
+            {
+              "nome": "MICRO 362",
+              "valor": "Jogo de Barramentos; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo"
+            },
+            {
+              "nome": "MICRO 363",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G1P; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo; Jogo de TC’s e TP’s"
+            },
+            {
+              "nome": "MICRO 364",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G2vP; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo; Fusíveis de M.T.; Jogo de TC’s"
+            },
+            {
+              "nome": "MICRO 365",
+              "valor": "Jogo de Barramentos; Isoladores Portantes; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo; Jogo de Suportes para TC’s e TP’s"
+            },
+            {
+              "nome": "MICRO 366",
+              "valor": "Jogo de Barramentos; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Fechamento de Fundo"
+            },
+            {
+              "nome": "MICRO 367",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G1P; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo"
+            },
+            {
+              "nome": "MICRO 367.E",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G1P; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo"
+            },
+            {
+              "nome": "MICRO 368",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G2vP; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo; Fusíveis de M.T."
+            },
+            {
+              "nome": "MICRO 369",
+              "valor": "Jogo de Barramentos; Interruptor Seccionador G1P; Isoladores Portantes; Travessa de Fixação de Cabos; Manopla da Porta; Placa de Características; Placa de Esquema Elétrico e Sequência de Manobra; Barramento de Terra; Janela de Inspeção; Fechamento de Fundo; Disjuntor em SF6"
+            }
+          ]
+        },
+        {
+          "grupo": "DISPOSITIVOS E ACESSÓRIOS 36kV (catálogo p.20)",
+          "itens": [
+            {
+              "nome": "Caixa de instrumento",
+              "valor": "Largura: 1000mm; Altura: 440mm; Profundidade: 300mm; Peso: 41kg"
+            },
+            {
+              "nome": "Sub Base",
+              "valor": "Largura: 750/1000mm; Altura: 350mm; Profundidade: 1400mm; Peso: 41kg"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "distribuição elétrica secundária pública, privada e industrial.",
+        "utilização em espaços altamente limitados.",
+        "salas elétricas com dimensões limitadas (acessibilidade apenas frontal, IAC A F 16kA/1s)"
+      ],
+      "normas": [
+        "IEC / CEI e NBR – IEC 62271-200",
+        "IEC – 62271–102",
+        "IEC – 62271–265",
+        "IEC – 62271–420",
+        "NBR - IEC - 62271-200"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_b411ddb198924f5a97126b36316ba5da.pdf",
+      "imagens": [
+        {
+          "arquivo": "microcompact-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_90cca4b1b20243c8ab5f54c593aa7848~mv2.png",
+          "alt": "Linha de cubículos Microcompact 36 kV em cinza claro (miniatura com moldura azul do site)",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "microcompact-2.png",
+          "origem": "https://static.wixstatic.com/media/dd0a33_6eb0516baa6145878483fa49c4ed8632~mv2.png",
+          "alt": "Cubículos Microcompact cinza com caixa de instrumentos superior e logotipo Gimi Bonomi, vista frontal",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "microcompact-3.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_9907afabcec44c0496f8689f8665a430~mv2.png",
+          "alt": "Conjunto de manobra Microcompact 36 kV com vários cubículos lado a lado em perspectiva",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "microcompact-4.png",
+          "origem": "Catálogo Microcompact PDF p.14 (recorte)",
+          "alt": "Cubículo Microcompact 36 kV com portas abertas mostrando o interior e a aparelhagem de manobra (rodapé com logotipo GBL no recorte)",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "Página do site (/cópia-gb-ring) tem só título, subtítulo e o parágrafo do resumo (cobre 17,5/24/36kV); card da home: 'isolação mista Ar/SF6 com...'. Demais conteúdo do catálogo Microcompact (Rev.2, 23 p., PDF só com imagens, transcrito visualmente): seção 36kV p.14-22; seção 17,5/24kV p.4-13 (só a tabela p.6 foi incluída; configurações MICRO 1 a 9.D15 de 375/475/750 mm e textos de arco interno p.12-13 não transcritos). Divergência: valor de crista 36kV = 40kA no catálogo p.16 x 41,6 kA no folder Grupo GIMI; o folder também traz grau de proteção IP4X/IP54 e 'IAC-A-FL-16kA/1s', que não aparecem na tabela do catálogo 36kV. O catálogo usa 'Microcompact' como 'Cubículo Blindado modular com isolação em SF6' (folder) e 'isolação mista' (site). Texto 'PARENTE EUROPEU' (p.21) não transcrito. Os componentes estão separados por ';' (no PDF são marcadores)."
+    },
+    {
+      "slug": "esg-matic",
+      "nome": "ESG Matic",
+      "linha_categoria": "Disjuntores e interruptores para uso externo – Seccionadora de média tensão para uso em poste",
+      "url_origem": "https://www.gimibonomi.com.br/",
+      "resumo": "A ESG MATIC é a nova seccionadora de média tensão 36kV – 630A para uso em poste, isolado em SF6 para uso externo, da GBL. É a evolução do ESG, o Interruptor de manobra Seccionador (IMS) padrão e bestseller da GBL.",
+      "descricao": [
+        "ESG MATIC – Seccionadora de média tensão 36kV – 630A para uso em poste, isolado em SF6 para uso externo",
+        "A ESG MATIC é a nova seccionadora de média tensão 36kV – 630A para uso em poste, isolado em SF6 para uso externo, da GBL. É a evolução do ESG, o Interruptor de manobra Seccionador (IMS) padrão e bestseller da GBL.",
+        "A ESG MATIC compreende 3 transformadores de tensão (LPVT) e 3 transformadores de corrente (LPCT) integrados para as medições, com lógica de controle programável e atuação automática. Tudo isso assegura uma continuidade do serviço ainda mais funcional, graças à reconfiguração automática em um curto espaço de tempo.",
+        "A maior parte das falhas das linhas aéreas de média tensão é transitória ou autocompensadora, e geralmente dura poucos segundos. A ESG-MATIC trabalha em conjunto com o disjuntor principal ou o Religador durante o tempo de interrupção da falha.",
+        "Com os dispositivos ESG-MATIC instalados, é possível reconhecer o segmento com falha na linha.",
+        "Além das vantagens indicadas acima, o seccionador ESG-MATIC permite manter um histórico das falhas. O ESG-MATIC é fornecido com um comando motorizado, mas que pode ser sempre manobrado manualmente por meio da alavanca anterior ou por um mecanismo de acionamento posterior fornecido. O sistema completo compreende o IMS e o painel-unidade de controle remoto com relé de proteção."
+      ],
+      "caracteristicas": [
+        "A lógica baseia-se em corrente e tensão:",
+        "A ESG-MATIC é um dispositivo de abertura automática do circuito;",
+        "A ESG-MATIC conta as operações de falha da corrente e a falta de tensão da proteção a montante (interruptor ou recloser);",
+        "O ESG-MATIC intervém depois de um número pré-selecionado de operações de falha de corrente;",
+        "O ESG-MATIC isola automaticamente a seção em falha de um alimentador de distribuição.",
+        "Este sistema completamente equipado fornece as seguintes características: Solução completa e confiável e de fácil instalação;",
+        "Invólucro da máquina completamente soldado em aço inox para uma vedação garantida por 30 anos segundo as normas IEC;",
+        "Tamanho reduzido graças aos volumes menores;",
+        "LPVT e LPCT integrados;",
+        "Nenhuma manutenção;",
+        "Resistência às mais variadas condições atmosféricas."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Card da home (site)",
+          "itens": [
+            {
+              "nome": "Classe de tensão",
+              "valor": "17,5kV/36kV... (texto truncado no card do site)"
+            }
+          ]
+        },
+        {
+          "grupo": "CARACTERÍSTICAS TÉCNICAS – Características do IMS – 24 kVrms (catálogo p.6)",
+          "itens": [
+            {
+              "nome": "Frequência nominal (Hz)",
+              "valor": "50/60"
+            },
+            {
+              "nome": "Tensão suportável de frequência industrial (kVrms)",
+              "valor": "50"
+            },
+            {
+              "nome": "Tensão suportável de impulso atmosférico (kVpeak)",
+              "valor": "125"
+            },
+            {
+              "nome": "Tensão suportável sobre o seccionamento em frequência industrial (kVrms)",
+              "valor": "60"
+            },
+            {
+              "nome": "Tensão suportável sobre o seccionamento de impulso atmosférico (kVpeak)",
+              "valor": "145"
+            },
+            {
+              "nome": "Corrente nominal (A)",
+              "valor": "630"
+            },
+            {
+              "nome": "Capacidade de interrupção de carga (A)",
+              "valor": "630"
+            },
+            {
+              "nome": "Corrente de curta duração e valor de crista (kArms/crista)",
+              "valor": "25/65"
+            },
+            {
+              "nome": "Poder de estabelecimento (kVpeak)",
+              "valor": "40"
+            },
+            {
+              "nome": "Durabilidade mecânica",
+              "valor": "M2"
+            },
+            {
+              "nome": "Classe elétrica",
+              "valor": "E2"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP54"
+            }
+          ]
+        },
+        {
+          "grupo": "Características dos sensores – 24 | 36 kVrms (catálogo p.7)",
+          "itens": [
+            {
+              "nome": "Corrente primária, Ipr (A)",
+              "valor": "500"
+            },
+            {
+              "nome": "Corrente nominal (A)",
+              "valor": "630"
+            },
+            {
+              "nome": "Relação de transformação Nominal, Kra corrente",
+              "valor": "500 A / 150 mV at 50 Hz 180 mV at 60 Hz"
+            },
+            {
+              "nome": "Relação de transformação nominal, Kn tensão",
+              "valor": "10.000 : 1"
+            },
+            {
+              "nome": "Classe de precisão da corrente",
+              "valor": "0,5 / 5P100"
+            },
+            {
+              "nome": "Classe de precisão da tensão",
+              "valor": "0,5 / 3P"
+            }
+          ]
+        },
+        {
+          "grupo": "AS NOSSAS SOLUÇÕES (catálogo p.7-8)",
+          "itens": [
+            {
+              "nome": "ESG – MATIC 24 KV – 630A",
+              "valor": "PESO (KG): 81,5"
+            },
+            {
+              "nome": "Instalações",
+              "valor": "INSTALAÇÃO DE COMANDO FRONTAL COM PROTEÇÃO AUTOMÁTICA DE CONTROLE REMOTO; INSTALAÇÃO DE COMANDO TRASEIRO COM PROTEÇÃO AUTOMÁTICA DE CONTROLE REMOTO"
+            }
+          ]
+        },
+        {
+          "grupo": "UNIDADE AUTOMÁTICA DE CONTROLE REMOTO (catálogo p.9)",
+          "itens": [
+            {
+              "nome": "ACESSÓRIOS PADRONIZADOS E CARACTERÍSTICAS",
+              "valor": "Painel de aço pintado (outros materiais e tratamentos a pedido); Modem (LTE, UMTS, GSM/GPRS/EDGE, ETHERNET, WIFI); Abraçadeiras para montagem em poste/parede; Baterias 24V CC; Indicador de falha da bateria; Resistência anticondensação 220V; Interruptor termomagnético; Higrostato regulável (20-90 UR%); Porta Ethernet (RJ45); Tomada de corrente 220V AC; Indicador de ‘Porta Aberta’; IP54 / IK08; Conector multipolar."
+            },
+            {
+              "nome": "ACESSÓRIOS OPCIONAIS E CARACTERÍSTICAS",
+              "valor": "Disponibilidade de cadeado; Fechadura à prova de vento; Luz interna; Proteção contra sobretensão."
+            }
+          ]
+        },
+        {
+          "grupo": "RELAY IED – DISPOSITIVO ELETRÔNICO (catálogo p.10-12, resumo dos itens)",
+          "itens": [
+            {
+              "nome": "Relé",
+              "valor": "O painel de controle, dotado com o relé inteligente REC615, pode realizar funções de controle remoto, indicação, medição e seccionamento automático."
+            },
+            {
+              "nome": "COMUNICAÇÃO PADRONIZADA – Protocolos",
+              "valor": "IEC 60870-5-101/104; DNP3 nível 2; Modbus; IEC 61850 com mensagens GOOSE"
+            },
+            {
+              "nome": "ACESSÓRIOS PADRONIZADOS – Proteções",
+              "valor": "Protocolos de comunicação: IEC 61850-8-1; 50 – Sobrecorrente instantânea; 50N – Sobrecorrente instantânea neutra; 51 – Sobrecarga; 51N – Sobrecorrente de tempo neutro; 49 – Sobrecarga Térmica da Máquina ou Transformador; 46 – Instabilidade de corrente de fase invertida ou de balanceamento de fase ou de corrente do estator"
+            },
+            {
+              "nome": "ACESSÓRIOS OPCIONAIS – Proteções",
+              "valor": "Protocolos de comunicação: IEC 61850-5-101/104, DNP3, MODBUS; 67 – Sobrecorrente direcional AC; 67N – Sobrecorrente direcional neutra; 32N – Direcional Watt-métrico de Sequência Zero; 21N – Reatância e Mho de Fase Direcional-Distância; 27 – Subtensão; 59 – Sobretensão; 81 – Frequência; 47 – Sequência de fase ou tensão de balanceamento das fases"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "seccionadora de média tensão 36kV – 630A para uso em poste, isolado em SF6 para uso externo",
+        "linhas aéreas de média tensão (trabalha em conjunto com o disjuntor principal ou o Religador)"
+      ],
+      "normas": [
+        "EQUIPAMENTOS DE MT & AT – IEC 62271-1",
+        "INVÓLUCRO METÁLICO / ARCO INTERNO – IEC 62271-200",
+        "INTERRUPTOR DE CARGA (IMS) – IEC 62271-103",
+        "DISJUNTOR DE CARGA DE LINHA E TERRA – IEC 62271-102",
+        "BUCHAS PARA AR / GÁS – IEC 60137",
+        "GÁS SF6 – IEC 60376",
+        "GRAU DE PROTEÇÃO IP – IEC 60529",
+        "GRAU DE PROTEÇÃO IK – IEC 62262"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_6656e6abb1d6486f8c02dc706fde20e2.pdf",
+      "imagens": [
+        {
+          "arquivo": "esg-matic-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_058b8880da8a45dbb2b5fa3c88f4c5c5~mv2.png",
+          "alt": "Seccionadora ESG Matic para poste com buchas isoladoras de silicone e caixa de comando (miniatura com moldura azul do site)",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "esg-matic-2.png",
+          "origem": "Catálogo ESG MATIC PDF p.3 (recorte)",
+          "alt": "Seccionadora ESG Matic em aço inox com isoladores de silicone brancos e caixa de comando, sobre fundo azul",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "esg-matic-3.png",
+          "origem": "Catálogo ESG MATIC PDF p.1 (recorte da capa)",
+          "alt": "Seccionadora ESG Matic para uso externo, vista em perspectiva com isoladores e caixa do mecanismo",
+          "tipo": "produto"
+        }
+      ],
+      "observacoes": "No site existe apenas o card da home ('Classe de tensão 17,5kV/36kV...', texto truncado; o botão 'Ver Detalhes' aponta para a própria home). Todo o conteúdo vem do catálogo ESG MATIC (Rev.2, 23 p., PDF só com imagens, transcrito visualmente): p.3-4 (descrição), p.5 (normas), p.6 (IMS), p.7-8 (sensores e soluções), p.9 (unidade de controle), p.10-12 (relé REC615 – os parágrafos longos sobre funcionalidade/aplicação/IHM não foram transcritos; só listas). O mesmo PDF traz ainda o ESG (IMS para uso externo, p.13-17, com tabela 24/36 kV) e o PMCB – Disjuntor para montagem em poste (p.18-22), não incluídos. Divergência: o título diz 36kV, mas a tabela de características do IMS só tem coluna 24 kVrms e a solução de pesos é 'ESG – MATIC 24 KV – 630A'; o card do site diz 17,5kV/36kV. A tabela de sensores tem colunas 24 e 36 com valores mesclados. O ESG MATIC não aparece no folder geral do Grupo GIMI."
+    }
+  ]
+}

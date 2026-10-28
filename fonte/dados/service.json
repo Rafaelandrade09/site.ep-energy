@@ -1,0 +1,113 @@
+{
+  "empresa": "GIMI Service",
+  "site": "https://www.gimiservice.com.br/",
+  "apresentacao": [
+    "SUA ENERGIA EM MÃOS ESPECIALIZADAS: SOMOS A FORÇA POR TRÁS DA SUA EFICIÊNCIA ENERGÉTICA",
+    "Proteja sua energia com GIMI SERVICE, a escolha eficiente para INSTALAÇÃO E MANUTENÇÃO.",
+    "No ano de 2020, nasceu a GIMI SERVICE, empresa que viria a se tornar o braço especializado em manutenção e instalações do Grupo GIMI. Com uma visão clara e determinação, a GIMI SERVICE foi fundada com o propósito de oferecer soluções abrangentes e eficientes no campo da manutenção e instalações, buscando a excelência em seus serviços.",
+    "A GIMI SERVICE oferece uma ampla variedade de soluções em manutenção e instalação para o seu projeto energético, abrangendo desde a instalação de placas solares até barramentos blindados, com garantias de 5 anos para produtos GIMI.",
+    "Contando com uma equipe altamente especializada, a GIMI SERVICE proporciona, por meio do Smart GIMI, um monitoramento em tempo real da sua operação. Esse sistema permite a observação contínua da temperatura, vibração e umidade dos seus equipamentos, prevenindo potenciais problemas antes mesmo que eles se manifestem."
+  ],
+  "servicos": [
+    {
+      "slug": "revisao-programada",
+      "nome": "Revisão Programada",
+      "descricao": [
+        "A REVISÃO PROGRAMADA é a opção de realizar revisões agendadas para acompanhar o funcionamento do equipamento GIMI de forma preventiva, e estender para até 05 anos a garantia de fábrica dos produtos GIMI."
+      ],
+      "itens": [],
+      "imagens": []
+    },
+    {
+      "slug": "contratos-de-manutencao",
+      "nome": "Contratos de manutenção",
+      "descricao": [
+        "O contrato de manutenção é composto por três modelos de manutenção, sendo: manutenção preditiva durante o ano para acompanhamento e apontamento de possíveis melhorias; manutenção preventiva programada em seus equipamentos e a manutenção corretiva (chamados de emergência) não programada que é atendida em 7 dias por semana, 24 horas por dia."
+      ],
+      "itens": [],
+      "imagens": [
+        {
+          "arquivo": "img/servico-contratos-de-manutencao-1.jpg",
+          "origem": "https://static.wixstatic.com/media/11062b_f67dff5c5ff74c32bfc124c6a631424c~mv2.jpg",
+          "alt": "Equipe técnica com capacetes trabalhando em painéis elétricos abertos"
+        }
+      ]
+    },
+    {
+      "slug": "estudos-coordenacao-parametrizacao-reles",
+      "nome": "Estudos de coordenação parametrização de relés de proteção",
+      "descricao": [
+        "Realizamos o estudo de coordenação e parametrização de seus relés, a fim de garantir a proteção de seus equipamentos e instalações."
+      ],
+      "itens": [],
+      "imagens": [
+        {
+          "arquivo": "img/servico-estudos-coordenacao-parametrizacao-reles-1.jpg",
+          "origem": "https://static.wixstatic.com/media/11062b_a0186506ddab4b2a89aa5b68960e6a80~mv2.jpeg",
+          "alt": "Profissional realizando cálculos com calculadora e gráficos impressos"
+        }
+      ]
+    },
+    {
+      "slug": "startup-e-comissionamento",
+      "nome": "Startup e comissionamento",
+      "descricao": [
+        "Realizamos o comissionamento e startup de seus painéis e barramentos blindados de baixa e média tensão em obra, para garantir a energização de seu empreendimento de maneira segura e com agilidade."
+      ],
+      "itens": [],
+      "imagens": []
+    },
+    {
+      "slug": "instalacao-manutencao-barramentos-blindados",
+      "nome": "Instalação e manutenção de barramentos blindados",
+      "descricao": [
+        "Executamos instalação e manutenção de barramentos blindados de baixa e média tensão, garantindo a você a segurança e tranquilidade em suas instalações."
+      ],
+      "itens": [],
+      "imagens": [
+        {
+          "arquivo": "img/servico-instalacao-manutencao-barramentos-blindados-1.jpg",
+          "origem": "https://static.wixstatic.com/media/e1e52f_be5d9342d27e464e9e2b96c43a99672f~mv2.jpg",
+          "alt": "Técnico apertando conexão com chave em equipamento elétrico"
+        }
+      ]
+    },
+    {
+      "slug": "service-provider-abb",
+      "nome": "Service Provider ABB",
+      "descricao": [
+        "Somos homologados pela ABB para executar manutenções e reparos em seus equipamentos como: Old Emax com relé PR11x, New Emax com relé PR12x, Emax X1 com PR33x, Isomax, Tmax, Emax2, Tmax XT, Softstarter, Chaves OT e OTM, Kits de retrofit Direct Replace “Megamax” , Contatores AF."
+      ],
+      "itens": [
+        "Old Emax com relé PR11x",
+        "New Emax com relé PR12x",
+        "Emax X1 com PR33x",
+        "Isomax",
+        "Tmax",
+        "Emax2",
+        "Tmax XT",
+        "Softstarter",
+        "Chaves OT e OTM",
+        "Kits de retrofit Direct Replace “Megamax”",
+        "Contatores AF"
+      ],
+      "imagens": []
+    },
+    {
+      "slug": "termografia-termometria",
+      "nome": "Termografia e Termometria",
+      "descricao": [
+        "A termografia é uma técnica de registro gráfico das temperaturas de diversos pontos do sistema por detecção da radiação infravermelha por ele emitida, utilizada no diagnóstico de pontos potenciais para falhas térmicas por mal contato ou falta de aperto em estágios iniciais, evitando a interrupção inesperada do funcionamento e do fornecimento de energia por conta da destruição do equipamento. É realizada por profissionais capacitados com o auxílio de câmeras especiais. A termometria, por sua vez, é a medição em tempo real da temperatura do equipamento ou de seus condutores, realizada através de sensores Smart Gimi, sem a intervenção humana, e cujo software de altíssima tecnologia é capaz, através de dados de temperatura e vibração, de se antever a eventos destrutivos ou defeitos térmicos, e de proporcionar planos de manutenção preditiva e preventiva, muito mais baratos e seguros que as manutenções corretivas."
+      ],
+      "itens": [],
+      "imagens": [
+        {
+          "arquivo": "img/servico-termografia-termometria-1.jpg",
+          "origem": "https://static.wixstatic.com/media/e1e52f_8af4c376acde4b299b3096ef338c6e3d~mv2.jpg",
+          "alt": "Câmera termográfica inspecionando componentes de um painel elétrico"
+        }
+      ]
+    }
+  ],
+  "observacoes": "Textos extraídos do HTML bruto (home e /sobre), apenas com espaços/NBSP consecutivos normalizados. O título 'Estudos de coordenação parametrização de relés de proteção' está assim no site (sem 'e'). Itens do Service Provider ABB separados a partir da frase original, sem alterar a grafia (inclui aspas em “Megamax”). A home não tem páginas de detalhe por serviço; cada serviço tem só um parágrafo. Revisão Programada usa apenas um logotipo/vetor (não foto) e Service Provider ABB não tem imagem no site. Startup e comissionamento usa no site uma foto genérica de escritório (reunião em quadro de vidro, 0141bb700ad54cf2b0457ae50b0704c5.jpg), descartada por não ilustrar o serviço. Fotos de contratos e de estudos são imagens de banco (Wix 11062b_); a de estudos (calculadora) é genérica. Fotos de barramentos (680x382) e termografia (401x329) têm baixa resolução no original. Foto alternativa não vinculada a serviço: hero da home com técnico medindo painel com multímetro (https://static.wixstatic.com/media/e1e52f_41afc571c8b942f19ce3fa3a0000dfa3f000.jpg, 1200x608). Página /sobre também traz 'Nossa Visão', 'Nossos Valores' e ESG, não incluídos na apresentação. Contato do site: Tel (11) 4752-9900, vendas@gimi.com.br, Estr. Portão do Ronda, 3500 - Jardim Revista, Suzano/SP."
+}

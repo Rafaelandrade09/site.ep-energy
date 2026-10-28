@@ -1,0 +1,96 @@
+    <section class="ep-pagina-topo" aria-labelledby="pagina-titulo">
+      <div class="container-xl">
+        <nav aria-label="Trilha de navegação">
+          <ol class="breadcrumb ep-trilha">
+            <li class="breadcrumb-item"><a href="/">Início</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Contato</li>
+          </ol>
+        </nav>
+        <h1 id="pagina-titulo">Fale com a EP Energy</h1>
+        <p class="ep-lead">Conte o que o seu projeto precisa. Nossa equipe retorna com suporte técnico e uma solução personalizada.</p>
+      </div>
+    </section>
+
+    <section class="ep-secao ep-secao--papel" aria-label="Canais de contato e formulário">
+      <div class="container-xl">
+        <div class="row g-4 g-lg-5">
+          <div class="col-lg-5">
+            <div class="ep-canais">
+              <h2>Informações para contato</h2>
+              <div class="ep-canal">
+                {{ICONE_WHATSAPP}}
+                <div>
+                  <span class="ep-canal__rotulo">WhatsApp e telefone</span>
+                  <a href="{{WHATSAPP_HREF}}" target="_blank" rel="noopener">{{WHATSAPP}}</a>
+                  <a class="ep-canal__secundario" href="{{TELEFONE_HREF}}">Prefere ligar? Toque para chamar</a>
+                </div>
+              </div>
+              <div class="ep-canal">
+                {{ICONE_EMAIL}}
+                <div><span class="ep-canal__rotulo">E-mail</span><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></div>
+              </div>
+              <div class="ep-canal">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+                <div><span class="ep-canal__rotulo">Localização</span><strong>São José do Rio Preto, SP</strong></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <form id="form-contato" class="ep-form" action="{{FORM_ENDPOINT}}" method="post" data-destino="{{EMAIL}}" data-whatsapp="{{WHATSAPP_NUMERO}}" novalidate aria-labelledby="form-titulo">
+              <!-- Armadilha contra spam: campo invisível que pessoas não preenchem -->
+              <input type="text" name="_honey" class="ep-armadilha" tabindex="-1" autocomplete="off" aria-hidden="true">
+              <h2 id="form-titulo" class="h3 mb-2">Envie sua mensagem</h2>
+              <p class="ep-form__nota mb-4">Campos marcados como opcionais podem ficar em branco.</p>
+
+              <div class="row g-3">
+                <div class="col-md-6">
+                  <label class="form-label" for="nome">Nome</label>
+                  <input class="form-control" id="nome" name="nome" type="text" autocomplete="name" required>
+                  <div class="invalid-feedback">Informe o seu nome.</div>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label" for="empresa">Empresa <span class="ep-opcional">(opcional)</span></label>
+                  <input class="form-control" id="empresa" name="empresa" type="text" autocomplete="organization">
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label" for="email">E-mail</label>
+                  <input class="form-control" id="email" name="email" type="email" autocomplete="email" required>
+                  <div class="invalid-feedback">Informe um e-mail válido, como nome@empresa.com.br.</div>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label" for="telefone">Telefone <span class="ep-opcional">(opcional)</span></label>
+                  <input class="form-control" id="telefone" name="telefone" type="tel" autocomplete="tel" inputmode="tel">
+                </div>
+                <div class="col-12">
+                  <label class="form-label" for="interesse">Assunto <span class="ep-opcional">(opcional)</span></label>
+                  <select class="form-select" id="interesse" name="interesse">
+                    <option value="">Selecione</option>
+                    <option value="Média tensão">Média tensão: cubículos isolados a ar</option>
+                    <option value="Média tensão compacta">Média tensão compacta: SF6 e livre de SF6</option>
+                    <option value="Baixa tensão">Baixa tensão: quadros e painéis</option>
+                    <option value="Barramentos e medição">Barramentos blindados e medição</option>
+                    <option value="Serviços">Serviços: manutenção, comissionamento e estudos</option>
+                    <option value="Transformadores">Transformadores</option>
+                    <option value="Energia solar">Energia solar</option>
+                    <option value="Outro assunto">Outro assunto</option>
+                  </select>
+                </div>
+                <div class="col-12">
+                  <label class="form-label" for="mensagem">Mensagem</label>
+                  <textarea class="form-control" id="mensagem" name="mensagem" rows="5" required></textarea>
+                  <div class="invalid-feedback">Escreva a sua mensagem.</div>
+                </div>
+              </div>
+
+              <div class="ep-acoes mt-4">
+                <button class="ep-btn ep-btn--teal" type="submit" data-acao="email">Enviar por e-mail</button>
+                <button class="ep-btn ep-btn--whats" type="button" data-acao="whatsapp">{{ICONE_WHATSAPP}} Enviar pelo WhatsApp</button>
+              </div>
+              <p class="ep-form__nota mt-3">Por e-mail, a mensagem chega direto à nossa equipe. Pelo WhatsApp, a conversa abre com o texto pronto para você enviar.</p>
+              <div id="form-status" class="ep-form__status" role="status" aria-live="polite"></div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>

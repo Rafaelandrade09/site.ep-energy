@@ -1,0 +1,942 @@
+{
+  "fabricante": "GIMI Pogliano",
+  "site": "https://www.gimipogliano.com.br/",
+  "produtos": [
+    {
+      "slug": "bx-e",
+      "nome": "BX-E",
+      "linha_categoria": "Barramento Blindado de Baixa Tensão",
+      "url_origem": "https://www.gimipogliano.com.br/#barramentoblindado",
+      "resumo": "Em conformidade com normas internacionais IEC-61439-1 e IEC-61439-6 e nacionais NBR-IEC-61439-1 e NBR-IEC-61439-6.",
+      "descricao": [
+        "BARRAMENTO BLINDADO DE BAIXA TENSÃO",
+        "Em conformidade com normas internacionais IEC-61439-1 e IEC-61439-6 e nacionais NBR-IEC-61439-1 e NBR-IEC-61439-6.",
+        "Muito compacto, de alta resistência ao estresse eletrodinâmico, baixa impedância, baixa queda de tensão e excelente resistência aos agentes atmosféricos fazem o BX-E adequado para a instalação em espaços apertados e ambientes agressivos."
+      ],
+      "caracteristicas": [
+        "Conformidade com normas nacionais e internacionais: IEC-61439-1 e IEC-61439-2, ABNT-IEC-60439-2, IEC 60439/1 e IEC 60439/2. IEC61439-1.",
+        "Linhas com capacidade de 320A a 6300A 3P+N+PE adequadas para o transporte e distribuição de energia elétrica em seções verticais e horizontais de quaisquer configurações.",
+        "Dimensões muito reduzidas, elevada resistência aos esforços eletrodinâmicos, baixa impedância, baixa queda de tensão e ótima resistência às agressões de agentes atmosféricos conferem ao BX-E perfeita conformidade para instalação em espaços reduzidos e ambientes agressivos.",
+        "Grau de proteção IP-55 (IEC60529). IP-65 sob consulta.",
+        "Tensão de utilização até 1000V em 50Hz ou 60Hz.",
+        "Invólucros pintados com tinta em pó epoxy RAL 7032 em chapa de aço carbono de 1,5mm ou alumínio pintado de até 2,5mm.",
+        "Barras condutoras em cobre eletrolítico 99,9% ou em liga de alumínio AW6101 tratado galvanicamente e estanhado em toda a extensão.",
+        "Todas as barras vem revestidas individualmente com fita de polyester de temperatura até 130ºC, opcionalmente pode ser fornecida em classe F com temperatura até 155ºC. Todas as barras das diversas fases são unidas em sanduiche internamente ao invólucro.",
+        "Rapidez e facilidade de instalação, também graças às conexões de parafuso único (Torque 60Nm)",
+        "As barras condutoras são montadas de maneira compacta sem isoladores de sustentação. Esta configuração reduz ao mínimo os valores de reatância.",
+        "Graças às seções dos condutores de fase, também os valores de resistência são muito reduzidas, a impedância do BX-E é, portanto, bastante baixa.",
+        "Na versão plug-in, os elementos de três (3) metros têm abeturas de derivação em ambos os lados estreitos (de largura 137mm), sendo, no máximo, seis (6) aberturas por elemento com três de cada lado.",
+        "Unidade de derivação com secionadora ou porta-fusíveis ou, com disjuntores.",
+        "Possibilidade de remoção de elementos condutores sem a remoção de elementos adjacentes. A qualquer momento é possível modificar o percurso da linha. Essa facilidade rende ao BX-E muita flexibilidade.",
+        "A característica de baixas perdas tipo Joule contribuem para a economia de energia (Veja tabela de dados técnicos)´.",
+        "Ótima dissipação do calor através da superfície do invólucro.",
+        "Sistema de suportação com elevada capacidade de carga mecânica."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características Técnicas (site)",
+          "itens": [
+            {
+              "nome": "Número de condutores",
+              "valor": "3,4 ou 5"
+            },
+            {
+              "nome": "Condutores",
+              "valor": "alumínio ou cobre"
+            },
+            {
+              "nome": "Classe de tensão",
+              "valor": "1000V"
+            },
+            {
+              "nome": "NBI",
+              "valor": "8kV"
+            },
+            {
+              "nome": "Tensão suportável de frequência industrial (50/60Hz)",
+              "valor": "3,5kV/5s"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP – 55"
+            },
+            {
+              "nome": "Corrente nominal – Alumínio",
+              "valor": "320A, 400A, 630A, 800A, 1000A, 1250A, 1600A, 2000A, 3200A, 4000A e 5000A."
+            },
+            {
+              "nome": "Corrente nominal – Cobre",
+              "valor": "630A, 800A, 1000A, 1250A, 1600A, 2000A, 2500A, 3200A, 4000A, 5000A e 6300A."
+            }
+          ]
+        },
+        {
+          "grupo": "Versões disponíveis (catálogo p.5-6)",
+          "itens": [
+            {
+              "nome": "A",
+              "valor": "INVÓLUCRO EM AÇO CARBONO PINTADO RAL 7032 – 3P + N + PE (4P) – Seção do condutor neutro a 100% da seção das fases."
+            },
+            {
+              "nome": "L",
+              "valor": "INVÓLUCRO EM ALUMÍNIO – 3P + N + PE (4P) – Seção do condutor neutro a 100% da seção das fases."
+            },
+            {
+              "nome": "F",
+              "valor": "INVÓLUCRO EM AÇO CARBONO PINTADO RAL 7032 – 3P + N + PE2 + PE (5P) – Seção do condutor neutro a 100% da seção das fases. / 3P + N200% + PE (5P) – Seção do condutor neutro a 200% da seção das fases."
+            },
+            {
+              "nome": "O",
+              "valor": "INVÓLUCRO EM ALUMÍNIO PINTADO RAL 7032 – 3P + N + PE2 + PE (5P) – Seção do condutor neutro a 100% da seção das fases. / 3P + N200% + PE (5P) – Seção do condutor neutro a 200% da seção das fases."
+            },
+            {
+              "nome": "Nota (códigos de pedido)",
+              "valor": "A = 3P + N + PE (4P); L = 3P + N + PE (5P); F =3P + N + FE/2 + PE (5P); O = 3P + 2N +PE (5P)"
+            }
+          ]
+        },
+        {
+          "grupo": "Elementos retos – instalação (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "Elemento reto especial",
+              "valor": "Pode-se construir elementos sob medida de 410mm até 3.000mm. Na cota X, é preciso subtrair 220mm."
+            },
+            {
+              "nome": "Torque da junção",
+              "valor": "Aperte completamente a porca da junção com um dinamometro ou torquímetro (60Nm)."
+            },
+            {
+              "nome": "Comprimentos padrão dos elementos retos",
+              "valor": "3 metros, 2 metros, 1 metro"
+            }
+          ]
+        },
+        {
+          "grupo": "DADOS TÉCNICOS - 60Hz – A - COBRE – 3P + N + PE (4P) (catálogo p.45)",
+          "itens": [
+            {
+              "nome": "Material do invólucro",
+              "valor": "Em chapa de aço carbono pintada de RAL 7032 sp. 15/10"
+            },
+            {
+              "nome": "Dimensões do invólucro (mm) (H)",
+              "valor": "630A: 137x60 | 800A: 137x60 | 1000A: 137x60 | 1250A: 137x85 | 1600A: 137x121 | 2000A: 137x150 | 2500A: 137x185 | 3200A: 137x248 | 4000A: 137x306 | 5000A: 137x376"
+            },
+            {
+              "nome": "Seção condutores Fase e Neutro (mm2)",
+              "valor": "630A: 200 | 800A: 250 | 1000A: 350 | 1250A: 484 | 1600A: 716 | 2000A: 903 | 2500A: 1129 | 3200A: 1432 | 4000A: 1806 | 5000A: 2258"
+            },
+            {
+              "nome": "Seção condutor de proteção (mm2 Fe)",
+              "valor": "630A: 890 | 800A: 890 | 1000A: 890 | 1250A: 960 | 1600A: 1068 | 2000A: 1155 | 2500A: 1260 | 3200A: 1449 | 4000A: 1623 | 5000A: 1833"
+            },
+            {
+              "nome": "Seção condutor de proteção (mm2 eq. Cu)",
+              "valor": "630A: 111 | 800A: 111 | 1000A: 111 | 1250A: 120 | 1600A: 134 | 2000A: 144 | 2500A: 158 | 3200A: 181 | 4000A: 203 | 5000A: 229"
+            },
+            {
+              "nome": "Tensão de operação/isolamento (V)",
+              "valor": "630A: 1000 | 800A: 1000 | 1000A: 1000 | 1250A: 1000 | 1600A: 1000 | 2000A: 1000 | 2500A: 1000 | 3200A: 1000 | 4000A: 1000 | 5000A: 1000"
+            },
+            {
+              "nome": "Resistência R20 (mΩ/m)",
+              "valor": "630A: 0,1117 | 800A: 0,0825 | 1000A: 0,0457 | 1250A: 0,0331 | 1600A: 0,0223 | 2000A: 0,0177 | 2500A: 0,0142 | 3200A: 0,0112 | 4000A: 0,0089 | 5000A: 0,0071"
+            },
+            {
+              "nome": "Resistência a 50% da carga nominal (mΩ/m)",
+              "valor": "630A: 0,1189 | 800A: 0,0850 | 1000A: 0,0474 | 1250A: 0,0348 | 1600A: 0,0237 | 2000A: 0,0187 | 2500A: 0,0151 | 3200A: 0,0114 | 4000A: 0,0093 | 5000A: 0,0075"
+            },
+            {
+              "nome": "Resistência Rt (mΩ/m)",
+              "valor": "630A: 0,1416 | 800A: 0,0997 | 1000A: 0,0060 | 1250A: 0,0360 | 1600A: 0,0280 | 2000A: 0,0220 | 2500A: 0,0118 | 3200A: 0,0120 | 4000A: 0,0110 | 5000A: 0,0080"
+            },
+            {
+              "nome": "Reatância (mΩ/m)",
+              "valor": "630A: 0,0259 | 800A: 0,0273 | 1000A: 0,0053 | 1250A: 0,0033 | 1600A: 0,0150 | 2000A: 0,0140 | 2500A: 0,0100 | 3200A: 0,0110 | 4000A: 0,0060 | 5000A: 0,0050"
+            },
+            {
+              "nome": "Impedância a 20° C (mΩ/m)",
+              "valor": "630A: 0,1139 | 800A: 0,09901 | 1000A: 0,0495 | 1250A: 0,0372 | 1600A: 0,0269 | 2000A: 0,0226 | 2500A: 0,0173 | 3200A: 0,0127 | 4000A: 0,0107 | 5000A: 0,0087"
+            },
+            {
+              "nome": "Impedância a 50% da carga nominal (mΩ/m)",
+              "valor": "630A: 0,1340 | 800A: 0,0854 | 1000A: 0,0510 | 1250A: 0,0387 | 1600A: 0,0280 | 2000A: 0,0234 | 2500A: 0,0181 | 3200A: 0,0129 | 4000A: 0,0111 | 5000A: 0,0090"
+            },
+            {
+              "nome": "Impedância de equilíbrio térmico (mΩ/m)",
+              "valor": "630A: 0,1439 | 800A: 0,1034 | 1000A: 0,0860 | 1250A: 0,0510 | 1600A: 0,0320 | 2000A: 0,026 | 2500A: 0,0210 | 3200A: 0,0170 | 4000A: 0,0130 | 5000A: 0,0100"
+            },
+            {
+              "nome": "Resistência dos condutores de proteção com invólucro em chapa de aço (mΩ/m)",
+              "valor": "630A: 0,1516 | 800A: 0,1516 | 1000A: 0,1406 | 1250A: 0,1406 | 1600A: 0,1217 | 2000A: 0,1126 | 2500A: 0,1032 | 3200A: 0,0897 | 4000A: 0,0801 | 5000A: 0,0792"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta-duração (kA) para c.c. trifásico",
+              "valor": "630A: 20 | 800A: 20 | 1000A: 50 | 1250A: 60 | 1600A: 80 | 2000A: 85 | 2500A: 88 | 3200A: 100 | 4000A: 100 | 5000A: 120"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração (kA) para c.c. Fase-N",
+              "valor": "630A: 12 | 800A: 12 | 1000A: 30 | 1250A: 36 | 1600A: 48 | 2000A: 51 | 2500A: 53 | 3200A: 60 | 4000A: 60 | 5000A: 72"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração (kA) para c.c. Fase-PE",
+              "valor": "630A: 12 | 800A: 12 | 1000A: 30 | 1250A: 36 | 1600A: 48 | 2000A: 51 | 2500A: 53 | 3200A: 60 | 4000A: 60 | 5000A: 72"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. trifásico",
+              "valor": "630A: 40 | 800A: 40 | 1000A: 110 | 1250A: 132 | 1600A: 176 | 2000A: 187 | 2500A: 194 | 3200A: 220 | 4000A: 220 | 5000A: 264"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. fase-N",
+              "valor": "630A: 24 | 800A: 24 | 1000A: 66 | 1250A: 79 | 1600A: 106 | 2000A: 112 | 2500A: 116 | 3200A: 132 | 4000A: 132 | 5000A: 158"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. fase-PE",
+              "valor": "630A: 24 | 800A: 24 | 1000A: 66 | 1250A: 79 | 1600A: 106 | 2000A: 112 | 2500A: 116 | 3200A: 132 | 4000A: 132 | 5000A: 158"
+            },
+            {
+              "nome": "En. spec. passante curta duração (A2s)*106 referida a 1s - c.c.trifásico",
+              "valor": "630A: 400 | 800A: 400 | 1000A: 2500 | 1250A: 3600 | 1600A: 6400 | 2000A: 7225 | 2500A: 7744 | 3200A: 10000 | 4000A: 10000 | 5000A: 14400"
+            },
+            {
+              "nome": "Resistência de sequência zero (mΩ/m) -L-Pe",
+              "valor": "630A: 0,217 | 800A: 0,198 | 1000A: 0,186 | 1250A: 0,174 | 1600A: 0,144 | 2000A: 0,130 | 2500A: 0,117 | 3200A: 0,101 | 4000A: 0,089 | 5000A: 0,086"
+            },
+            {
+              "nome": "Reatância de sequência zero (mΩ/m) - L-Pe",
+              "valor": "630A: 0,140 | 800A: 0,120 | 1000A: 0,100 | 1250A: 0,100 | 1600A: 0,060 | 2000A: 0,050 | 2500A: 0,040 | 3200A: 0,030 | 4000A: 0,020 | 5000A: 0,020"
+            },
+            {
+              "nome": "Impedância de sequência zero (mΩ/m) - L-Pe",
+              "valor": "630A: 0,290 | 800A: 0,260 | 1000A: 0,211 | 1250A: 0,200 | 1600A: 0156 | 2000A: 0,140 | 2500A: 0,124 | 3200A: 0,105 | 4000A: 0,091 | 5000A: 0,089"
+            },
+            {
+              "nome": "Perdas Joule a In 3RI2 (W/m)",
+              "valor": "630A: 71,3 | 800A: 79,69 | 1000A: 156,9 | 1250A: 186,5 | 1600A: 212,7 | 2000A: 261,6 | 2500A: 331,6 | 3200A: 371,7 | 4000A: 518,4 | 5000A: 667,5"
+            },
+            {
+              "nome": "Massa (kg/m)",
+              "valor": "630A: 22 | 800A: 25 | 1000A: 28,5 | 1250A: 30,55 | 1600A: 43,2 | 2000A: 46,9 | 2500A: 58,9 | 3200A: 80,1 | 4000A: 103,5 | 5000A: 109,5"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "630A: IP55 | 800A: IP55 | 1000A: IP55 | 1250A: IP55 | 1600A: IP55 | 2000A: IP55 | 2500A: IP55 | 3200A: IP55 | 4000A: IP55 | 5000A: IP55"
+            },
+            {
+              "nome": "6300A",
+              "valor": "Considerar linha dupla de 3200A"
+            }
+          ]
+        },
+        {
+          "grupo": "DADOS TÉCNICOS - 60Hz – A - ALUMÍNIO – 3P + N + PE (4P) (catálogo p.46)",
+          "itens": [
+            {
+              "nome": "Material do invólucro",
+              "valor": "Em chapa de aço carbono pintada de RAL 7032 sp. 15/10"
+            },
+            {
+              "nome": "Dimensões do invólucro (mm) (H)",
+              "valor": "320A: 137x60 | 400A: 137x60 | 630A: 137x87 | 800A: 137x85 | 1000A: 137x95 | 1250A: 137x121 | 1600A: 137x160 | 2000A: 137x205 | 2500A: 137x286 | 3200A: 137x376 | 4000A: 137x416 | 5000A: 137x567"
+            },
+            {
+              "nome": "Seção condutores Fase e Neutro (mm2)",
+              "valor": "320A: 244 | 400A: 244 | 630A: 379 | 800A: 474 | 1000A: 539 | 1250A: 707 | 1600A: 958 | 2000A: 1248 | 2500A: 1659 | 3200A: 2239 | 4000A: 2497 | 5000A: 3386"
+            },
+            {
+              "nome": "Seção condutor de proteção (mm2 Fe)",
+              "valor": "320A: 890 | 400A: 890 | 630A: 960 | 800A: 960 | 1000A: 990 | 1250A: 1068 | 1600A: 1185 | 2000A: 1320 | 2500A: 1563 | 3200A: 1833 | 4000A: 1851 | 5000A: 2406"
+            },
+            {
+              "nome": "Seção condutor de proteção (mm2 eq. Cu)",
+              "valor": "320A: 111 | 400A: 111 | 630A: 120 | 800A: 120 | 1000A: 124 | 1250A: 134 | 1600A: 148 | 2000A: 165 | 2500A: 195 | 3200A: 229 | 4000A: 231 | 5000A: 301"
+            },
+            {
+              "nome": "Tensão de operação/isolamento (V)",
+              "valor": "320A: 1000 | 400A: 1000 | 630A: 1000 | 800A: 1000 | 1000A: 1000 | 1250A: 1000 | 1600A: 1000 | 2000A: 1000 | 2500A: 1000 | 3200A: 1000 | 4000A: 1000 | 5000A: 1000"
+            },
+            {
+              "nome": "Resistência R20 (mΩ/m)",
+              "valor": "320A: 0,1947 | 400A: 0,1627 | 630A: 0,1109 | 800A: 0,0882 | 1000A: 0,0806 | 1250A: 0,0627 | 1600A: 0,0476 | 2000A: 0,0364 | 2500A: 0,0261 | 3200A: 0,0200 | 4000A: 0,0186 | 5000A: 0,0090"
+            },
+            {
+              "nome": "Resistência a 50% da carga nominal (mΩ/m)",
+              "valor": "320A: 0,2093 | 400A: 0,1520 | 630A: 0,1064 | 800A: 0,0795 | 1000A: 0,0708 | 1250A: 0,0542 | 1600A: 0,0410 | 2000A: 0,0309 | 2500A: 0,0226 | 3200A: 0,0175 | 4000A: 0,0155 | 5000A: 0,0111"
+            },
+            {
+              "nome": "Resistência Rt (mΩ/m)",
+              "valor": "320A: 0,2223 | 400A: 0,1627 | 630A: 0,1109 | 800A: 0,0882 | 1000A: 0,0806 | 1250A: 0,0627 | 1600A: 0,0476 | 2000A: 0,0364 | 2500A: 0,0261 | 3200A: 0,0200 | 4000A: 0,0186 | 5000A: 0,0090"
+            },
+            {
+              "nome": "Reatância (mΩ/m)",
+              "valor": "320A: 0,0202 | 400A: 0,0328 | 630A: 0,0198 | 800A: 0,0237 | 1000A: 0,0199 | 1250A: 0,0164 | 1600A: 0,0125 | 2000A: 0,0103 | 2500A: 0,0074 | 3200A: 0,0058 | 4000A: 0,0055 | 5000A: 0,0090"
+            },
+            {
+              "nome": "Impedância a 20° C (mΩ/m)",
+              "valor": "320A: 0,1998 | 400A: 0,1485 | 630A: 0,1035 | 800A: 0,0801 | 1000A: 0,0713 | 1250A: 0,0547 | 1600A: 0,0412 | 2000A: 0,0317 | 2500A: 0,0230 | 3200A: 0,0176 | 4000A: 0,0159 | 5000A: 0,0050"
+            },
+            {
+              "nome": "Impedância a 50% da carga nominal (mΩ/m)",
+              "valor": "320A: 0,2098 | 400A: 0,1557 | 630A: 0,1081 | 800A: 0,0826 | 1000A: 0,0736 | 1250A: 0,0566 | 1600A: 0,0428 | 2000A: 0,0326 | 2500A: 0,0238 | 3200A: 0,0185 | 4000A: 0,0164 | 5000A: 0,0117"
+            },
+            {
+              "nome": "Impedância de equilíbrio térmico (mΩ/m)",
+              "valor": "320A: 0,2232 | 400A: 0,1587 | 630A: 0,1126 | 800A: 0,0913 | 1000A: 0,0832 | 1250A: 0,0649 | 1600A: 0,0496 | 2000A: 0,0381 | 2500A: 0,0274 | 3200A: 0,0209 | 4000A: 0,0195 | 5000A: 0,0130"
+            },
+            {
+              "nome": "Resistência dos condutores de proteção com invólucro em chapa de aço (mΩ/m)",
+              "valor": "320A: 0,18 | 400A: 0,16 | 630A: 0,14 | 800A: 0,14 | 1000A: 0,13 | 1250A: 0,12 | 1600A: 0,11 | 2000A: 0,10 | 2500A: 0,08 | 3200A: 0,07 | 4000A: 0,07 | 5000A: 0,056"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta-duração (kA) para c.c. trifásico",
+              "valor": "320A: 10 | 400A: 20 | 630A: 30 | 800A: 40 | 1000A: 50 | 1250A: 65 | 1600A: 80 | 2000A: 80 | 2500A: 90 | 3200A: 100 | 4000A: 115 | 5000A: 120"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração (kA) para c.c. Fase-N",
+              "valor": "320A: 6 | 400A: 12 | 630A: 18 | 800A: 24 | 1000A: 30 | 1250A: 39 | 1600A: 48 | 2000A: 48 | 2500A: 54 | 3200A: 60 | 4000A: 69 | 5000A: 72"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração (kA) para c.c. Fase-PE",
+              "valor": "320A: 6 | 400A: 12 | 630A: 18 | 800A: 24 | 1000A: 30 | 1250A: 39 | 1600A: 48 | 2000A: 48 | 2500A: 54 | 3200A: 60 | 4000A: 69 | 5000A: 72"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. trifásico",
+              "valor": "320A: 22 | 400A: 44 | 630A: 66 | 800A: 88 | 1000A: 110 | 1250A: 143 | 1600A: 176 | 2000A: 176 | 2500A: 198 | 3200A: 220 | 4000A: 253 | 5000A: 264"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. fase-N",
+              "valor": "320A: 13,2 | 400A: 26,4 | 630A: 39,6 | 800A: 53 | 1000A: 66 | 1250A: 86 | 1600A: 106 | 2000A: 106 | 2500A: 119 | 3200A: 132 | 4000A: 152 | 5000A: 162"
+            },
+            {
+              "nome": "Corrente de crista (kA) para c.c. fase-PE",
+              "valor": "320A: 13,2 | 400A: 26,4 | 630A: 39,6 | 800A: 53 | 1000A: 66 | 1250A: 86 | 1600A: 106 | 2000A: 106 | 2500A: 119 | 3200A: 132 | 4000A: 152 | 5000A: 162"
+            },
+            {
+              "nome": "En. spec. passante curta duração (A2s)*106 referida a 1s - c.c.trifásico",
+              "valor": "320A: 411 | 400A: 822 | 630A: 1271 | 800A: 1600 | 1000A: 2500 | 1250A: 4225 | 1600A: 6400 | 2000A: 6400 | 2500A: 10000 | 3200A: 10000 | 4000A: 13225 | 5000A: 14400"
+            },
+            {
+              "nome": "Resistência de sequência zero (mΩ/m) -L-Pe",
+              "valor": "320A: 0,452 | 400A: 0,393 | 630A: 0,253 | 800A: 0,202 | 1000A: 0,190 | 1250A: 0,166 | 1600A: 0,143 | 2000A: 0,124 | 2500A: 0,102 | 3200A: 0,085 | 4000A: 0,083 | 5000A: 0,0057"
+            },
+            {
+              "nome": "Reatância de sequência zero (mΩ/m) - L-Pe",
+              "valor": "320A: 0,160 | 400A: 0,140 | 630A: 0,120 | 800A: 0,100 | 1000A: 0,100 | 1250A: 0,060 | 1600A: 0,050 | 2000A: 0,040 | 2500A: 0,030 | 3200A: 0,020 | 4000A: 0,020 | 5000A: 0,0020"
+            },
+            {
+              "nome": "Impedância de sequência zero (mΩ/m) - L-Pe",
+              "valor": "320A: 0,298 | 400A: 0,273 | 630A: 0,243 | 800A: 0,225 | 1000A: 0,214 | 1250A: 0,177 | 1600A: 0,151 | 2000A: 0,130 | 2500A: 0,107 | 3200A: 0,087 | 4000A: 0,085 | 5000A: 0,0060"
+            },
+            {
+              "nome": "Perdas Joule a In 3RI2 (W/m)",
+              "valor": "320A: 68,57 | 400A: 74,29 | 630A: 131,98 | 800A: 175 | 1000A: 244 | 1250A: 298,2 | 1600A: 366,4 | 2000A: 435,8 | 2500A: 488,6 | 3200A: 615,4 | 4000A: 919,5 | 5000A: 997,5"
+            },
+            {
+              "nome": "Massa (kg/m)",
+              "valor": "320A: 12 | 400A: 14,7 | 630A: 17 | 800A: 18 | 1000A: 19,9 | 1250A: 20,5 | 1600A: 24,9 | 2000A: 28 | 2500A: 40,0 | 3200A: 49,2 | 4000A: 53,0 | 5000A: 73,8"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "320A: IP 55 | 400A: IP 55 | 630A: IP 55 | 800A: IP 55 | 1000A: IP 55 | 1250A: IP 55 | 1600A: IP 55 | 2000A: IP 55 | 2500A: IP 55 | 3200A: IP 55 | 4000A: IP 55 | 5000A: IP 55"
+            },
+            {
+              "nome": "6300A",
+              "valor": "Considerar linha dupla de 3200A"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Linhas com capacidade de 320A a 6300A 3P+N+PE adequadas para o transporte e distribuição de energia elétrica em seções verticais e horizontais de quaisquer configurações.",
+        "instalação em espaços apertados e ambientes agressivos.",
+        "Acessórios para conexão a transformador: Quadro elétrico, Transformador seco, Transformador em óleo, Grupo gerador (catálogo p.12)"
+      ],
+      "normas": [
+        "IEC-61439-1",
+        "IEC-61439-6",
+        "NBR-IEC-61439-1",
+        "NBR-IEC-61439-6",
+        "IEC-61439-1_Ed. 2.0b / NBR-IEC-61439-1_2016 – Conjuntos de manobra e controle de baixa tensão. Parte 1: Conjuntos com ensaio de tipo totalmente testados (TTA) e conjuntos com ensaio de tipo parcialmente testados (PTTA)",
+        "IEC-61439-6_Ed. 1.0b / NBR-IEC-61439-6_2018 – Conjuntos de manobra e controle de baixa tensão. Parte 2: Requisitos particulares para linhas elétricas pré-fabricadas (sistemas de barramentos blindados).",
+        "CEI EN 60529_Ed. 2.1 b Cor.3 / ABNT NBR IEC 60529:2005 Versão Corrigida 2:2011 – Graus de proteção para invólucros de equipamentos elétricos (código IP)",
+        "ISO 9001:2015",
+        "ISO 14001:2015"
+      ],
+      "catalogo_pdf": "https://www.gimipogliano.com.br/_files/ugd/e1e52f_c3afb555520446a8ad57cc88132b49e2.pdf",
+      "imagens": [
+        {
+          "arquivo": "bx-e-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_6731541f203c4cbb8fadc078fc26e744~mv2.png",
+          "alt": "Barramento blindado de baixa tensão BX-E: trecho reto em invólucro metálico com as barras condutoras expostas na extremidade",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bx-e-2.png",
+          "origem": "Catálogo BX-E PDF p.4 (recorte da ilustração)",
+          "alt": "Ilustração de uma linha de barramento BX-E com caixas de derivação plug-in e elementos terminais",
+          "tipo": "instalacao"
+        }
+      ],
+      "observacoes": "Fontes: resumo, descrição e 'Características Técnicas (site)' = home gimipogliano.com.br seção #barramentoblindado. 'caracteristicas' = catálogo BX-E p.4 (CARACTERÍSTICAS DO SISTEMA). Versões = PDF p.5-6; elementos/torque = p.10-11; dados técnicos Cobre = p.45 e Alumínio = p.46 (lidos visualmente da página renderizada; tabela em texto vinha embaralhada); normas = PDF p.47 (Declaração de conformidade) + site. Divergências da fonte: o site diz 'Tensão suportável de frequência industrial (50/60Hz): 3,5kV/5s' enquanto o folder geral do Grupo GIMI diz '3,5kV/1s'; a lista de correntes em alumínio do site não inclui 2500A, mas a tabela do PDF p.46 inclui 2500A (e o folder geral ainda lista 500A); o PDF p.4 cita IEC-61439-2/IEC 60439 enquanto o site e a declaração p.47 citam IEC-61439-6. Em ambas as tabelas a coluna 6300A está vazia com a nota 'Considerar linha dupla de 3200A'. Existe também um catálogo BX-E diferente (54 páginas) em grupogimi.com.br/catalogos (https://www.grupogimi.com.br/_files/ugd/e1e52f_0f4b93b7cfc54b3f9da6c5dd499dc2c9.pdf) que NÃO foi transcrito. O catálogo de 48 páginas contém ainda códigos de encomenda de cada elemento (retos, curvas, T, derivações, suportes) não transcritos. Página /dimensionamentobusway contém só um chamado ao dimensionador (texto: 'Deseja ter sistema de barramentos blindados em seu projeto? Aqui você pode dimensionar seu próprio barramento ou então nos informar as características de sua obra que nós entregamos a melhor opção.'), sem dados técnicos. Fotos reais (não renders) não existem no site para este produto; a imagem do site é um render 3D."
+    },
+    {
+      "slug": "bx-mt",
+      "nome": "BX-MT",
+      "linha_categoria": "Barramento Blindado de Média Tensão",
+      "url_origem": "https://www.gimipogliano.com.br/#barramentoblindado",
+      "resumo": "É utilizado para o transporte de energia de 17,5kV, 24kV e 36kV, produzido de acordo com a norma NBR-IEC-62.271-200, e grau de proteção IP 55, e fornecido nas correntes de 630A, 1250A e 2500A, para sistemas de fases segregadas e não segregadas.",
+      "descricao": [
+        "BARRAMENTO BLINDADO DE MÉDIA TENSÃO",
+        "É utilizado para o transporte de energia de 17,5kV, 24kV e 36kV, produzido de acordo com a norma NBR-IEC-62.271-200, e grau de proteção IP 55, e fornecido nas correntes de 630A, 1250A e 2500A, para sistemas de fases segregadas e não segregadas.",
+        "FASES NÃO SEGREGADAS: Esse modelo de barramento blindado de MÉDIA TENSÃO, é utilizado para o transporte de energia em 17,5kV, 24kV e 36kV. O equipamento é construído em conformidade com a norma NBR-IEC-62.271-200, grau de proteção IP 55. E atualmente é fornecido nas correntes de 630A, 1250A e 2500A.",
+        "FASES SEGREGADAS: Esse modelo de barramento blindado de MÉDIA TENSÃO, é utilizado para o transporte em energia de 17,5kV, 24kV e 36kV. O equipamento é construído em conformidade com a norma NBR-IEC-62.271-200, e grau de proteção IP 55, E atualmente é fornecido nas correntes de 630A, 1250A e 2500A.",
+        "Diferente do barramento de fases não segregadas, este equipamento apresenta cada uma das fases dentro de um invólucro metálico exclusivo, o que impede os defeitos fase-fase, essencial aos sistemas isolados."
+      ],
+      "caracteristicas": [
+        "Vantagens na utilização do produto (fases não segregadas):",
+        "Sistema Modular: O sistema é totalmente modular, sendo facilmente adaptável para os mais diversos layouts, inclusive, caso ocorra a necessidade de mudança de layout, o produto poderá ser ajustado para absorver a nova demanda, diferentemente da solução de cabos.",
+        "Facilidade de Montagem/ Manutenção: O Sistema Modular GIMIPOGLIANO. Conta com guias para pré-montagem, que facilitam a conexão entre as peças. Todas as junções contam com guarnições de borracha. Na parte superior do produto existem janelas de inspeção para montagem e manutenção, e caso seja necessário, toda a tampa superior pode ser removida, podendo favorecer uma manutenção com maior grau de complexidade.",
+        "Produto auto suportante: A estrutura do produto permite que a equipe de manutenção caminhe sobre o mesmo, (desde que a estrutura que sustenta o produto seja dimensionada para o mesmo, e que existam linhas de vida, guarda corpo, ou outro sistema validado pela equipe de segurança do trabalho, da empresa em que o produto estiver instalado).",
+        "Vantagens na utilização do produto (fases segregadas):",
+        "Sistema para neutro isolado que impede o defeito fase-fase.",
+        "Sistema Modular: O sistema é totalmente modular, sendo facilmente adaptável para os mais diversos layouts, inclusive, caso ocorra a necessidade de mudança de layout, o produto poderá ser ajustado para absorver a nova demanda, diferentemente da solução de cabos."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características Técnicas (site)",
+          "itens": [
+            {
+              "nome": "NBI",
+              "valor": "110kV/ 125kV e 170kV"
+            },
+            {
+              "nome": "Classes de isolação",
+              "valor": "17,5kV, 24kV, 36kV"
+            },
+            {
+              "nome": "Capacidade de curto-circuito",
+              "valor": "16kA/1s"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "630A/ 1250A/ 2500A"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "IP - 55."
+            }
+          ]
+        },
+        {
+          "grupo": "DADOS TÉCNICOS – BARRAMENTO BLINDADO DE MÉDIA TENSÃO - FASES NÃO SEGREGADAS (catálogo p.3)",
+          "itens": [
+            {
+              "nome": "CORRENTE",
+              "valor": "630A | 1250A | 2500A"
+            },
+            {
+              "nome": "NORMA",
+              "valor": "NBR-IEC-62.271-200"
+            },
+            {
+              "nome": "MATERIAL DO CONDUTOR",
+              "valor": "COBRE"
+            },
+            {
+              "nome": "TRATAMENTO SUPERFICIAL",
+              "valor": "NATURAL/ ESTANHADA / PRATEADA"
+            },
+            {
+              "nome": "GRAU DE PROTEÇÃO",
+              "valor": "IP55"
+            },
+            {
+              "nome": "INVÓLUCRO",
+              "valor": "CHAPA DE AÇO PRÉ-ZINCADO - PRÉ PINTADA/ ALUMÍNIO PINTADO"
+            },
+            {
+              "nome": "TEMPERATURA AMBIENTE",
+              "valor": "-5°C~40°C"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 17,5kV",
+              "valor": "110kV"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 24kV",
+              "valor": "125kV"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 36,2kV",
+              "valor": "170kV"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 17,5kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 24kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 36,2kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 17,5kV",
+              "valor": "630A: 570X1310 | 1250A: 570X1310 | 2500A: 570X1430"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 24kV",
+              "valor": "630A: 570X1310 | 1250A: 570X1310 | 2500A: 570X1430"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 36,2kV",
+              "valor": "630A: 890X2270 | 1250A: 890X2270 | 2500A: 890X2390"
+            }
+          ]
+        },
+        {
+          "grupo": "DADOS TÉCNICOS – BARRAMENTO BLINDADO DE MÉDIA TENSÃO - FASES SEGREGADAS (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "CORRENTE",
+              "valor": "630A | 1250A | 2500A"
+            },
+            {
+              "nome": "NORMA",
+              "valor": "NBR-IEC-62.271-200"
+            },
+            {
+              "nome": "MATERIAL DO CONDUTOR",
+              "valor": "COBRE"
+            },
+            {
+              "nome": "TRATAMENTO SUPERFICIAL",
+              "valor": "NATURAL/ ESTANHADA / PRATEADA"
+            },
+            {
+              "nome": "GRAU DE PROTEÇÃO",
+              "valor": "IP55"
+            },
+            {
+              "nome": "INVÓLUCRO",
+              "valor": "CHAPA DE AÇO PRÉ-ZINCADO - PRÉ PINTADA/ ALUMÍNIO PINTADO"
+            },
+            {
+              "nome": "TEMPERATURA AMBIENTE",
+              "valor": "-5°C~40°C"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 17,5kV",
+              "valor": "110kV"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 24kV",
+              "valor": "125kV"
+            },
+            {
+              "nome": "IMPULSO ATMOSFÉRICO – 36,2kV",
+              "valor": "170kV"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 17,5kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 24kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "MEDIDA DA BARRA – 36,2kV",
+              "valor": "630A: 1X(40X10) | 1250A: 2X(40X10) | 2500A: 2X(80X10)"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 17,5kV",
+              "valor": "630A: 570X1310 | 1250A: 570X1310 | 2500A: 570X1430"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 24kV",
+              "valor": "630A: 570X1310 | 1250A: 570X1310 | 2500A: 570X1430"
+            },
+            {
+              "nome": "DIMENSÕES DO INVOLUCRO – 36,2kV",
+              "valor": "630A: 890X2270 | 1250A: 890X2270 | 2500A: 890X2390"
+            }
+          ]
+        },
+        {
+          "grupo": "Elementos – fases não segregadas: comprimento da peça e medida do invólucro A x B (mm) (catálogo p.4-9)",
+          "itens": [
+            {
+              "nome": "ELEMENTO DE TRANSPORTE",
+              "valor": "Medida mínima 0,5m / máxima 3m. Invólucro A x B: 17,5kV e 24kV – 630A 570x930, 1250A 570x930, 2500A 570x1050; 36,2kV – 630A 890x1050, 1250A 890x1050, 2500A 890x1690"
+            },
+            {
+              "nome": "CURVA VERTICAL",
+              "valor": "Medida mínima da aba C: 1,1m (17,5kV e 24kV), 1,5m (36,2kV); medida máxima da aba D: 3m. Invólucro igual ao elemento de transporte"
+            },
+            {
+              "nome": "CURVA HORIZONTAL",
+              "valor": "Medida mínima da aba C: 1,5m (17,5kV e 24kV), 1,5m/1,5m/2m (36,2kV 630A/1250A/2500A); máxima D: 3m"
+            },
+            {
+              "nome": "“T” VERTICAL",
+              "valor": "Medida mínima da aba C: 1,1m (17,5kV), 1,5m (24kV e 36,2kV); máxima D: 3m"
+            },
+            {
+              "nome": "“T” HORIZONTAL",
+              "valor": "Medida mínima da aba C: 1,5m (17,5kV e 24kV), 1,5m/1,5m/2m (36,2kV 630A/1250A/2500A); máxima D: 3m"
+            },
+            {
+              "nome": "ELEMENTO TERMINAL",
+              "valor": "Medida mínima 0,5m / máxima 3m; invólucro igual ao elemento de transporte"
+            }
+          ]
+        },
+        {
+          "grupo": "Elementos – fases segregadas: comprimento da peça e medida do invólucro A x B (mm) (catálogo p.12-17)",
+          "itens": [
+            {
+              "nome": "ELEMENTO DE TRANSPORTE",
+              "valor": "Medida mínima 0,5m / máxima 3m. Invólucro A x B: 17,5kV e 24kV – 630A 570x1310, 1250A 570x1310, 2500A 570x1430; 36,2kV – 630A 890x2270, 1250A 890x2270, 2500A 890x2390"
+            },
+            {
+              "nome": "CURVA VERTICAL",
+              "valor": "Medida mínima da aba C: 1,1m (17,5kV e 24kV), 1,5m (36,2kV); máxima D: 3m"
+            },
+            {
+              "nome": "CURVA HORIZONTAL",
+              "valor": "Medida mínima da aba C: 1,5m (17,5kV e 24kV), 2,5m (36,2kV); máxima D: 3m"
+            },
+            {
+              "nome": "“T” VERTICAL",
+              "valor": "Medida mínima da aba C: 1,1m (17,5kV e 24kV), 1,5m (36,2kV); máxima D: 3m"
+            },
+            {
+              "nome": "“T” HORIZONTAL",
+              "valor": "Medida mínima da aba C: 1,5m (17,5kV e 24kV), 2,5m (36,2kV); máxima D: 3m"
+            },
+            {
+              "nome": "ELEMENTO TERMINAL",
+              "valor": "Medida mínima 0,5m / máxima 3m; invólucro igual ao elemento de transporte"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "transporte de energia de 17,5kV, 24kV e 36kV",
+        "para sistemas de fases segregadas e não segregadas.",
+        "essencial aos sistemas isolados. (fases segregadas)"
+      ],
+      "normas": [
+        "NBR-IEC-62.271-200"
+      ],
+      "catalogo_pdf": "https://www.gimipogliano.com.br/_files/ugd/e1e52f_16f1ff39457748468c07883baa9a6d7c.pdf",
+      "imagens": [
+        {
+          "arquivo": "bx-mt-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_cc67ad74014145c3aa23e5d1cb7caee2~mv2.png",
+          "alt": "Barramento blindado de média tensão BX-MT: trecho em invólucro metálico com janela de inspeção e barras de cobre sobre isoladores",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bx-mt-2.png",
+          "origem": "Catálogo BX-MT PDF p.2 (recorte)",
+          "alt": "Render de uma linha BX-MT de fases não segregadas com curvas e elementos terminais",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "bx-mt-3.png",
+          "origem": "Catálogo BX-MT PDF p.10 (recorte)",
+          "alt": "Render de uma linha BX-MT de fases segregadas com curvas e elementos terminais",
+          "tipo": "instalacao"
+        }
+      ],
+      "observacoes": "PDF BX-MT é composto apenas por imagens (sem camada de texto); transcrito visualmente das páginas renderizadas. Fontes: resumo/'Características Técnicas (site)' = home do site; descrição/vantagens = PDF p.2 (não segregadas) e p.10-11 (segregadas); tabelas DADOS TÉCNICOS = PDF p.3 e p.11; tabelas de elementos = p.4-9 e p.12-17 (resumidas: valores numéricos conferidos, mas os rótulos 'Invólucro igual...' e a consolidação por tensão são resumo meu, não texto verbatim). Inconsistência na fonte: a tabela DADOS TÉCNICOS de fases NÃO segregadas (p.3) traz dimensões de invólucro idênticas às de fases segregadas (570X1310/890X2270...), mas as páginas de elementos de fases não segregadas (p.4-9) mostram B = 930/1050/1690 mm. 'Tratamento superficial' e '2500A' da coluna direita das tabelas confirmados na vista geral da página. O site cita '36kV'; o PDF usa '36,2kV'. Todas as imagens são renders 3D (não há fotos reais)."
+    },
+    {
+      "slug": "caixa-mec",
+      "nome": "CAIXA MEC",
+      "linha_categoria": "Sistema de Medição Eletrônica Centralizada",
+      "url_origem": "https://www.gimipogliano.com.br/#barramentoblindado",
+      "resumo": "Sistema de medição Eletrônica Centralizada composto por quadro de distribuição compacto (QDC) nos modelos QDC5, QDC10, QDC15, QDC21 E QDC MODULAR; Caixas de leitura local e remota do tipo CLI, CLII e caixas do tipo MEC, nos modelos MECI, MECII, MEC IV, MEC IX, MEC XII, MEC XVI.",
+      "descricao": [
+        "Sistema de medição Eletrônica Centralizada composto por quadro de distribuição compacto (QDC) nos modelos QDC5, QDC10, QDC15, QDC21 E QDC MODULAR; Caixas de leitura local e remota do tipo CLI, CLII e caixas do tipo MEC, nos modelos MECI, MECII, MEC IV, MEC IX, MEC XII, MEC XVI.",
+        "Sistema de Medição Eletrônica Centralizada para Instalações Prediais. QDC®",
+        "Introduzido no mercado pela AES-Eletropaulo, os Quadros de Distribuição Compactos tipo QDC são Totalmente Testados e Aprovados dentro do conceito TTA da NBR - IEC - 60439 -1 e homologados conforme especificações do LIG-BT 2014 (12ª edição) da AES Eletropaulo.",
+        "O QDC é o conjunto de dispositivos elétricos (chaves seccionadoras verticais, isoladores e barramentos) montados em caixas metálicas padronizadas, com chaves seccionadoras verticais e fusíveis de fabricação ABB.",
+        "As caixas são construídas em chapa de aço carbono SAE 1008, de espessura 2,0mm e tratadas com pintura eletrostática em pó híbrido POLITHERM 20, Texturizado CINZA N6,5 BR de fabricação WEG tintas e vernizes. As portas dotadas de venezianas facilitam a troca de calor e possuem ângulo de abertura de 180º, providas de fechaduras com dispositivo para lacre no padrão da concessionária. Pode ser instalada embutida na construção de alvenaria.",
+        "Os quadros de distribuição compactos QDC são aplicados somente em edifícios conectados à rede de distribuição aérea ou subterrânea secundária com sistema estrela com neutro, 127/220V ou 120/208V, observando-se os limites de fornecimento para cada sistema de distribuição. A sua utilização é permitida em edifícios comerciais, residenciais ou mistos com demanda total de até 1000kVA e onde o nível de curto-circuito no ponto de entrega não seja superior a 65kA/1s.",
+        "Caixas Padrão para Medição Eletrônica Centralizada tipo MEC – Caixa destinada a alojar os equipamentos de medição, acessórios e dispositivos de seccionamento e proteção.",
+        "A caixa de medição é construída em chapa de aço carbono SAE-1008 de espessura 1,6mm, visei-ra de policarbonato virgem totalmente transparente de 3 mm de espessura e tela protetora nas caixas, dobradiças invioláveis, tubetes para parafusos de segurança e dispositivo para lacre. A tela protetora das caixas metálicas pertence ao próprio corpo das caixas de medição, conforme protótipo de homologação da AES Eletropaulo.",
+        "As caixas de medição possuem, gravado em relevo, a marca comercial da Gimi, cujo protótipo foi homologado pela AES Eletropaulo.",
+        "As caixas de medição ainda possuem gravado em relevo nas portas e corpo a data de fabricação (mês e ano).",
+        "As caixas de medição são fabricadas conforme a NBR 15820:2010. Os tipos de caixas de medição homologadas para o sistema de medição eletrônica centralizada estão elencados a seguir.",
+        "A alimentação da caixa de medição pode ser feita por meio de conectores extraíveis (pinça plug-in) devidamente fixados à caixa de medição e inserida diretamente sobre o barramento blindado ou através de caixa de derivação. Em ambas as situações devem ser previstos dispositivo de prote-ção e manobra a ser instalado no interior da caixa de medição ou de derivação, conforme o caso.",
+        "Nos casos em que a alimentação da caixa de medição se der por meio de caixa de derivação, da saída do dispositivo de proteção e manobra deve ser instalado um único ramal de distribuição principal, com seção máxima de 185 mm² – PVC 70°C ou 185 mm² – XLPE/EPR até a caixa de medição devidamente acondicionado em eletroduto. Nestes casos o ramal de distribuição principal deve ser feito sempre com 4 condutores (3 fases e neutro) de mesma seção, a fim de possibilitar o balanceamento de cargas.",
+        "Caixas de Derivação – As caixas de derivação podem ser construídas de duas formas: Metálicas ou em Policarbonato.",
+        "METÁLICAS: Construídas em chapa de aço carbono SAE-1008 de espessura 1,6mm, pré-zincada a 100g/m², dobradiças invioláveis e dispositivo para lacre. A sua montagem se dá completamente por rebites, sendo isenta de processos de soldagem e garante um grau de proteção IP-55. Os modelos e capacidades estão abaixo elencados:",
+        "POLICARBONATO: As caixas são construídas em termoplástico de engenharia (policarbonato) de 2,9mm nas cores cinza ou vermelho, enquanto as tampas são produzidas em policarbonato transparente com proteção anti-UV, conforme a NBR-15820, com separadores internos e dispositivo para lacre. A sua montagem se dá completamente por encaixe, são completamente isentas de risco de corrosão por maresia ou agentes químicos, sendo providas de grau de proteção IP-44.",
+        "Engate seguro: As caixas de medição tipo MEC de fabricação GIMI são adequadas para inserção e extração segura e independente da força humana pois são equipadas com sistema de engate seguro como mostrado na figura abaixo.",
+        "Esse sistema inserção e extração segura e independente da força humana consiste em rosca sem fim que insere e extrai automaticamente a caixa do acoplamento ao barramento, apenas girando em senti-do horário para inserção e anti-horário para extração o parafuso disposto acima do teto da caixa tipo MEC. Adicionalmente, esse sistema permite às caixas MEC Gimi não utilizar nenhum outro apoio para suportação do peso da caixa, como pés ou suportes, facilitando a montagem e poupando tempo e custos.",
+        "Caixas Concentradoras e de Leitura Local – As caixas concentradoras são destinadas a receber os cabos de comunicação de todos os medidores eletrônicos do edifício, alojam o bloco de conexão ininterrupta, bem como abrigam o painel interface serial remoto, 2 Tomadas Vca (FFT ou FNT) protegida por disjuntor de 10A. Construída em chapa de aço carbono de espessura 1,5mm com tratamento anticorrosivo e pintura de acabamento de tinta a pó sintética resistente ao tempo na cor cinza.",
+        "As caixas concentradoras podem ser embutidas em alvenaria ou ser fixada firmemente por meio de parafusos, porcas, buchas e arruelas, e apoiada sobre base de alvenaria. Deve ser prevista a instalação de uma caixa concentradora tipo CL-I em cada centro de medição, no recinto onde estiver instalado o dispositivo geral de proteção e manobra do barramento blindado. A caixa concentradora deve ser instalada a altura compreendida entre 600 a 1.000 mm do piso acabado, considerando a base inferior da caixa."
+      ],
+      "caracteristicas": [
+        "Chaves Seccionadoras: As chaves seccionadoras utilizadas nos quadros são do tipo interrupção trifásica, de construção vertical para utilização de fusíveis do tipo NH.",
+        "Princípio de Funcionamento das Chaves: Posição Fechada; Posição de manutenção ou substituição de fusíveis; Instalação Simétrica para Conexão Superior ou Inferior; Posição Aberta; Montagem Padronizada",
+        "Acessórios Padronizados: Bloqueio na Posição Fechada (Versão Padrão); Bloqueio na Posição Aberta (Versão Padrão); Conecção de cabos com terminais (Versão Padrão); Conecção de cabos Estanhados (Sob Solicitação); Medição de Corrente (Sob Solicitação); Saída Temporária Adicional de Carga (Sob Solicitação); Monitoramento Eletrônico de Fusíveis (Sob Solicitação); Transformadores de Corrente e Amperímetros (Sob Solicitação); Contatos Auxiliares (Sob Solicitação)"
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Tamanhos e tipos de QDC (catálogo p.4)",
+          "itens": [
+            {
+              "nome": "Tipo do QDC",
+              "valor": "10 | 15 | 21 | Modular N*-15"
+            },
+            {
+              "nome": "Largura (mm)",
+              "valor": "10: 1000 | 15: 1500 | 21: 2100 | Modular: N x 1500"
+            },
+            {
+              "nome": "Altura (mm)",
+              "valor": "1400"
+            },
+            {
+              "nome": "Profundidade (mm)",
+              "valor": "3500"
+            },
+            {
+              "nome": "Demanda Máxima (kW)",
+              "valor": "10: 250 | 15: 500 | 21: 1000 | Modular: 1000**"
+            },
+            {
+              "nome": "Classe de Tensão (V)",
+              "valor": "500"
+            },
+            {
+              "nome": "Tensão Nominal de Operação (V)",
+              "valor": "220/127 ou 208/120"
+            },
+            {
+              "nome": "Tensão Suportável de Impulso Atmosférico",
+              "valor": "8kV"
+            },
+            {
+              "nome": "Corrente Suportável Nominal de Curta Duração",
+              "valor": "65kA/1s"
+            },
+            {
+              "nome": "Número Máximo de Circuitos",
+              "valor": "10: 6 | 15: 10 | 21: 16 | Modular: N**15"
+            },
+            {
+              "nome": "Número Máximo de Circuitos de Alimentação",
+              "valor": "10: 2 | 15: 4 | 21: 8/6*** | Modular: 8/6***"
+            },
+            {
+              "nome": "Sessão dos Condutores",
+              "valor": "10: 240mm² | 15: 240mm² | 21: 240mm² ***400mm² | Modular: 240mm² ***400mm2"
+            },
+            {
+              "nome": "Sessão dos Barramentos",
+              "valor": "10: 30x10mm | 630A | 15: 40x10mm | 850A; 80x10mm | 1500A; 2x(100x10)mm | 2850A | 21: 80x10mm 1500A; 2x 100x10mm 2850A | Modular: –"
+            },
+            {
+              "nome": "Nota *",
+              "valor": "O QDC do tipo modular consiste na associação de quadros do tipo 15 em que deverá ser in dicado o valor de “N” que representa esta quantidade."
+            },
+            {
+              "nome": "Nota **",
+              "valor": "A utilização deste tipo de QDC destina-se à demanda igual ou superior a 500kVA, e ainda a capacidade, número de chaves e ao dimensionamento dos barramentos."
+            },
+            {
+              "nome": "Nota ***",
+              "valor": "O número máximo de circuitos informados refere-se para utilização do QDC para demanda de 1000kVA em 127/220V. Na utilização deste QDC para demanda situada entre 500kVA e 750kVA devem ser considerados no máximo 6 circuitos (4x240mm²)."
+            }
+          ]
+        },
+        {
+          "grupo": "Chaves Seccionadoras – Corrente Nominal (A) / Seção Máxima do Condutor / Fusível tipo NH (tamanho/corrente) / Modelo da chave (catálogo p.5)",
+          "itens": [
+            {
+              "nome": "160",
+              "valor": "95mm² | NH000 e NH00 6, 10, 16, 20, 25, 32, 40, 50, 63, 80, 100, 125, 160 | XLBM-000"
+            },
+            {
+              "nome": "250",
+              "valor": "150mm² | NH01 100, 125, 160, 200, 224, 250 | XLBM-01"
+            },
+            {
+              "nome": "400",
+              "valor": "240mm² | NH01 e NH02 100, 125, 160, 200, 224, 250, 315, 355, 400 | XLBM-02"
+            },
+            {
+              "nome": "630",
+              "valor": "400mm² | NH01, NH02 e NH03 100, 125, 160, 200, 224, 250, 315, 355, 400, 500, 630 | XLBM-03"
+            },
+            {
+              "nome": "800",
+              "valor": "2X(240 ou 400)mm² | NH01 e NH02 2x(100, 125, 160, 200, 224, 250, 315, 355, 400) | XLBM-02"
+            },
+            {
+              "nome": "1250",
+              "valor": "2X(240 ou 400)mm² | NH01, NH02 e NH03 2x (100, 125, 160, 200, 224, 250, 315, 355, 400, 500, 630) | XLBM-03"
+            }
+          ]
+        },
+        {
+          "grupo": "Caixas MEC – Tipo da caixa / Número de medidores (catálogo p.8)",
+          "itens": [
+            {
+              "nome": "MEC-I",
+              "valor": "01 (Medição Incêndio)"
+            },
+            {
+              "nome": "MEC-II",
+              "valor": "01 a 02"
+            },
+            {
+              "nome": "MEC-III",
+              "valor": "01 a 04"
+            },
+            {
+              "nome": "MEC-IV",
+              "valor": "01 (Medição Indireta)"
+            },
+            {
+              "nome": "MEC-VI",
+              "valor": "01 a 06"
+            },
+            {
+              "nome": "MEC-IX",
+              "valor": "01 a 09"
+            },
+            {
+              "nome": "MEC-XII",
+              "valor": "01 a 12"
+            },
+            {
+              "nome": "MEC-XII (segunda linha da tabela)",
+              "valor": "02 Medição Direta e 02 Medição Indireta"
+            }
+          ]
+        },
+        {
+          "grupo": "Caixas de Derivação metálicas – Tipo da caixa / Capacidade / Dimensões (catálogo p.9)",
+          "itens": [
+            {
+              "nome": "244452Z0LAB",
+              "valor": "125A (para 1 disjuntor tripolar em caixa moldada ou 12 pólos de mini-disjuntores) | H – 520mm L – 260mm P – 171mm"
+            },
+            {
+              "nome": "244540Z0LAB",
+              "valor": "125A (para 1 disjuntor tripolar em caixa moldada) | H – 520mm L – 260mm P – 171mm"
+            },
+            {
+              "nome": "249741Z0LAB",
+              "valor": "250A (para um disjuntor tripolar em caixa moldada) | H – 520mm L – 260mm P – 171mm"
+            },
+            {
+              "nome": "249743Z0LAB",
+              "valor": "400A (para um disjuntor tripolar em caixa moldada) | H – 545mm L – 375mm P –185mm"
+            },
+            {
+              "nome": "249747Z0LAB",
+              "valor": "630A (para um disjuntor tripolar em caixa moldada) | H – 545mm L – 375mm P – 185mm"
+            }
+          ]
+        },
+        {
+          "grupo": "Caixas Concentradoras – Tipo da caixa / Chapa nº (USB) / Material / Quantidade de Blocos/Edifícios/Torres / Desenho Número (catálogo p.11)",
+          "itens": [
+            {
+              "nome": "CL -I",
+              "valor": "16 | Só passagem | 67 sequência 1/3"
+            },
+            {
+              "nome": "CL -II",
+              "valor": "16 | 01 a 02 | 67 sequência 2/3"
+            },
+            {
+              "nome": "CL -III",
+              "valor": "16 | 01 a 04 | 67 sequência 3/3"
+            }
+          ]
+        },
+        {
+          "grupo": "Materiais e graus de proteção (catálogo p.3, 7, 9-11)",
+          "itens": [
+            {
+              "nome": "Caixas QDC",
+              "valor": "chapa de aço carbono SAE 1008, de espessura 2,0mm; pintura eletrostática em pó híbrido POLITHERM 20, Texturizado CINZA N6,5 BR"
+            },
+            {
+              "nome": "Caixa de medição MEC",
+              "valor": "chapa de aço carbono SAE-1008 de espessura 1,6mm; visei-ra de policarbonato virgem totalmente transparente de 3 mm"
+            },
+            {
+              "nome": "Caixa de derivação metálica",
+              "valor": "chapa de aço carbono SAE-1008 de espessura 1,6mm, pré-zincada a 100g/m²; IP-55"
+            },
+            {
+              "nome": "Caixa de derivação em policarbonato",
+              "valor": "policarbonato de 2,9mm nas cores cinza ou vermelho; IP-44"
+            },
+            {
+              "nome": "Caixa concentradora",
+              "valor": "chapa de aço carbono de espessura 1,5mm; tinta a pó sintética na cor cinza"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Sistema de Medição Eletrônica Centralizada para Instalações Prediais.",
+        "A sua utilização é permitida em edifícios comerciais, residenciais ou mistos com demanda total de até 1000kVA e onde o nível de curto-circuito no ponto de entrega não seja superior a 65kA/1s."
+      ],
+      "normas": [
+        "NBR - IEC - 60439 -1 (conceito TTA)",
+        "LIG-BT 2014 (12ª edição) da AES Eletropaulo",
+        "NBR 15820:2010",
+        "NBR-15820"
+      ],
+      "catalogo_pdf": "https://www.gimipogliano.com.br/_files/ugd/e1e52f_4c47627bfd1746d8b3c2302a1e1d198e.pdf",
+      "imagens": [
+        {
+          "arquivo": "caixa-mec-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_9525cc18d723408d903f5ff02532f58e~mv2.png",
+          "alt": "Ilustração de prumada com barramento blindado vertical, caixas de medição MEC acopladas e quadro QDC na base",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "caixa-mec-2.png",
+          "origem": "Catálogo CAIXA MEC PDF p.8 (recorte)",
+          "alt": "Foto da caixa de medição MEC II com portas com venezianas, para acoplamento direto aos barramentos BX-E (legenda do catálogo incluída no recorte)",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "caixa-mec-3.png",
+          "origem": "Catálogo CAIXA MEC PDF p.8 (recorte)",
+          "alt": "Foto traseira da caixa MEC mostrando a pinça de conexão plug-in",
+          "tipo": "detalhe"
+        },
+        {
+          "arquivo": "caixa-mec-4.png",
+          "origem": "Catálogo CAIXA MEC PDF p.8 (recorte)",
+          "alt": "Detalhe da pinça de conexão posterior da caixa MEC, de 250A, para acoplamento direto aos barramentos BX-E",
+          "tipo": "detalhe"
+        },
+        {
+          "arquivo": "caixa-mec-5.png",
+          "origem": "Catálogo CAIXA MEC PDF p.10 (recorte)",
+          "alt": "Foto da caixa de derivação 249741Z0LAB com pinças plug-in para acoplamento direto aos barramentos BX-E",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "Fontes: resumo = home do site; demais textos/tabelas = catálogo CAIXA MEC (12 p.): QDC p.3-4, chaves p.5, acessórios p.6, MEC p.7-8, derivação p.9-10, concentradoras p.11. Tabelas lidas visualmente (texto do PDF embaralhado). Divergências: o site lista os modelos MECI, MECII, MEC IV, MEC IX, MEC XII, MEC XVI (e QDC5) e caixas CLI/CLII; a tabela do PDF lista MEC-I, II, III, IV, VI, IX, XII e uma segunda linha 'MEC-XII' (provavelmente MEC-XVI, erro de digitação na fonte; mantido como está) e CL-I/II/III; o QDC5 não aparece na tabela do PDF (só 10, 15, 21 e Modular). Na tabela de QDC, Altura 1400, Profundidade 3500, Classe 500 V, 220/127, 8kV e 65kA/1s aparecem só na coluna do tipo 15 (provavelmente valores comuns; 'Profundidade 3500 mm' parece erro da fonte). O título 'Sessão' (por 'Seção') é grafia da fonte. Os recortes caixa-mec-2/4/5 incluem a pequena legenda do catálogo."
+    }
+  ]
+}

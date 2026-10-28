@@ -1,0 +1,13 @@
+{
+  "name": "ep-energy-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático da EP Energy (HTML, CSS, Bootstrap 5 e JavaScript puro)",
+  "scripts": {
+    "gerar": "node fonte/gerar.mjs",
+    "servir": "python -m http.server 8080 --directory site"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

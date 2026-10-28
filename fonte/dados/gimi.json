@@ -1,0 +1,1844 @@
+{
+  "fabricante": "GIMI",
+  "site": "https://www.gimi.com.br/",
+  "produtos": [
+    {
+      "slug": "bimbo",
+      "nome": "Bimbo®",
+      "linha_categoria": "Baixa Tensão — Quadro de Distribuição",
+      "url_origem": "https://www.gimi.com.br/bimbo",
+      "resumo": "Quadro de Distribuição",
+      "descricao": [
+        "Quadro de distribuição para utilização em parede, classe isolação de 750V, corrente até 250A e 10kA/1s.",
+        "Os painéis de utilização em parede da linha Bimbo são uma notável solução para responder aos requisitos técnicos, com segurança e aplicabilidade em ambientes acessíveis a pessoas sem nenhum conhecimento de eletricidade. Foi concebido sob os padrões normativos e requisições técnicas NBR-IEC-61439."
+      ],
+      "caracteristicas": [
+        "Fabricados em chapa de aço carbono pré-pintada de 1,5mm, totalmente rebitada e livre de soldas;",
+        "Caixas para fixação embutida em paredes ou de sobrepor;",
+        "Moldura de arremate regulável para os quadros de embutir;",
+        "Montagem dos equipamentos, independente da caixa, através de placas de montagem;",
+        "Espelho de proteção interno em policarbonato ou em chapa de aço articulável, com recorte para acionamento dos disjuntores, garantindo a segurança do operador;",
+        "Cor de acabamento padrão: munsell N6,5 ou RAL 7032 (outras cores sob consulta);",
+        "Barramentos em cobre eletrolítico (99,9%) dimensionados e identificados com fitas (sem pintura nem prateameto) conforme NBR-5410;",
+        "Isoladores em epóxy garantindo resistência aos esforços mecânicos, oriundos de correntes de defeito em toda a extensão dos barramentos;",
+        "Layout desenvolvido visando facilitar a instalação;",
+        "Veneziana para ventilação (opcional);",
+        "Grau de proteção: IP-40 (superior sob consulta);",
+        "Tipos de conexão elétrica: principal, saídas e auxiliares fixas."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características Elétricas",
+          "itens": [
+            {
+              "nome": "Tensão nominal",
+              "valor": "750V"
+            },
+            {
+              "nome": "Nível básico de Impulso",
+              "valor": "4kV"
+            },
+            {
+              "nome": "Tensão de Isolamento",
+              "valor": "2,2kV"
+            },
+            {
+              "nome": "Distância de Isolamento",
+              "valor": "8mm"
+            },
+            {
+              "nome": "Distância de escoamento",
+              "valor": "10mm"
+            },
+            {
+              "nome": "Grau de poluição",
+              "valor": "4mm"
+            },
+            {
+              "nome": "Ambiente de EMC",
+              "valor": "1"
+            },
+            {
+              "nome": "Frequência nominal",
+              "valor": "50 / 60Hz"
+            },
+            {
+              "nome": "Corrente nominal",
+              "valor": "Até 250A"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta-duração",
+              "valor": "10kA / sim 26kA / crista"
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de Tipo",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio IEE-USP: 66081",
+              "valor": "Verificação das propriedades dielétricas: 4kV; Verificação das distâncias de isolação e escoamento: 8mm (isolação) e 10mm (escoamento)."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 66025",
+              "valor": "Verificação de elevação de temperatura: 125A."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 66377",
+              "valor": "Funcionamento mecânico; Construção e marcação; Resistência a impactos mecânicos; Resistência à ferrugem e à umidade; Resistência dos materiais isolantes ao calor; Resistência dos materiais isolantes ao calor anormal e ao fogo; Resistência mecânica dos meios de fixação dos invólucros."
+            },
+            {
+              "nome": "Relatório de ensaio Novolab: 1890819",
+              "valor": "Grau de proteção IP-4X."
+            }
+          ]
+        },
+        {
+          "grupo": "Tabela GIMI de Dimensões de Caixas - Tipo Embutir (Quadros de Embutir - QEA) — Altura x Largura x Profundidade (mm)",
+          "itens": [
+            {
+              "nome": "E0",
+              "valor": "400 x 300 x 140"
+            },
+            {
+              "nome": "E1",
+              "valor": "480 x 350 x 140"
+            },
+            {
+              "nome": "E2",
+              "valor": "480 x 480 x 140"
+            },
+            {
+              "nome": "E3",
+              "valor": "600 x 480 x 140"
+            },
+            {
+              "nome": "E4",
+              "valor": "750 x 590 x 140"
+            },
+            {
+              "nome": "E5",
+              "valor": "850 x 590 x 140"
+            },
+            {
+              "nome": "E6",
+              "valor": "1000 x 590 x 140"
+            },
+            {
+              "nome": "E7",
+              "valor": "1200 x 590 x 140"
+            },
+            {
+              "nome": "E8",
+              "valor": "1400 x 590 x 140"
+            },
+            {
+              "nome": "E9",
+              "valor": "1600 x 590 x 140"
+            },
+            {
+              "nome": "E10",
+              "valor": "1800 x 590 x 140"
+            },
+            {
+              "nome": "E11",
+              "valor": "1200 x 800 x 140"
+            },
+            {
+              "nome": "E12",
+              "valor": "1400 x 800 x 140"
+            },
+            {
+              "nome": "E13",
+              "valor": "1600 x 800 x 140"
+            },
+            {
+              "nome": "E14",
+              "valor": "1800 x 800 x 140"
+            },
+            {
+              "nome": "E15",
+              "valor": "1200 x 1200 x 140"
+            },
+            {
+              "nome": "E16",
+              "valor": "1400 x 1200 x 140"
+            },
+            {
+              "nome": "E17",
+              "valor": "1600 x 1200 x 140"
+            }
+          ]
+        },
+        {
+          "grupo": "Tabela GIMI de Dimensões de Caixas - Tipo Sobrepor (Quadros de Sobrepor - QSA) — Altura x Largura x Profundidade (mm)",
+          "itens": [
+            {
+              "nome": "G0",
+              "valor": "400 x 300 x 200"
+            },
+            {
+              "nome": "G1",
+              "valor": "480 x 350 x 200"
+            },
+            {
+              "nome": "G2",
+              "valor": "480 x 480 x 200"
+            },
+            {
+              "nome": "G3",
+              "valor": "600 x 480 x 200"
+            },
+            {
+              "nome": "G4",
+              "valor": "750 x 575 x 200"
+            },
+            {
+              "nome": "G5",
+              "valor": "850 x 575 x 245"
+            },
+            {
+              "nome": "G6",
+              "valor": "1000 x 575 x 245"
+            },
+            {
+              "nome": "G7",
+              "valor": "1200 x 575 x 245"
+            },
+            {
+              "nome": "G8",
+              "valor": "1400 x 575 x 245"
+            },
+            {
+              "nome": "G9",
+              "valor": "1600 x 575 x 245"
+            },
+            {
+              "nome": "G10",
+              "valor": "1800 x 575 x 245"
+            },
+            {
+              "nome": "G11",
+              "valor": "1200 x 800 x 245"
+            },
+            {
+              "nome": "G12",
+              "valor": "1400 x 800 x 245"
+            },
+            {
+              "nome": "G13",
+              "valor": "1600 x 800 x 245"
+            },
+            {
+              "nome": "G14",
+              "valor": "1800 x 800 x 245"
+            },
+            {
+              "nome": "G15",
+              "valor": "1200 x 1200 x 245"
+            },
+            {
+              "nome": "G16",
+              "valor": "1400 x 1200 x 245"
+            },
+            {
+              "nome": "G17",
+              "valor": "1600 x 1200 x 245"
+            }
+          ]
+        },
+        {
+          "grupo": "Acessórios (É possível agregar os seguintes acessórios)",
+          "itens": [
+            {
+              "nome": "Dispositivo de proteção contra surtos (DPS’s);",
+              "valor": ""
+            },
+            {
+              "nome": "Multimedidores;",
+              "valor": ""
+            },
+            {
+              "nome": "Sinalização de circuito energizado;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé de proteção;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé/sensor fuga terra;",
+              "valor": ""
+            },
+            {
+              "nome": "Controlador lógico programável (CLP).",
+              "valor": ""
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Distribuição: A linha Bimbo é destinada à distribuição de modo geral, para circuitos de iluminação, tomadas, circuitos de uso específico, etc.",
+        "Quadro de bomba/motores: Também é possível realizar a manobra, proteção e controle de motores e bombas, podendo utilizar partidas do tipo direta, estrela-triângulo, soft-starters e inversores de frequência.",
+        "Quadros Gerais: Visando otimizar espaço em sua obra, é possível realizar a montagem de quadros gerais, onde o disjuntor geral não exceda 630A.",
+        "Quadro de Comando Remoto (QCR): Os famosos QCR’s, utilizados para monitoramento e manobra de cabines primárias e PMT’s, também fazem parte do repertório de soluções GIMI.",
+        "Solução para instalação ao tempo"
+      ],
+      "normas": [
+        "NBR-IEC-61439",
+        "NBR-5410"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf",
+      "imagens": [
+        {
+          "arquivo": "bimbo-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_635234ec5d944a7abf63bd4cadea100b~mv2.png",
+          "alt": "Quadro de distribuição Bimbo de sobrepor com duas portas abertas, mostrando disjuntores e placas de montagem laranja",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bimbo-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf (p.6)",
+          "alt": "Quadro Bimbo de porta única aberto, com disjuntores modulares montados em placa laranja",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bimbo-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf (p.6)",
+          "alt": "Quadro Bimbo de duas portas aberto com espelho interno laranja articulado e trilhos de disjuntores",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bimbo-4.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf (p.6)",
+          "alt": "Vista frontal do quadro Bimbo aberto com espelhos de proteção laranja e sinalizadores nas portas",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bimbo-5.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf (p.7)",
+          "alt": "Quadro Bimbo vertical estreito aberto, com espelho laranja e componentes de comando",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "bimbo-6.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_e3c188946dcd4130a02629017002b22a.pdf (p.6)",
+          "alt": "Quadro Bimbo de porta única aberto com barramento e disjuntores em placa de montagem",
+          "tipo": "produto"
+        }
+      ],
+      "observacoes": "A página do site traz apenas título, subtítulo e um parágrafo; características, dados elétricos, ensaios, tabelas dimensionais, aplicações e acessórios foram extraídos do catálogo PDF (texto pdftotext/PyMuPDF, verbatim). Valores reproduzidos como estão na fonte, inclusive prováveis erros de diagramação no PDF: 'Grau de poluição: 4mm', 'Ambiente de EMC: 1' e '10kA / sim 26kA / crista' (provavelmente '10kA / 1s – 26kA crista'); 'prateameto' também está assim no original. O subtítulo do PDF é 'Quadro de distribuição 250A/10kA'. As dimensões das caixas foram condensadas como 'Altura x Largura x Profundidade'. Foto 1 vem do site; fotos 2–6 são renders extraídos do catálogo PDF."
+    },
+    {
+      "slug": "system-pro-e-power",
+      "nome": "System Pro - E Power®",
+      "linha_categoria": "Baixa Tensão — Painel de Distribuição",
+      "url_origem": "https://www.gimi.com.br/systempro-epower",
+      "resumo": "Painel de Distribuição em Baixa Tensão até 6300A",
+      "descricao": [
+        "Este painel oferece uma solução normalizada completa destinada à distribuição de energia elétrica para infraestrutura e indústrias, de acordo com as normas de referência, garantindo uma sinergia total com todos aparelhos ABB de baixa tensão, tais como: aparelhagem modular System Pro M, disjuntores de caixa moldada Tmax T e XT e disjuntores de bastidor aberto Emax2.",
+        "System pro E Power é uma nova solução inovadora de quadros de distribuição da ABB até 6300A com uma corrente nominal de curta duração admissível até 120kA, que responde a todas as necessidades em termos de tipo de instalação, grau de proteção e características elétricas e mecânicas.",
+        "A gama de quadros System pro E Power permite criar numerosas configurações de quadros garantindo flexibilidade e um produto certificado. Com um número reduzido de códigos é possível montar até 120 configurações diferentes. A estrutura da nova série é feita com chapa de aço galvanizado a quente, o que garante a equipotencialidade do quadro. Para cada tipo de aplicação, é possível obter graus de proteção até IP65. System pro E Power é o único quadro que alcança um valor tão elevado.",
+        "Os sistemas de distribuição utilizados nos quadros System pro E Power são capazes de alcançar todas as configurações desde 250A até 6300A. O novo sistema de distribuição de System pro E Power está estudado para proporcionar uma maior flexibilidade e simplicidade na ligação de barras.",
+        "System pro E Power garante a qualidade e a segurança de acordo com a norma internacional IEC 61439-1 e 2."
+      ],
+      "caracteristicas": [
+        "Estrutura que se pode montar de acordo com diferentes sequências lógicas.",
+        "Número reduzido de códigos para montar até 120 configurações distintas.",
+        "Possibilidade de montar com ou sem rodapé.",
+        "Montantes com dois níveis diferentes de superfícies em cada lado para permitir a montagem de diferentes kits.",
+        "Novo manípulo ergonómico que permite a seleção do sentido de abertura da porta, para a direita ou para a esquerda.",
+        "Novos sistemas de barras com os mesmos acessórios: travessas, suportes de fixação e suportes isolantes multifunção, capazes de alojar barras planas ou perfiladas com 5 ou 10 mm de espessura.",
+        "Ligações com barras flexíveis.",
+        "Novas esquadrias de fixação de kits como sistema de fixação rápido “click-in”.",
+        "Painéis com parafusos de ¼ de volta.",
+        "Kits para disjuntores fixados diretamente nos montantes.",
+        "Compartimentações internas criadas de modo simples adicionando os acessórios sequencialmente.",
+        "Novo manípulo que permite a montagem de diferentes fechos.",
+        "Nova sequência de montagem simples.",
+        "Impossibilidade de erro na montagem da estrutura, que é perfeitamente simétrica.",
+        "Montantes e travessas iguais e combináveis com um novo sistema de união patenteado com parafusos axiais.",
+        "Kits para disjuntores de caixa moldada de 3 pólos, e kits para disjuntores de caixa moldada de 3 e 4 pólos.",
+        "Os mesmos painéis frontais, tanto para bastidor fixo como para rotativo, para fixação com parafusos ou com dobradiças.",
+        "Painéis frontais em duas alturas (150 e 200 mm) para montagem de aparelhos em calha DIN."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características gerais (catálogo PDF)",
+          "itens": [
+            {
+              "nome": "Corrente",
+              "valor": "até 6300A"
+            },
+            {
+              "nome": "Corrente nominal de curta duração admissível",
+              "valor": "até 120kA"
+            },
+            {
+              "nome": "Grau de proteção",
+              "valor": "até IP65"
+            },
+            {
+              "nome": "Sistemas de distribuição",
+              "valor": "desde 250A até 6300A"
+            },
+            {
+              "nome": "Configurações",
+              "valor": "até 120 configurações diferentes"
+            },
+            {
+              "nome": "Estrutura",
+              "valor": "chapa de aço galvanizado a quente"
+            },
+            {
+              "nome": "Módulos",
+              "valor": "150 mm, em conjunto com os módulos de 200 mm"
+            },
+            {
+              "nome": "Compartimentação",
+              "valor": "Os disjuntores podem ser compartimentados da Forma 1 até à Forma 4b."
+            },
+            {
+              "nome": "Barras",
+              "valor": "barras planas ou perfiladas com 5 ou 10 mm de espessura"
+            },
+            {
+              "nome": "Norma",
+              "valor": "IEC 61439-1 e 2"
+            }
+          ]
+        },
+        {
+          "grupo": "Composição da série — Dimensões úteis (mm)",
+          "itens": [
+            {
+              "nome": "A (altura)",
+              "valor": "1800 / 2000"
+            },
+            {
+              "nome": "L (largura)",
+              "valor": "300 / 400 / 600 / 800 / 1000 / 1250"
+            },
+            {
+              "nome": "P (profundidade)",
+              "valor": "200 / 300 / 500 / 700 / 900 (L 1250: P 900)"
+            }
+          ]
+        },
+        {
+          "grupo": "Composição da série — Graus de proteção dos componentes",
+          "itens": [
+            {
+              "nome": "Teto/Base cego",
+              "valor": "IP30÷65"
+            },
+            {
+              "nome": "Teto/Base aberto(1)",
+              "valor": "IP65"
+            },
+            {
+              "nome": "Fundo interno",
+              "valor": "IP40"
+            },
+            {
+              "nome": "Painel posterior cego",
+              "valor": "IP30÷65"
+            },
+            {
+              "nome": "Painel posterior ventilado",
+              "valor": "IP30÷41"
+            },
+            {
+              "nome": "Painéis laterais cego",
+              "valor": "IP30÷65"
+            },
+            {
+              "nome": "Painéis laterais ventilado",
+              "valor": "IP30÷41"
+            },
+            {
+              "nome": "Porta ventilado",
+              "valor": "IP40/41"
+            },
+            {
+              "nome": "Porta vidro",
+              "valor": "IP40/41 / IP65"
+            },
+            {
+              "nome": "Porta cega",
+              "valor": "IP40/41 / IP65"
+            },
+            {
+              "nome": "Nota (1)",
+              "valor": "Para obter o grau de proteção IP65 é necessário utilizar tampas de entrada de cabos adequadas."
+            }
+          ]
+        },
+        {
+          "grupo": "Certificações, homologações e testes laboratoriais (alguns dos testes realizados)",
+          "itens": [
+            {
+              "nome": "Verificação térmica do quadro.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação das propriedades dielétricas.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação da resistência a curto-circuitos.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação da resistência a curto-circuitos do circuito de proteção.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação das distâncias de isolamento.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação do funcionamento mecânico",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação do grau de proteção",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação da estabilidade térmica dos envolventes.",
+              "valor": ""
+            },
+            {
+              "nome": "Verificação da resistência dos materiais isolantes (teste de fio incandescente)",
+              "valor": ""
+            },
+            {
+              "nome": "Impacto mecânico",
+              "valor": ""
+            },
+            {
+              "nome": "Resistência à corrosão",
+              "valor": ""
+            },
+            {
+              "nome": "Elevação e manuseamento.",
+              "valor": ""
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "distribuição de energia elétrica para infraestrutura e indústrias"
+      ],
+      "normas": [
+        "IEC 61439-1 e 2",
+        "IEC 60439-1-2"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf",
+      "imagens": [
+        {
+          "arquivo": "system-pro-e-power-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_a3f789a8e1ac4bbe97cd4309e3303ce0~mv2.png",
+          "alt": "Painel System Pro E Power com porta frontal e disjuntor aparente, em gabinete cinza",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "system-pro-e-power-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf (p.2)",
+          "alt": "Quatro colunas do System Pro E Power lado a lado com diferentes configurações frontais",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "system-pro-e-power-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf (p.3)",
+          "alt": "Quatro armários System Pro E Power fechados de larguras diferentes",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "system-pro-e-power-4.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf (p.6)",
+          "alt": "Detalhe do sistema de barramentos de cobre com suportes isolantes no interior do quadro",
+          "tipo": "detalhe"
+        },
+        {
+          "arquivo": "system-pro-e-power-5.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf (p.5)",
+          "alt": "Detalhe de kit de montagem com disjuntor de bastidor aberto fixado nos montantes",
+          "tipo": "detalhe"
+        },
+        {
+          "arquivo": "system-pro-e-power-6.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/dd0a33_64138e12f9ec4c3f8bb0fe4f2d82881b.pdf (p.8)",
+          "alt": "Estrutura explodida do armário System Pro E Power mostrando montantes e painéis",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "O catálogo PDF publicado pela GIMI para este produto é o folheto da ABB (1TXA803017B1601), redigido em português europeu ('manípulo', 'cablagem', 'prestações'); textos de descrição/características vêm desse PDF, verbatim (ligaduras tipográficas 'fi/fl' restauradas). Não há tabela elétrica tradicional (tensão nominal, NBI etc.) nem no site nem no PDF; os valores da seção 'Características gerais' foram retirados do corpo do texto. A tabela 'Composição da série' é uma matriz de marcações (✓) por dimensão/componente; foi resumida às dimensões e graus de proteção disponíveis. Várias fotos do PDF são imagens ABB (marca ABB visível); foto 1 vem do site."
+    },
+    {
+      "slug": "nottabile",
+      "nome": "NoTTabile®",
+      "linha_categoria": "Baixa Tensão — Painel de Distribuição",
+      "url_origem": "https://www.gimi.com.br/nottabile",
+      "resumo": "Painel de Distribuição de baixa tensão classe 750/1000V",
+      "descricao": [
+        "Painéis de distribuição de baixa tensão classe 750/1000V para uso abrigado e ao tempo, atendendo às normas internacionais (NBR-IEC-61439-1/2).",
+        "A linha de painéis de baixa tensão Nottabile é fruto da combinação de mais de 50 anos de experiência em painéis elétricos e da crescente necessidade de: Atendimento às normas internacionais (NBR-IEC-61439-1/2) e características de alta potência; Confiabilidade e facilidade de manutenção para assegurar a máxima continuidade de serviço; Simplicidade de colocação em serviço, de operação e de manutenção; Segurança dos operadores.",
+        "A linha Nottabile, por ser um painel modular, é possível construí-lo atendendo a todas as variações de forma construtiva, sendo elas:"
+      ],
+      "caracteristicas": [
+        "Estrutura autosuportável em chapa de aço carbono pré-pintada de 1,5mm, para fixação pela base através de chumbadores;",
+        "Forma construtiva: 2A à 4B (Conforme NBR-IEC-61439-1/2);",
+        "Tampas laterais, superiores e posteriores removíveis em chapa pré-pintada de 1,5mm;",
+        "Portinholas com acesso frontal externo, proporcionando acionamento simples com total segurança;",
+        "Cor de acabamento padrão: Munsell N6,5 ou RAL 7032 (outras cores sob consulta);",
+        "Barramentos em cobre eletrolítico (99,9%) dimensionados e identicados com fitas (sem pintura e sem prateamento) conforme NBR-IEC-61439-1/2;",
+        "Cabos são dimensionados de acordo com a norma NBR 5410, com terminais apropriados e anilhas de identificação;",
+        "Barramentos de cobre sustentados por isoladores em epóxy nos terminais de entrada e saída, facilitando a conexão dos cabos;",
+        "Isoladores em epóxy garantindo resistência aos esforços mecânicos oriundos de correntes de defeito em toda a extensão dos barramentos;",
+        "Layout desenvolvido conforme necessidade de instalação;",
+        "Grau de proteção - uso interno IP-4X;",
+        "Grau de proteção - uso exteno IP-54."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características Elétricas (Aplicáveis para ambientes industriais/comerciais com atmosferas não explosivas ou corrosivas)",
+          "itens": [
+            {
+              "nome": "Classe de isolação",
+              "valor": "1000V (50/60Hz)"
+            },
+            {
+              "nome": "Nível Básico de Impulso",
+              "valor": "8kV"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração",
+              "valor": "25kA/ 50kA/ 85kA, 1s"
+            },
+            {
+              "nome": "Corrente nominal dos barramentos principais",
+              "valor": "até 6300A"
+            },
+            {
+              "nome": "Corrente nominal dos barramentos de derivação verticais",
+              "valor": "até 3200A"
+            },
+            {
+              "nome": "Frames Certificados",
+              "valor": "160A, 250A, 630A, 1000A, 2500A, 3200A, 4000A, e 5000A"
+            },
+            {
+              "nome": "Distância de isolação e escoamento",
+              "valor": "12,5mm"
+            },
+            {
+              "nome": "Disjuntores de execução fixa, plug-in e extraíveis",
+              "valor": ""
+            },
+            {
+              "nome": "Grau de Poluição",
+              "valor": "4mm"
+            }
+          ]
+        },
+        {
+          "grupo": "Tabela Dimensional (mm) X Corrente (A) — Altura / Largura / Prof.",
+          "itens": [
+            {
+              "nome": "Até 250A",
+              "valor": "Altura 210 / Largura 500 / 600 / 700 / Prof. 600 / 800"
+            },
+            {
+              "nome": "Até 630A",
+              "valor": "Altura 315 / Largura 500 / 600 / 700 / Prof. 600 / 800"
+            },
+            {
+              "nome": "Até 1000A",
+              "valor": "Altura 420 / Largura 500 / 700 / Prof. 600 / 800"
+            },
+            {
+              "nome": "Até 1600A",
+              "valor": "Altura 420 / Largura 500 / 700 / Prof. 600 / 800"
+            },
+            {
+              "nome": "Até 6300A",
+              "valor": "Altura 630 / Largura 700 / Prof. 800 / 1000"
+            },
+            {
+              "nome": "Compart. Medição",
+              "valor": "Altura 315 / 420 / Largura 500 / 590 / 700 / Prof. 800 / 1000"
+            },
+            {
+              "nome": "Nota",
+              "valor": "outras sob consulta."
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de Tipo — NOTTABILE LEGGERO (Versão Econômica)",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio IEE-USP: 76726",
+              "valor": "Verificação da corrente suportável de curto circuito: 700A - 25kA/220V."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 76582",
+              "valor": "Verificação de elevação de temperatura: 700A."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 76546",
+              "valor": "Verificação do funcionamento mecânico."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 76545",
+              "valor": "Verificação do grau de proteção: IP-40."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 76845",
+              "valor": "Verificação das propriedades dielétricas: 4kV; Verificação das distâncias de isolação e escoamento: 5,5mm (isolação) e 5,5mm (escoamento)."
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de Tipo — NOTTABILE (Versão Standard)",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio CEPEL: DVLA-3411/08-C",
+              "valor": "Verificação da corrente suportável de curto circuito: 3200A - 50kA/380V."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 63741",
+              "valor": "Verificação de elevação de temperatura: 1600A."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 63766",
+              "valor": "Verificação de elevação de temperatura: 2500A."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 63830",
+              "valor": "Verificação das propriedades dielétricas: 8kV; Verificação das distâncias de isolação e escoamento: 12,5mm (isolação) e 12,5mm (escoamento); Verificação do funcionamento mecânico."
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de Tipo — NOTTABILE ULTIMATE (Versão Premium)",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio IEE-USP: 78765",
+              "valor": "Verificação de elevação de temperatura: 4000A."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 78444 / 78444 Suplemento 1",
+              "valor": "Verificação do grau de proteção: IP40; Verificação da proteção contra impacto – IK10; Verificação de operação mecânica; Verificação da resistência a corrosão - Verificação térmica; Verificação a resistência dos materiais isolantes ao calor anormal."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 78367",
+              "valor": "Verificação das propriedades dielétricas: 6kV; Verificação das distâncias de isolação e escoamento: 7mm (isolação) e 9,5mm (escoamento)."
+            }
+          ]
+        },
+        {
+          "grupo": "Acessórios (É possível agregar os seguintes acessórios)",
+          "itens": [
+            {
+              "nome": "Sistema Smart GIMI;",
+              "valor": ""
+            },
+            {
+              "nome": "Dispositivo de proteção contra surtos (DPS’s);",
+              "valor": ""
+            },
+            {
+              "nome": "Multimedidores;",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores para monitoramento de temperatura;",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores de monitoramento contra arco interno;",
+              "valor": ""
+            },
+            {
+              "nome": "Sinalização de circuito energizado;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé de proteção;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé/sensor fuga terra;",
+              "valor": ""
+            },
+            {
+              "nome": "Controlador Lógico Programável (CLP);",
+              "valor": ""
+            },
+            {
+              "nome": "Ventilação Natural ou Forçada;",
+              "valor": ""
+            },
+            {
+              "nome": "Iluminação interna;",
+              "valor": ""
+            },
+            {
+              "nome": "Tomadas de Serviço;",
+              "valor": ""
+            },
+            {
+              "nome": "Resistência de desumidificação;",
+              "valor": ""
+            },
+            {
+              "nome": "Isolamento dos barramentos por termocontractil (Sob consulta).",
+              "valor": ""
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Quadro geral de baixa tensão (QGBT): O Quadro Geral de Baixa Tensão (QGBT) desempenha uma função central na distribuição eficiente de energia elétrica em variados cenários. Quando aplicado à linha Nottabile, assume responsabilidades essenciais, incluindo a distribuição de energia, proteção, segmentação, medição, organização e identificação dos circuitos.",
+        "Centro de controle de motores (CCM): A linha Nottabile é possível realizar a manobra, proteção e controle de motores e bombas, podendo utilizar partidas do tipo direta, estrela-triângulo, soft-starters e inversores de frequência.",
+        "Cabine de barramento: A linha Nottabile é referência em qualidade e performance para soluções em cabines de barramento atendendo aos critérios, normas e especificações das concessionárias.",
+        "Banco de Capacitores: É possível agregar o seu banco de capacitores de baixa tensão em nossa linha Nottabile, podendo ser acoplado ao quadro geral ou em sua montagem individual.",
+        "Solução para instalação ao tempo"
+      ],
+      "normas": [
+        "NBR-IEC-61439-1/2",
+        "NBR 5410"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/e1e52f_47c636c035df4f3397025c04dcaced2c.pdf",
+      "imagens": [
+        {
+          "arquivo": "nottabile-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_9882fbc8c1f0439c8f232e6a9bb8edb9~mv2.png",
+          "alt": "Conjunto de painéis NoTTabile em colunas com disjuntores de caixa aberta e diagrama sinóptico frontal",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "nottabile-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_47c636c035df4f3397025c04dcaced2c.pdf (p.3, recorte)",
+          "alt": "Painéis NoTTabile instalados em fábrica, colunas com disjuntores, sinaleiros e chaves de comando",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "nottabile-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_47c636c035df4f3397025c04dcaced2c.pdf (p.8, recorte)",
+          "alt": "Renders de colunas NoTTabile para QGBT com portas abertas mostrando gavetas e barramentos",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "nottabile-4.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_47c636c035df4f3397025c04dcaced2c.pdf (p.8, recorte)",
+          "alt": "Renders de colunas NoTTabile como Centro de Controle de Motores (CCM), fechada e aberta",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "nottabile-5.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_47c636c035df4f3397025c04dcaced2c.pdf (p.9, recorte)",
+          "alt": "Três renders de painéis NoTTabile para instalação ao tempo, com teto de proteção e portas abertas",
+          "tipo": "produto"
+        }
+      ],
+      "observacoes": "O catálogo PDF deste produto é composto só de imagens (sem camada de texto): todo o conteúdo além do texto do site foi transcrito visualmente das páginas do PDF (características, tabela elétrica, ensaios, tabela dimensional, aplicações, acessórios) — recomenda-se revisão rápida. 'identicados', 'exteno' e 'Grau de Poluição: 4mm' estão assim no original. A página 7 do PDF (diagramas das Formas 1 a 4) não foi transcrita por ser essencialmente gráfica. Fotos 2–5 são recortes de páginas do PDF (resolução de página 2480px); a foto do site é compartilhada por várias páginas do site GIMI."
+    },
+    {
+      "slug": "nottabile-arc-pro",
+      "nome": "NoTTabile - ARC PRO®",
+      "linha_categoria": "Baixa Tensão — Painel de Distribuição resistente ao arco interno",
+      "url_origem": "https://www.gimi.com.br/nottabile-arc-pro",
+      "resumo": "Painel de Distribuição de baixa tensão resistente ao arco interno",
+      "descricao": [
+        "Painel de distribuição de baixa tensão até 690V, 65kA, com alta capacidade de corrente, resistência ao arco interno e controle da energia incidente, conforme as normas ABNT NBR IEC 61439-1/2 e NBR IEC TR 61641.",
+        "O NoTTAbile Arc Pro foi projetado para atender com excelência aos diversos segmentos do mercado, garantindo alto desempenho e confiabilidade. Sua concepção prioriza a máxima segurança e proteção para pessoas e infraestruturas.",
+        "Os Painéis Elétricos do Grupo GIMI são desenvolvidos para atender diferentes demandas do mercado, sempre alinhados aos mais altos padrões de qualidade e desempenho. Nossas soluções garantem praticidade na montagem, instalação, manutenção, ampliações futuras e total intercambiabilidade entre componentes.",
+        "NoTTabile Arc Pro do Grupo GIMI integra proteção, gerenciamento de rede, gerenciamento de cargas e controle de automação em tempo real. Em conjunto com os IEDs de proteção, o sistema utiliza a capacidade de comunicação de plataformas computacionais e switches Ethernet  gerenciáveis, formando uma arquitetura de alta performance para proteção e supervisão de motores. A solução permite o monitoramento em tempo real do status dos motores, alarmes, eventos e condições operacionais, proporcionando maior confiabilidade, rapidez na tomada de decisão e disponibilidade do sistema.",
+        "Com ampla capacidade de integração, o NoTTabile Arc Pro oferece os protocolos EtherNet/IP, Modbus TCP/IP/RTU, DNP3, FTP, Telnet, SNTP e IEC 61850 Edição 1. Inclui também tecnologia PRP (Parallel Redundancy Protocol) para assegurar máxima redundância e confiabilidade na rede Ethernet.",
+        "Um conjunto (painel ou quadro elétrico) verificado pela ABNT NBR IEC/TR 61641 significa que o equipamento de manobra e comando de baixa tensão foi projetado e testado para conter os efeitos destrutivos de um arco elétrico interno, garantindo alta proteção aos operadores e à integridade física da instalação."
+      ],
+      "caracteristicas": [
+        "CONJUNTO TOTALMENTE TESTADO CONFORME NBR - IEC 61439-1&2 e NBR - IEC-TR-61641",
+        "Fixação de portas e tampas: Os fechos e estruturas não podem se romper ou abrir com a pressão da explosão.",
+        "Projeção de fragmentos: Nenhuma peça ou metal quente pode ser projetada para fora do invólucro.",
+        "Fendas e aberturas: O arco não pode abrir novos rombos que permitam o acesso de partes do corpo do operador.",
+        "Indicadores de inflamação: Indicadores de tecido de algodão colocados ao redor do painel não devem se inflamar com o calor irradiado.",
+        "Aterramento: O sistema de proteção e aterramento estrutural deve continuar íntegro e eficaz."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Especificações Técnicas",
+          "itens": [
+            {
+              "nome": "Tensão nominal de utilização (Ue)",
+              "valor": "até 480 V"
+            },
+            {
+              "nome": "Tensão nominal de isolamento (Ui)",
+              "valor": "690 V"
+            },
+            {
+              "nome": "Tensão nominal de impulso suportável (Uimp)",
+              "valor": "6 kV"
+            },
+            {
+              "nome": "Corrente nominal do CONJUNTO (InA)",
+              "valor": "até 4000 A"
+            },
+            {
+              "nome": "Corrente nominal de curta duração admissível (Icw)",
+              "valor": "65 kA - 1s"
+            },
+            {
+              "nome": "Corrente nominal de curta duração admissível no terra (Icw on PE)",
+              "valor": "até 39 kA em 480 V - 1s"
+            },
+            {
+              "nome": "Suportabilidade ao arco interno",
+              "valor": "65 kA / 0,1 s CAT - 1 a 7"
+            },
+            {
+              "nome": "Fator de diversidade nominal RDF",
+              "valor": "Até 0,9"
+            },
+            {
+              "nome": "Grau de poluição",
+              "valor": "3"
+            },
+            {
+              "nome": "Temperatura ambiente",
+              "valor": "-5 a 40 °C"
+            },
+            {
+              "nome": "Compatibilidade eletromagnética (EMC)",
+              "valor": "Ambiente A"
+            },
+            {
+              "nome": "Grau de Proteção",
+              "valor": "Até IP31"
+            },
+            {
+              "nome": "Forma de separação interna",
+              "valor": "Formas 3B"
+            },
+            {
+              "nome": "Proteção contra acesso às partes vivas",
+              "valor": "(IPXXB)"
+            },
+            {
+              "nome": "Medidas",
+              "valor": "Altura: 2200 + Base = 100 ou 200; Largura: Conf. projeto; Profundidade: 600 / 800 / 1000 / 1200"
+            }
+          ]
+        },
+        {
+          "grupo": "Dimensionamento das unidades funcionais — Características técnicas",
+          "itens": [
+            {
+              "nome": "Corrente Nominal",
+              "valor": "25A a 4000A"
+            },
+            {
+              "nome": "Tensão nominal de operação",
+              "valor": "até 480V"
+            },
+            {
+              "nome": "Icc",
+              "valor": "até 65 kA"
+            },
+            {
+              "nome": "Partida máxima testada",
+              "valor": "100CV /75kW"
+            },
+            {
+              "nome": "Medidas",
+              "valor": "Altura: 190 / 285 / 380 / 570 / 640 / 760 / 950 / 1140 / 1330 / 1520 / 1710 / 1900; Largura: 600"
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios e verificação conforme NBR - IEC 61439 - 1&2 e NBR - IEC TR - 61641 — Resultado obtido",
+          "itens": [
+            {
+              "nome": "Resistência dos materiais isolantes ao calor anormal e ao fogo devido aos efeitos elétricos internos (10.2.3.2)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Içamento (10.2.5)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Impacto Mecânico (10.2.6)",
+              "valor": "IK 10"
+            },
+            {
+              "nome": "Marcação (10.2.7)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Grau de proteção dos invólucros (10.3)",
+              "valor": "IP31"
+            },
+            {
+              "nome": "Distância de isolamento no ar (10.4)",
+              "valor": "até 6kV"
+            },
+            {
+              "nome": "Continuidade efetiva entre as partes condutivas expostas do CONJUNTO e o circuito de proteção (10.5.2)",
+              "valor": "0,1 Ω"
+            },
+            {
+              "nome": "Suportabilidade aos curtos-circuitos do circuito de proteção (10.5.3)",
+              "valor": "Icw 39kA/ 1s"
+            },
+            {
+              "nome": "Integração dos dispositivos de manobra e dos componentes (10.6)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Circuitos elétricos internos e conexões (10.7)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Bornes para condutores externos (10.8)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Tensão suportável à frequencia industrial (10.9.2)",
+              "valor": "Até 690 Vca"
+            },
+            {
+              "nome": "Tensão de suportabilidade aos impulsos (10.9.3)",
+              "valor": "Até 7,3kV"
+            },
+            {
+              "nome": "Limites de Elevação de temperatura (10.10)",
+              "valor": "Até 4000A"
+            },
+            {
+              "nome": "Suportabilidade aos curtos-circuitos (10.11)",
+              "valor": "Icw até 65 kA / 1s; Icc até 65 kA / 1 s"
+            },
+            {
+              "nome": "Compatibilidade Eletromagnética (EMC) (10.12)",
+              "valor": "Ambiente A"
+            },
+            {
+              "nome": "Funcionamento Mecânico (10.13)",
+              "valor": "Aprovado"
+            },
+            {
+              "nome": "Arco Interno devido a falha interna — NBR - IEC TR - 61641 (8 / 8.7)",
+              "valor": "65 kA / 0,1 s - Classe C (Critérios 1 a 7)"
+            }
+          ]
+        },
+        {
+          "grupo": "Classificação dos Critérios de Sucesso (ABNT NBR IEC/TR 61641)",
+          "itens": [
+            {
+              "nome": "Critério 1 — Proteção de Pessoas",
+              "valor": "Portas e tampas devem permanecer fechadas."
+            },
+            {
+              "nome": "Critério 2 — Proteção de Pessoas",
+              "valor": "Nenhuma parte do painel de massa > 60 g pode ser projetada."
+            },
+            {
+              "nome": "Critério 3 — Proteção de Pessoas",
+              "valor": "O arco não pode criar furos nas partes externas acessíveis."
+            },
+            {
+              "nome": "Critério 4 — Proteção de Pessoas",
+              "valor": "Os indicadores de tecido (algodão) externos não podem inflamar."
+            },
+            {
+              "nome": "Critério 5 — Proteção de Pessoas",
+              "valor": "O circuito de aterramento de proteção deve permanecer funcional."
+            },
+            {
+              "nome": "Critério 6 — Proteção da Instalação",
+              "valor": "O arco deve ser limitado à coluna ou compartimento de origem."
+            },
+            {
+              "nome": "Critério 7 — Proteção da Instalação",
+              "valor": "O painel deve permitir operação de emergência após isolar a falha."
+            }
+          ]
+        },
+        {
+          "grupo": "Protocolos de comunicação",
+          "itens": [
+            {
+              "nome": "Protocolos",
+              "valor": "EtherNet/IP, Modbus TCP/IP/RTU, DNP3, FTP, Telnet, SNTP e IEC 61850 Edição 1"
+            },
+            {
+              "nome": "Redundância",
+              "valor": "PRP (Parallel Redundancy Protocol)"
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Indústrias",
+        "Energia",
+        "Infraestrutura",
+        "Telecomunicações",
+        "Data Centers"
+      ],
+      "normas": [
+        "ABNT NBR IEC 61439-1/2",
+        "NBR IEC TR 61641"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/60c632_09b57f05bf364994bb0adc21d47797c1.pdf",
+      "imagens": [
+        {
+          "arquivo": "nottabile-arc-pro-1.png",
+          "origem": "https://static.wixstatic.com/media/60c632_50e395f8732d4af8bf7ee14c06435ecd~mv2.png",
+          "alt": "Painel NoTTabile Arc Pro em várias colunas com disjuntores e gavetas, vista frontal em perspectiva",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "nottabile-arc-pro-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/60c632_09b57f05bf364994bb0adc21d47797c1.pdf (p.20)",
+          "alt": "Render do conjunto NoTTabile Arc Pro com colunas de disjuntores e gavetas de CCM",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "nottabile-arc-pro-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/60c632_09b57f05bf364994bb0adc21d47797c1.pdf (p.27)",
+          "alt": "Painel NoTTabile Arc Pro instalado em sala elétrica com operador em frente",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "nottabile-arc-pro-4.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/60c632_09b57f05bf364994bb0adc21d47797c1.pdf (p.3)",
+          "alt": "Painéis NoTTabile Arc Pro em montagem na fábrica do Grupo GIMI",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "nottabile-arc-pro-5.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/60c632_09b57f05bf364994bb0adc21d47797c1.pdf (p.13)",
+          "alt": "Render de gaveta extraível de unidade funcional do NoTTabile Arc Pro",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "A foto do site tem apenas 800x800 px (original Wix). O catálogo PDF (32 páginas) é extenso; foram capturadas as especificações técnicas, dimensionamento das unidades funcionais, tabela de verificações de projeto (colunas Ensaio/Avaliação/Comparação omitidas, mantido apenas o 'Resultado obtido'), critérios da TR 61641 e protocolos. Não foram transcritas: a tabela de colunas da p.4 (layout em matriz não extraível com fidelidade — contém larguras 200/300/400/500/600/700/800/1000 mm, correntes 160 a 4000 A por tipo de coluna), formas de separação (p.5), monitoramento de temperatura, soluções ativas/passivas, Relt e Arc quenching (p.12–31). Nome grafado no PDF como 'NoTTAbile Arc Pro' e 'NoTTabile Arc Pro'. Fotos 2–5 vêm do PDF."
+    },
+    {
+      "slug": "new-piccolo",
+      "nome": "New Piccolo®",
+      "linha_categoria": "Média Tensão — Cubículo blindado",
+      "url_origem": "https://www.gimi.com.br/newpiccolo",
+      "resumo": "Cubículo blindado modular classe 17,5kV/16kA",
+      "descricao": [
+        "Cubículo classe 17,5kV/16kA compacto com unidade normalizada de média tensão para distribuição elétrica secundária pública, privada e industrial, de uso ao tempo ou abrigado. É caracterizado por seccionadores de manobra isoladas a ar, assim como seus barramentos e sua referência normativa é a NBR-IEC-62271-200.",
+        "A linha NEW PICCOLO é um conjunto de manobra e comando em invólucro metálico com unidade normalizada de média tensão para distribuição elétrica secundária pública, privada e industrial. Ela é caracterizada por interruptores seccionadores de manobra isolados ar, assim como seus barramentos, e sua referência normativa é a NBR - IEC - 62271 - 200.",
+        "A linha New Piccolo é referência em qualidade e performance para soluções em cabines primárias atendendo aos critérios, normas e especificações de todas as concessionárias do Brasil."
+      ],
+      "caracteristicas": [
+        "Estrutura auto suportável em chapa de aço carbono pré zincado de 1,95 mm, para fixação pela base através de chumbadores;",
+        "Partes externas em chapa de 1,95 mm;",
+        "Sistema de aterramento completo dos cubículos;",
+        "Grades de proteção executadas em chapa pré-pintada 1,95 mm laranja RAL-2003 (quando solicitado);",
+        "Toda a chaparia é pré zincada 275 g/m² conforme NBR 7008 ZC;",
+        "Portas e fechamentos frontais em chapa de aço carbono pré-zincado 100 g/m² e pré-pintados na cor Munsell N6,5;",
+        "Barramentos em cobre eletrolítico dimensionados conforme NBR - IEC - 62271-200 com acabamento natural e identificados com fita colorida;",
+        "Isoladores em epóxy garantindo resistência aos esforços mecânicos oriundos de correntes de defeito em toda a extensão dos barramentos;",
+        "Dispositivos para lacre dispostos conforme normas das concessionárias;",
+        "Grau de proteção: IP-4X - uso abrigado e IP-54 - uso ao tempo."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características elétricas",
+          "itens": [
+            {
+              "nome": "Tensão nominal de isolamento (kV)",
+              "valor": "17,5"
+            },
+            {
+              "nome": "Tensão de ensaio com frequência industrial (kV/min)",
+              "valor": "38"
+            },
+            {
+              "nome": "Nível Básico de Impulso (kV)",
+              "valor": "95"
+            },
+            {
+              "nome": "Frequência nominal (Hz)",
+              "valor": "50 / 60"
+            },
+            {
+              "nome": "Corrente suportável nominal de curta duração (kA/1s)",
+              "valor": "16"
+            },
+            {
+              "nome": "Valor de crista da corrente suportável nominal (kA)",
+              "valor": "41,6"
+            },
+            {
+              "nome": "Classificação quanto ao arco interno (IAC)",
+              "valor": "IAC - AFL - 12,5 k A/1s - PM"
+            },
+            {
+              "nome": "Corrente nominal dos barramentos principais (A)",
+              "valor": "400 / 630"
+            },
+            {
+              "nome": "Corrente nominal das derivações (A)",
+              "valor": "400 / 630"
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de Tipo",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio CEPEL: DLA-7250/2019",
+              "valor": "Verificação de arco elétrico devido a falha interna: 630A - 16kA/17,5kV."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 82555 - SUPLEMENTO 1",
+              "valor": "Verificação de corrente suportável nominal de curta duração (16kA) e valor de crista nominal da corrente suportável (41,6kA)."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 82361 - SUPLEMENTO 2",
+              "valor": "Verificação de elevação de temperatura: 630A / 16kA."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 82427 - SUPLEMENTO 1",
+              "valor": "Verificação do grau de proteção: IP4X; Verificação do funcionamento mecânico."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 82491",
+              "valor": "Verificação de tensão suportável de impulso atmosférico; Verificação de tensão suportável 60Hz a seco."
+            },
+            {
+              "nome": "Classificação IAC",
+              "valor": "A-FL-12,5 kA/1s-PM"
+            }
+          ]
+        },
+        {
+          "grupo": "Configurações padronizadas",
+          "itens": [
+            {
+              "nome": "N-PICCO-2 (Transição)",
+              "valor": "Largura: 375mm; Altura: 1700mm; Profundidade: 920mm; Peso: 115kg — Componentes padrão: Jogo de barramentos; Isoladores portantes; Puxador; Placa de características; Barramento de terra; Fechamento de fundo."
+            },
+            {
+              "nome": "N-PICCO-4 (TP Auxiliar - Derivação Superior)",
+              "valor": "Largura: 600mm; Altura: 1700mm; Profundidade: 920mm; Peso: 185kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Fusíveis de M.T.; Jogo de TP’s; Janela de inspeção."
+            },
+            {
+              "nome": "N-PICCO-4.1 (TP Auxiliar - Derivação Inferior)",
+              "valor": "Largura: 375mm; Altura: 1700mm; Profundidade: 920mm; Peso: 185kg — Componentes padrão: Jogo de barramentos; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Fusíveis de M.T.; Jogo de TP’s."
+            },
+            {
+              "nome": "N-PICCO-5 (Medição - Entrada Lateral)",
+              "valor": "Largura: 1000mm; Altura: 1700mm; Profundidade: 920mm; Peso: 280kg — Componentes padrão: Jogo de barramentos; Isoladores portantes; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Jogo de suportes para TC’s e TP’s."
+            },
+            {
+              "nome": "N-PICCO-5.1 (Medição - Entrada inferior)",
+              "valor": "Largura: 1000mm; Altura: 1700mm; Profundidade: 920mm; Peso: 280kg — Componentes padrão: Jogo de barramentos; Isoladores portantes; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Jogo de suportes para TC’s e TP’s."
+            },
+            {
+              "nome": "N-PICCO-6 (Entrada sem chave seccionadora)",
+              "valor": "Largura: 375mm; Altura: 1700mm; Profundidade: 920mm; Peso: 110kg — Componentes padrão: Jogo de barramentos; Isoladores portantes; Puxador; Placa de características; Barramento de terra; Fechamento de fundo."
+            },
+            {
+              "nome": "N-PICCO-7 (Saída com chave seccionadora)",
+              "valor": "Largura: 600mm; Altura: 1700mm; Profundidade: 920mm; Peso: 180kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Janela de inspeção."
+            },
+            {
+              "nome": "N-PICCO-7.1 (Entrada com chave seccionadora)",
+              "valor": "Largura: 600mm; Altura: 1700mm; Profundidade: 920mm; Peso: 180kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Janela de inspeção."
+            },
+            {
+              "nome": "N-PICCO-8 (Saída com chave seccionadora fusível)",
+              "valor": "Largura: 600mm; Altura: 1700mm; Profundidade: 920mm; Peso: 200kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Fusíveis de M.T.; Janela de inspeção."
+            },
+            {
+              "nome": "N-PICCO-8.1 (Saída com base fusível)",
+              "valor": "Largura: 600mm; Altura: 1700mm; Profundidade: 920mm; Peso: 200kg — Componentes padrão: Jogo de barramentos; Base fusível; Puxador; Placa de características; Barramento de terra; Fechamento de fundo; Fusíveis de M.T.; Janela de inspeção."
+            },
+            {
+              "nome": "N-PICCO-9 (Saída com disjuntor)",
+              "valor": "Largura: 750mm; Altura: 1700mm; Profundidade: 920mm; Peso: 480kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Janela de inspeção; Fechamento de fundo; Disjuntor em vácuo ou SF6; Conjunto de TP’s; Conjunto de TC’s."
+            },
+            {
+              "nome": "N-PICCO-9.1 (Disjuntor geral)",
+              "valor": "Largura: 750mm; Altura: 1700mm; Profundidade: 920mm; Peso: 480kg — Componentes padrão: Jogo de barramentos; Seccionador; Puxador; Placa de características; Barramento de terra; Janela de inspeção; Fechamento de fundo; Disjuntor em vácuo ou SF6; Conjunto de TP’s; Conjunto de TC’s."
+            },
+            {
+              "nome": "N-PICCO-9.2 (Saída com disjuntor sem seccionadora)",
+              "valor": "Largura: 750mm; Altura: 1700mm; Profundidade: 920mm; Peso: 480kg — Componentes padrão: Jogo de barramentos; Puxador; Placa de características; Barramento de terra; Janela de inspeção; Fechamento de fundo; Disjuntor em vácuo ou SF6; Conjunto de TP’s; Conjunto de TC’s."
+            },
+            {
+              "nome": "N-PICCO-9.3 (Disjuntor geral sem seccionadora)",
+              "valor": "Largura: 750mm; Altura: 1700mm; Profundidade: 920mm; Peso: 480kg — Componentes padrão: Jogo de barramentos; Puxador; Placa de características; Barramento de terra; Janela de inspeção; Fechamento de fundo; Disjuntor em vácuo ou SF6; Conjunto de TP’s; Conjunto de TC’s."
+            },
+            {
+              "nome": "Nota",
+              "valor": "Para uso ao tempo, considerar profundidade de 1320mm"
+            }
+          ]
+        },
+        {
+          "grupo": "Acessórios",
+          "itens": [
+            {
+              "nome": "Dispositivo de proteção contra surtos (DPS’s)",
+              "valor": ""
+            },
+            {
+              "nome": "Multimedidores",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores para monitoramento de temperatura",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores de monitoramento contra arco interno",
+              "valor": ""
+            },
+            {
+              "nome": "Sinalização de circuito energizado",
+              "valor": ""
+            },
+            {
+              "nome": "Relé de proteção",
+              "valor": ""
+            },
+            {
+              "nome": "Relé/sensor fuga terra",
+              "valor": ""
+            },
+            {
+              "nome": "Controlador Lógico Programável (CLP)",
+              "valor": ""
+            }
+          ]
+        },
+        {
+          "grupo": "Principais Concessionárias",
+          "itens": [
+            {
+              "nome": "ENEL",
+              "valor": ""
+            },
+            {
+              "nome": "CPFL",
+              "valor": ""
+            },
+            {
+              "nome": "RGE",
+              "valor": ""
+            },
+            {
+              "nome": "Grupo Neoenergia",
+              "valor": ""
+            },
+            {
+              "nome": "ELEKTRO",
+              "valor": ""
+            },
+            {
+              "nome": "COELBA",
+              "valor": ""
+            },
+            {
+              "nome": "CELPE",
+              "valor": ""
+            },
+            {
+              "nome": "COSERN",
+              "valor": ""
+            },
+            {
+              "nome": "CEB",
+              "valor": ""
+            },
+            {
+              "nome": "ENERGISA",
+              "valor": ""
+            },
+            {
+              "nome": "EQUATORIAL",
+              "valor": ""
+            },
+            {
+              "nome": "EDP SP",
+              "valor": ""
+            },
+            {
+              "nome": "EDP ES",
+              "valor": ""
+            },
+            {
+              "nome": "LIGHT",
+              "valor": ""
+            },
+            {
+              "nome": "AMAZONAS ENERGIA",
+              "valor": ""
+            },
+            {
+              "nome": "CEMIG",
+              "valor": ""
+            },
+            {
+              "nome": "COPEL",
+              "valor": ""
+            },
+            {
+              "nome": "CELESC",
+              "valor": ""
+            },
+            {
+              "nome": "CHESP",
+              "valor": ""
+            },
+            {
+              "nome": "COCEL",
+              "valor": ""
+            },
+            {
+              "nome": "EFLIC - JOÃO CESA",
+              "valor": ""
+            },
+            {
+              "nome": "EFLUL",
+              "valor": ""
+            },
+            {
+              "nome": "MUX ENERGIA",
+              "valor": ""
+            },
+            {
+              "nome": "RORAIMA ENERGIA",
+              "valor": ""
+            },
+            {
+              "nome": "UHENPAL - NOVA PALMA",
+              "valor": ""
+            },
+            {
+              "nome": "ELFSM - SANTA MARIA",
+              "valor": ""
+            },
+            {
+              "nome": "SULGIPE",
+              "valor": ""
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "Indústrias",
+        "Energia",
+        "Infraestrutura",
+        "Telecomunicações",
+        "Data Centers",
+        "Cabine Primária Simplificada (Até 300kVA)",
+        "Cabine Primária Convencional (Igual ou superior a 300kVA)",
+        "Solução para instalação ao tempo"
+      ],
+      "normas": [
+        "NBR-IEC-62271-200",
+        "NBR 7008"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/e1e52f_5bd88b0ee1c04b8da1954aec89094a9e.pdf",
+      "imagens": [
+        {
+          "arquivo": "new-piccolo-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_386ac1ddcb46458ca19dd59d6c4e31c2~mv2.png",
+          "alt": "Conjunto de cubículos New Piccolo com módulo de medição, painel de comando superior e logotipo GIMI",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "new-piccolo-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_5bd88b0ee1c04b8da1954aec89094a9e.pdf (p.2)",
+          "alt": "Cubículos New Piccolo instalados em sala elétrica com demarcação de piso amarela",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "new-piccolo-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_5bd88b0ee1c04b8da1954aec89094a9e.pdf (p.5)",
+          "alt": "Ensaio de arco interno do cubículo New Piccolo em laboratório, com indicadores ao redor do painel",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "Site traz só título, subtítulo e um parágrafo; demais dados do catálogo PDF (texto extraível, verbatim). O PDF repete por engano, na seção 'Acessórios', o parágrafo sobre IAC — não incluído como descrição. Configurações padronizadas foram condensadas numa linha por módulo (dimensões + componentes padrão). Apenas 3 fotos de produto aproveitáveis (as demais do PDF são capa com texto e desenhos 2D)."
+    },
+    {
+      "slug": "maggiore",
+      "nome": "Maggiore®",
+      "linha_categoria": "Média Tensão — Cubículo modular com disjuntor extraível (Metal-Clad)",
+      "url_origem": "https://www.gimi.com.br/maggiore",
+      "resumo": "Cubículo modular com disjuntor extraível até 2500A 17,5 kV/36kV",
+      "descricao": [
+        "Cubículo modular com disjuntor extraível até 2500A, 31,5kA/1s em 17,5kV e em 36kV para uso abrigado e ao tempo, certificado conforme NBR-IEC-62271-200. Possui ensaios realizados de acordo com a última revisão das normas e aprovado por laboratórios de organizações independentes de reconhecimento internacional, IEE-USP, SVEPPI-ACCREDIA e CEPEL.",
+        "A linha de cubículos Maggiore tipo Metal-Clad extraível 31,5kA de 2,3kV até 36,2kV para uso abrigado e ao tempo, é fruto da combinação de mais de 50 anos de experiência em média tensão e da crescente necessidade de: Atendimento às normas internacionais e características de alta potência; Confiabilidade e facilidade de manutenção para assegurar a máxima continuidade do serviço; Simplicidade de colocação em serviço, de operação e de manutenção; Segurança dos operadores.",
+        "O conduto de saída dos gases situa-se acima do quadro e percorre-o ao longo de todo o seu comprimento. Cada compartimento de potência possui um defletor posicionado no seu topo. A pressão gerada pela expansão dos gases proveniente da falta provoca a sua abertura, permitindo a passagem dos gases no conduto. Os gases quentes e as partículas incandescentes criadas pelo arco devem ser normalmente evacuados do local."
+      ],
+      "caracteristicas": [
+        "A linha Maggiore possui ensaios de tipo realizados de acordo com a última revisão das normas NBR-IEC 62271-200:2007 IEC 62271-200, e aprovados por laboratório de organizações independente de reconhecimento internacional, IEE-USP e SVEPPI-ACCREDIA;",
+        "Quadro blindado com isolamento a ar;",
+        "Desenvolvido para garantir a máxima continuidade do serviço na distribuição de média tensão;",
+        "Compartimentos segregados através de participações metálicas;",
+        "Adequado para a distribuição da média tensão;",
+        "Inserção e extração dos aparelhos com a porta fechada;",
+        "Unidades funcionais garantidas à prova de arco interno (IAC);",
+        "Estrutura modular que facilita a composição com dimensões reduzidas para uso eficaz do espaço;",
+        "Operações de manobra e manutenção exequíveis pela parte frontal;",
+        "Atividades de manutenção simples e reduzidas;",
+        "Completo sistema de intertravamentos mecânicos de segurança em conformidade com a NR-10;",
+        "Seccionador de aterramento com pleno poder de fechamento intertravado com o disjuntor associado;",
+        "A barra de terra é realizada em cobre eletrolítico e percorre longituadinalmente todo o quadro, garantindo desta forma a máxima segurança para os operadores e para a instalação;",
+        "Grau de proteção - uso interno IP-4X;",
+        "Grau de proteção - uso exteno IP-54."
+      ],
+      "especificacoes": [
+        {
+          "grupo": "Características construtivas (valores para 17,5 kV / 24 kV / 36,2 kV)",
+          "itens": [
+            {
+              "nome": "Tensão nominal (kV)",
+              "valor": "17,5 / 24 / 36,2"
+            },
+            {
+              "nome": "Tensão nominal de isolamento (kV)",
+              "valor": "17,5 / 24 / 36,2"
+            },
+            {
+              "nome": "Tensão de teste com freq. Industrial (kV/min)",
+              "valor": "38 / 50 / 70"
+            },
+            {
+              "nome": "Tensão de impulso suportável (kV)",
+              "valor": "95 / 125 / 170"
+            },
+            {
+              "nome": "Frequência Nominal (Hz)",
+              "valor": "56-60 / 56-60 / 56-60"
+            },
+            {
+              "nome": "Corrente nominal de curta duração admissível (kA/1s)",
+              "valor": "...31,5 / ...31,5 / ...31,5"
+            },
+            {
+              "nome": "Corrente de crista (kA)",
+              "valor": "...81,9 / ...81,9 / ...81,9"
+            },
+            {
+              "nome": "Corrente de resistência ao arco interno (kA/1s)",
+              "valor": "...31,5 / ...31,5 / ...31,5"
+            },
+            {
+              "nome": "Corrente nominal dos barramentos principais (A)",
+              "valor": "...4000 / ...4000 / ...3150"
+            },
+            {
+              "nome": "Corrente nominal das derivações (A)",
+              "valor": "630, 1250, 2500 (nas três classes de tensão)"
+            },
+            {
+              "nome": "Grau de proteção - uso abrigado",
+              "valor": "IP-4X"
+            },
+            {
+              "nome": "Grau de proteção - uso ao tempo",
+              "valor": "IP-54"
+            }
+          ]
+        },
+        {
+          "grupo": "Dimensões (630A / 1250A / 2500A)",
+          "itens": [
+            {
+              "nome": "17,5kV — Altura (mm)",
+              "valor": "2300 / 2300 / 2300"
+            },
+            {
+              "nome": "17,5kV — Largura (mm)",
+              "valor": "700 / 700 / 1000"
+            },
+            {
+              "nome": "17,5kV — Profundidade (mm)",
+              "valor": "1800 / 1800 / 1800"
+            },
+            {
+              "nome": "24kV — Altura (mm)",
+              "valor": "2300 / 2300 / 2300"
+            },
+            {
+              "nome": "24kV — Largura (mm)",
+              "valor": "1000 / 1000 / 1150"
+            },
+            {
+              "nome": "24kV — Profundidade (mm)",
+              "valor": "2000 / 2000 / 2000"
+            },
+            {
+              "nome": "36kV — Altura (mm)",
+              "valor": "2650 / 2650 / 2650"
+            },
+            {
+              "nome": "36kV — Largura (mm)",
+              "valor": "1250 / 1250 / 1250"
+            },
+            {
+              "nome": "36kV — Profundidade (mm)",
+              "valor": "2600 / 2600 / 2600"
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de tipo — MAGGIORE (25kA)",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio CEPEL: DVLA-16637/06-C",
+              "valor": "Verificação de arco elétrico devido a falha interna: 1250A - 25kA/13,8kV."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 60972",
+              "valor": "Verificação de corrente suportável nominal de curta duração (25kA) e valor de crista nominal da corrente suportável (65kA)."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 60684",
+              "valor": "Verificação de elevação de temperatura em 60Hz: 1200A / 25kA."
+            }
+          ]
+        },
+        {
+          "grupo": "Ensaios de tipo — MAGGIORE (31,5kA)",
+          "itens": [
+            {
+              "nome": "Relatório de ensaio IEE-USP: 75371",
+              "valor": "Verificação de corrente suportável nominal de curta duração (31,5kA) e valor de crista nominal da corrente suportável (81,9kA)."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 71842",
+              "valor": "Verificação de elevação de temperatura em 60Hz: 1250A / 31,5kA."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 71843",
+              "valor": "Verificação de elevação de temperatura em 60Hz: 2500A / 31,5kA."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 75299",
+              "valor": "Verificação do grau de proteção: IP4X; Verificação do funcionamento mecânico."
+            },
+            {
+              "nome": "Relatório de ensaio IEE-USP: 71634",
+              "valor": "Verificação de tensão suportável de impulso atmosférico; Verificação de tensão suportável 60Hz a seco."
+            },
+            {
+              "nome": "Relatório de ensaio SVEPPI LABORATORY: RP LS 12/172",
+              "valor": "Verificação de arco elétrico devido a falha interna: 1250A / 2500A - 31,5kA/13,8kV."
+            }
+          ]
+        },
+        {
+          "grupo": "Classificação e categorias",
+          "itens": [
+            {
+              "nome": "Classificação IAC",
+              "valor": "A-FLR-31,5 kA - 1s - PM."
+            },
+            {
+              "nome": "Categoria de continuidade do serviço",
+              "valor": "LSC2B-PM"
+            },
+            {
+              "nome": "Compartimentos",
+              "valor": "Compartimento dos barramentos; Compartimento do disjuntor; Compartilhamento de cabos; Compartilhamento de Comando"
+            }
+          ]
+        },
+        {
+          "grupo": "Materiais / Chave de terra",
+          "itens": [
+            {
+              "nome": "Disjuntor",
+              "valor": "Disjuntor isolado a vácuo, em conformidade com a mais alta classe de durabilidade elétrica (classe E2) e mecânica (classe M2) de acordo com a IEC 60056 - Tipo VD4 ou HD4 - Fabricação ABB."
+            },
+            {
+              "nome": "Disjuntor em SF6",
+              "valor": "sob consulta."
+            },
+            {
+              "nome": "Chave de terra — Capacidade de Estabelecimento",
+              "valor": "31,5 kA"
+            },
+            {
+              "nome": "Chave de terra — Tensão Nominal",
+              "valor": "17,5 kV"
+            }
+          ]
+        },
+        {
+          "grupo": "Intertravamentos de segurança de série (Bloqueio — Condição)",
+          "itens": [
+            {
+              "nome": "1A Extração/inserção de aparelhos",
+              "valor": "Aparelho fechado"
+            },
+            {
+              "nome": "1B Fechamento dos aparelhos",
+              "valor": "Carro em posição intermediária"
+            },
+            {
+              "nome": "2A Inserção dos aparelhos",
+              "valor": "Plugue multicontato dos aparelhos removido"
+            },
+            {
+              "nome": "2B Remoção do plugue multicontato dos aparelhos",
+              "valor": "Carro em posição de serviço ou intermediária"
+            },
+            {
+              "nome": "3A Fechamento do seccionador de aterramento",
+              "valor": "Carro em posição de serviço ou intermediária"
+            },
+            {
+              "nome": "3B Inserção dos aparelhos",
+              "valor": "Seccionador de aterramento fechado"
+            }
+          ]
+        },
+        {
+          "grupo": "Configurações padronizadas",
+          "itens": [
+            {
+              "nome": "1 - MÓDULO DE DISJUNTOR BÁSICO DE ENTRADA OU SAÍDA",
+              "valor": "LARGURA: 750mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • PUXADOR; • PLACA DE CARACTERÍSTICAS; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO; • DISJUNTOR EXTRAÍVEL À VÁCUO; • CONJUNTO DE TC’S; • CONJUNTO DE COMANDO."
+            },
+            {
+              "nome": "2 - MÓDULO DE DISJUNTOR COM MEDIÇÃO E TP’s",
+              "valor": "LARGURA: 750mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • PUXADOR; • PLACA DE CARACTERÍSTICAS; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO; • DISJUNTOR EXTRAÍVEL À VÁCUO • CONJUNTO DE TC’S; • CONJUNTO DE TP’S; • CONJUNTO DE COMANDO."
+            },
+            {
+              "nome": "3 - MÓDULO DE DISJUNTOR COM MEDIÇÃO E TP’s EXTRAÍVEIS",
+              "valor": "LARGURA: 850mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • PUXADOR; • PLACA DE CARACTERÍSTICAS; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO; • DISJUNTOR EXTRAÍVEL À VÁCUO; • CONJUNTO DE TC’S; • CONJUNTO DE TP’S • JOGO DE SUPORTES PARA TC’S E TP’S; • CONJUNTO DE COMANDO."
+            },
+            {
+              "nome": "4 - MÓDULO DE DISJUNTOR COM MEDIÇÃO, TP’s, CHAVE DE ATERRAMENTO E PARA-RAIO",
+              "valor": "LARGURA: 750mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • PUXADOR; • PLACA DE CARACTERÍSTICAS; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO; • DISJUNTOR EXTRAÍVEL À VÁCUO; • CHAVE TERRA; • CONJUNTO DE TC’S; • CONJUNTO DE TP’S; • CONJUNTO DE COMANDO; • PARA-RAIO."
+            },
+            {
+              "nome": "5 - MÓDULO DE CHAVE SECCIONADORA",
+              "valor": "LARGURA: 850mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • SECCIONADOR; • PUXADOR; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO."
+            },
+            {
+              "nome": "6 - MÓDULO DE CHAVE SECCIONADORA FUSÍVEL",
+              "valor": "LARGURA: 850mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • SECCIONADOR; • PUXADOR; • BARRAMENTO DE TERRA • FECHAMENTO DE FUNDO; • FUSÍVEIS."
+            },
+            {
+              "nome": "7 - MÓDULO DE TRANSIÇÃO DE BARRAS",
+              "valor": "LARGURA: 500mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • ISOLADORES PORTANTES; • PUXADOR; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO."
+            },
+            {
+              "nome": "8 - MÓDULO DE MEDIÇÃO",
+              "valor": "LARGURA: 1000mm; ALTURA: 2300mm; PROFUNDIDADE: 1800mm — COMPONENTES PADRÃO: • JOGO DE BARRAMENTOS; • ISOLADORES PORTANTES; • PUXADOR; • BARRAMENTO DE TERRA; • FECHAMENTO DE FUNDO; • JOGO DE SUPORTE PARA TC’S E TP’S."
+            }
+          ]
+        },
+        {
+          "grupo": "Acessórios (É possível agregar os seguintes acessórios)",
+          "itens": [
+            {
+              "nome": "Dispositivo de proteção contra surtos (DPS’s);",
+              "valor": ""
+            },
+            {
+              "nome": "Multimedidores;",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores para monitoramento de temperatura;",
+              "valor": ""
+            },
+            {
+              "nome": "Sensores de monitoramento contra arco interno;",
+              "valor": ""
+            },
+            {
+              "nome": "Sinalização de circuito energizado;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé de proteção;",
+              "valor": ""
+            },
+            {
+              "nome": "Relé/sensor fuga terra;",
+              "valor": ""
+            },
+            {
+              "nome": "Controlador Lógico Programável (CLP);",
+              "valor": ""
+            },
+            {
+              "nome": "Seccionador de aterramento para o sistema de barramentos;",
+              "valor": ""
+            },
+            {
+              "nome": "Entrada em conduto por cima para realizar interconexões em barra entre quadros diferentes.",
+              "valor": ""
+            }
+          ]
+        }
+      ],
+      "aplicacoes": [
+        "A linha Maggiore que possui sua classe de tensão 17,5kV atendendo até 31,5kA, é destinada para realizar a interface com subestações de alta tensão (a partir de 69kV)."
+      ],
+      "normas": [
+        "NBR-IEC-62271-200",
+        "NBR-IEC 62271-200:2007 IEC 62271-200",
+        "IEC 60056",
+        "NR-10"
+      ],
+      "catalogo_pdf": "https://www.grupogimi.com.br/_files/ugd/e1e52f_d9e262ddd1bc45e9b2cf44f757c828f8.pdf",
+      "imagens": [
+        {
+          "arquivo": "maggiore-1.png",
+          "origem": "https://static.wixstatic.com/media/e1e52f_9d3dd3d2baa9474faad174b5e24f042a~mv2.png",
+          "alt": "Conjunto de cubículos Maggiore em vista lateral/perspectiva, com quatro colunas e diagrama sinóptico",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "maggiore-2.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_d9e262ddd1bc45e9b2cf44f757c828f8.pdf (p.1)",
+          "alt": "Longa fileira de cubículos Maggiore Metal-Clad com relés de proteção e sinópticos vermelhos",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "maggiore-3.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_d9e262ddd1bc45e9b2cf44f757c828f8.pdf (p.2)",
+          "alt": "Vista frontal de três cubículos Maggiore com compartimentos de disjuntor e cabos",
+          "tipo": "produto"
+        },
+        {
+          "arquivo": "maggiore-4.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_d9e262ddd1bc45e9b2cf44f757c828f8.pdf (p.7)",
+          "alt": "Render de cubículos Maggiore instalados em sala com conduto de saída de gases para cima",
+          "tipo": "instalacao"
+        },
+        {
+          "arquivo": "maggiore-5.jpg",
+          "origem": "https://www.grupogimi.com.br/_files/ugd/e1e52f_d9e262ddd1bc45e9b2cf44f757c828f8.pdf (p.12)",
+          "alt": "Renders do invólucro do cubículo Maggiore fechado e com porta aberta",
+          "tipo": "detalhe"
+        }
+      ],
+      "observacoes": "Site traz só título, subtítulo e um parágrafo; demais dados vêm do catálogo PDF (texto extraível, verbatim). A tabela de tensões/correntes aparece no PDF sob o título 'Características construtivas' (mantido). Frequência '56-60' está assim no original (provável erro para 50-60). 'participações metálicas', 'longituadinalmente', 'exteno' e 'Compartilhamento' (por compartimento) estão assim no original. Intertravamentos por chaves (6–10) e por cadeados (11–15) não foram incluídos — o texto do item 8 no PDF está corrompido. Fotos de disjuntores ABB VD4/HD4 do PDF não foram usadas (componentes de terceiros)."
+    }
+  ]
+}
